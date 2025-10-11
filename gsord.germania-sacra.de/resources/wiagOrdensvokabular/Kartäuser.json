@@ -2,8 +2,8 @@
   "id": "https://gsord.germania-sacra.de/resources/wiagOrdensvokabular/Kartäuser",
   "type": "Concept",
   "prefLabel": {
-    "en": "Carthusians",
     "de": "Kartäuser",
+    "en": "Carthusians",
     "la": "Ordo Cartusiensis",
     "nl": "Kartuizers"
   },

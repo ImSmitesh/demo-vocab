@@ -2,8 +2,8 @@
   "id": "https://gsord.germania-sacra.de/resources/Regularkanoniker",
   "type": "Concept",
   "prefLabel": {
-    "en": "Canons Regular",
     "de": "Regularkanoniker",
+    "en": "Canons Regular",
     "la": "Canonici regulares",
     "nl": "Reguliere kanunniken"
   },
@@ -17,8 +17,8 @@
     {
       "id": "https://gsord.germania-sacra.de/resources/Brueder_vom_gemeinsamen_Leben",
       "prefLabel": {
-        "en": "Brethren of the Common Life",
         "de": "Brüder vom gemeinsamen Leben",
+        "en": "Brethren of the Common Life",
         "la": "Fratres communis vitae",
         "nl": "Broeders des gemenen levens"
       }
@@ -26,8 +26,8 @@
     {
       "id": "https://gsord.germania-sacra.de/resources/451fd22c-3136-436f-a514-12d87e2d2ca9",
       "prefLabel": {
-        "en": "Premonstratensians",
         "de": "Prämonstratenser",
+        "en": "Premonstratensians",
         "la": "Ordo Praemonstratensis",
         "nl": "Norbertijnen"
       }
@@ -35,8 +35,8 @@
     {
       "id": "https://gsord.germania-sacra.de/resources/Boehmische_Kreuzherren",
       "prefLabel": {
-        "en": "Knights of the Cross with the Red Star",
         "de": "Böhmische Kreuzherren",
+        "en": "Knights of the Cross with the Red Star",
         "la": "Ordo militaris Crucigerorum cum rubea stella",
         "nl": "Orde van het Kruis met de Rode Ster"
       }
@@ -44,8 +44,8 @@
     {
       "id": "https://gsord.germania-sacra.de/resources/7bc25b4d-cea9-4c35-aa92-c035b54ad192",
       "prefLabel": {
-        "en": "Canons Regular of St Augustine",
         "de": "Augustinerchorherren",
+        "en": "Canons Regular of St Augustine",
         "la": "Canonici Augustiniani",
         "nl": "Regulieren van Sint-Augustin"
       }
@@ -53,8 +53,8 @@
     {
       "id": "https://gsord.germania-sacra.de/resources/8edca519-ecb2-4290-8bbc-0a6f0e4db459",
       "prefLabel": {
-        "en": "Teutonic Order",
         "de": "Deutscher Orden",
+        "en": "Teutonic Order",
         "la": "Ordo Teutonicus",
         "nl": "Duitse Orde"
       }
@@ -62,8 +62,8 @@
     {
       "id": "https://gsord.germania-sacra.de/resources/Kreuzherren_vom_Heiligen_Kreuz",
       "prefLabel": {
-        "en": "Croziers",
         "de": "Kreuzherren vom Heiligen Kreuz",
+        "en": "Croziers",
         "la": "Ordo Sanctae Crucis",
         "nl": "Kruisheren"
       }

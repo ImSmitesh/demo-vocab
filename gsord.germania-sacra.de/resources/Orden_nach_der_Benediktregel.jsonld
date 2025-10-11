@@ -11,23 +11,23 @@
     {
       "id": "https://gsord.germania-sacra.de/resources/Coelestiner",
       "prefLabel": {
-        "en": "Celestines",
         "de": "Coelestiner",
+        "en": "Celestines",
         "la": "Ordo Sancti Benedicti Coelestinensis"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/Coelestinerinnen",
       "prefLabel": {
-        "en": "Celestine Nuns",
-        "de": "Coelestinerinnen"
+        "de": "Coelestinerinnen",
+        "en": "Celestine Nuns"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/Kartäuser",
       "prefLabel": {
-        "en": "Carthusians",
         "de": "Kartäuser",
+        "en": "Carthusians",
         "la": "Ordo Cartusiensis",
         "nl": "Kartuizers"
       }
@@ -35,15 +35,15 @@
     {
       "id": "https://gsord.germania-sacra.de/resources/559c61a0-8e35-475b-b724-3807410b768f",
       "prefLabel": {
-        "en": "Carthusian nuns",
-        "de": "Kartäuserinnen"
+        "de": "Kartäuserinnen",
+        "en": "Carthusian nuns"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/Zisterzienserinnen",
       "prefLabel": {
-        "en": "Cistercian Nuns",
         "de": "Zisterzienserinnen",
+        "en": "Cistercian Nuns",
         "la": "Ordo Cisterciensis",
         "nl": "Cisterciënzerinnen"
       }
@@ -57,8 +57,8 @@
     {
       "id": "https://gsord.germania-sacra.de/resources/8367c043-21fc-428d-9837-756fc4b9dae7",
       "prefLabel": {
-        "en": "Cistercians",
         "de": "Zisterzienser",
+        "en": "Cistercians",
         "la": "Ordo Cisterciensis",
         "nl": "Cisterciënzers"
       }
@@ -66,24 +66,24 @@
     {
       "id": "https://gsord.germania-sacra.de/resources/8ef16908-f7b6-492d-87b9-bd5a39e5aa2f",
       "prefLabel": {
-        "en": "Hermits of St William",
         "de": "Wilhelmiten",
+        "en": "Hermits of St William",
         "nl": "Wilhelmieten"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/a55c03bf-e272-4d31-bc6f-c896defefc24",
       "prefLabel": {
-        "en": "Magdalenes",
         "de": "Magdalenerinnen",
+        "en": "Magdalenes",
         "nl": "Magdalenen"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/bd5ca74b-e007-43af-8db2-b7cae17ff34f",
       "prefLabel": {
-        "en": "Benedictine Nuns",
         "de": "Benediktinerinnen",
+        "en": "Benedictine Nuns",
         "la": "Ordo Sancti Benedicti",
         "nl": "Benedictinessen"
       }
@@ -91,8 +91,8 @@
     {
       "id": "https://gsord.germania-sacra.de/resources/Benediktiner",
       "prefLabel": {
-        "en": "Benedictines",
         "de": "Benediktiner",
+        "en": "Benedictines",
         "la": "Ordo Sancti Benedicti",
         "nl": "Benedictijnen"
       }
@@ -100,8 +100,8 @@
     {
       "id": "https://gsord.germania-sacra.de/resources/ec093aef-8b47-4bf7-bd0e-dfdc1e100789",
       "prefLabel": {
-        "en": "Trappists",
         "de": "Trappisten",
+        "en": "Trappists",
         "la": "Ordo Cisterciensium Reformatorum"
       }
     }

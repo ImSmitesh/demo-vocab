@@ -2,8 +2,8 @@
   "id": "https://gsord.germania-sacra.de/resources/wiagOrdensvokabular/Coelestiner",
   "type": "Concept",
   "prefLabel": {
-    "en": "Celestines",
     "de": "Coelestiner",
+    "en": "Celestines",
     "la": "Ordo Sancti Benedicti Coelestinensis"
   },
   "altLabel": {

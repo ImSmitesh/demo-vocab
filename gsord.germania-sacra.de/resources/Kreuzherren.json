@@ -11,16 +11,16 @@
     {
       "id": "https://gsord.germania-sacra.de/resources/ChorherrenVomHeiligenGrab",
       "prefLabel": {
-        "en": "Canons Regular of the Holy Sepulchre",
         "de": "Chorherren vom Heiligen Grab",
+        "en": "Canons Regular of the Holy Sepulchre",
         "nl": "Sepulcrijnen"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/Kreuzherren_vom_Heiligen_Kreuz",
       "prefLabel": {
-        "en": "Croziers",
         "de": "Kreuzherren vom Heiligen Kreuz",
+        "en": "Croziers",
         "la": "Ordo Sanctae Crucis",
         "nl": "Kruisheren"
       }

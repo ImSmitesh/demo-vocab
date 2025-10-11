@@ -2,17 +2,17 @@
   "id": "https://gsord.germania-sacra.de/resources/Orden_nach_der_Augustinusregel",
   "type": "Concept",
   "prefLabel": {
-    "en": "Augustinian Orders",
     "de": "Orden_nach_der_Augustinusregel",
+    "en": "Augustinian Orders",
     "nl": "Augustijnen"
   },
   "altLabel": {
-    "en": [
-      "Augustinians"
-    ],
     "de": [
       "Augustiner",
       "Augustinergemeinschaft"
+    ],
+    "en": [
+      "Augustinians"
     ]
   },
   "definition": {
@@ -25,8 +25,8 @@
     {
       "id": "https://gsord.germania-sacra.de/resources/Alexianerinnen",
       "prefLabel": {
-        "en": "Alexian Sisters",
         "de": "Cellitinnen",
+        "en": "Alexian Sisters",
         "nl": "Cellezusters"
       }
     },
@@ -40,8 +40,8 @@
     {
       "id": "https://gsord.germania-sacra.de/resources/d7904f4f-e57b-4f7e-b38f-9663ad7126a1",
       "prefLabel": {
-        "en": "Alexians",
         "de": "Alexianer",
+        "en": "Alexians",
         "la": "Congregatio Fratrum Alexianorum",
         "nl": "Alexianen"
       }

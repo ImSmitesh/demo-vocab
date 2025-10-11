@@ -8,16 +8,16 @@
     {
       "id": "https://gsord.germania-sacra.de/resources/wiagOrdensvokabular/Coelestiner",
       "prefLabel": {
-        "en": "Celestines",
         "de": "Coelestiner",
+        "en": "Celestines",
         "la": "Ordo Sancti Benedicti Coelestinensis"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/wiagOrdensvokabular/Kartäuser",
       "prefLabel": {
-        "en": "Carthusians",
         "de": "Kartäuser",
+        "en": "Carthusians",
         "la": "Ordo Cartusiensis",
         "nl": "Kartuizers"
       }

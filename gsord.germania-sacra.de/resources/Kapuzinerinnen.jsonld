@@ -2,18 +2,18 @@
   "id": "https://gsord.germania-sacra.de/resources/Kapuzinerinnen",
   "type": "Concept",
   "prefLabel": {
-    "en": "Capuchiness",
     "de": "Kapuzinerinnen",
+    "en": "Capuchiness",
     "nl": "Kapucijner Nons",
     "it": "Cappuccine"
   },
   "altLabel": {
+    "de": [
+      "Kapuzinessen"
+    ],
     "en": [
       "Capuchin Nuns",
       "Kapuciness"
-    ],
-    "de": [
-      "Kapuzinessen"
     ]
   },
   "definition": {
