@@ -7,7 +7,7 @@
 @prefix vann: <http://purl.org/vocab/vann/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-# Concept Scheme
+#Concept Scheme
 gsord: a skos:ConceptScheme ;
     dct:title "WIAG Ordensvokabular"@de ;
     dc:creator "WIAG Project"@de ;
@@ -19,7 +19,7 @@ gsord: a skos:ConceptScheme ;
     vann:preferredNamespaceUri "https://gsord.germania-sacra.de/resources/wiagOrdensvokabular/" ;
     skos:hasTopConcept gsord:Coelestiner, gsord:Kartäuser, gsord:Brueder_vom_gemeinsamen_Leben, gsord:Alexianerinnen, gsord:Redemptoristen .
 
-# Concepts
+#Concepts
 gsord:Coelestiner a skos:Concept .
 gsord:Coelestiner skos:prefLabel "Celestines"@en, "Coelestiner"@de, "Ordo Sancti Benedicti Coelestinensis"@la .
 gsord:Coelestiner skos:altLabel "Cölestiner"@de, "Damianisten"@de, "Einsiedler vom hl. Damian"@de, "OSBCoel"@la .
