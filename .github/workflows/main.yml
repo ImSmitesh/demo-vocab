@@ -23,6 +23,7 @@ jobs:
       - name: Find TTL files
         id: find-ttl
         run: |
+          rm -rf dist
           ttl_files=$(find . -name '*.ttl' -printf '"%p",' | sed 's/,$//')
           echo "ttl_files=$ttl_files" 
           echo "ttl_files=$ttl_files" >> "$GITHUB_ENV"
