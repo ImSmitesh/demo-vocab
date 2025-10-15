@@ -963,7 +963,7 @@ gsord:Kapuzinerinnen a skos:Concept;
  skos:topConceptOf gsord:.
 
 gsord:Barmherzige_Brueder a skos:Concept;
- skos:notation "GSReligiousOrder062"@en ;
+ skos:notation "GSReligiousOrder062" ;
  skos:prefLabel "Barmherzige Brüder"@de ;
  skos:definition "Bezeichnung für verschiedene Brüdergemeinschaften, deren Mitglieder vorwiegend in der Kranken- und Altenpflege tätig sind."@de ;
  skos:exactMatch <https://database.factgrid.de/wiki/Item:Q1207228>;
