@@ -1,9 +1,25 @@
 {
-  "id": "https://gsord.germania-sacra.de/resources/Semireligiöse_M",
+  "id": "https://gsord.germania-sacra.de/resources/Brudergemeinschaft",
   "type": "Concept",
   "prefLabel": {
-    "de": "Semireligiöse Gemeinschaft (männlich)"
+    "de": "Brudergemeinschaft",
+    "en": "Fraternal orders",
+    "nl": "Broederschap",
+    "fr": "Fraternité"
   },
+  "altLabel": {
+    "de": [
+      "Bruderschaft"
+    ]
+  },
+  "notation": [
+    "GSReligiousOrder106"
+  ],
+  "exactMatch": [
+    {
+      "id": "https://database.factgrid.de/entity/Q636405"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://gsord.germania-sacra.de/resources/a"
