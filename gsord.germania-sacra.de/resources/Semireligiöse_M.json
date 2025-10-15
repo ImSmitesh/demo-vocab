@@ -4,17 +4,6 @@
   "prefLabel": {
     "de": "Semireligiöse Gemeinschaft (männlich)"
   },
-  "narrower": [
-    {
-      "id": "https://gsord.germania-sacra.de/resources/Brueder_vom_gemeinsamen_Leben",
-      "prefLabel": {
-        "de": "Brüder vom gemeinsamen Leben",
-        "en": "Brethren of the Common Life",
-        "la": "Fratres communis vitae",
-        "nl": "Broeders des gemenen levens"
-      }
-    }
-  ],
   "inScheme": [
     {
       "id": "https://gsord.germania-sacra.de/resources/a"

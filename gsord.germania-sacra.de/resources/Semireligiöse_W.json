@@ -7,16 +7,6 @@
   "notation": [
     "GSReligiousOrder179"
   ],
-  "narrower": [
-    {
-      "id": "https://gsord.germania-sacra.de/resources/Beginen",
-      "prefLabel": {
-        "de": "Beginen",
-        "en": "Beguines",
-        "nl": "Begijnen"
-      }
-    }
-  ],
   "exactMatch": [
     {
       "id": "https://database.factgrid.de/entity/Q640846"
