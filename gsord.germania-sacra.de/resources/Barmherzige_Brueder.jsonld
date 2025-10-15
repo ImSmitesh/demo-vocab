@@ -7,9 +7,6 @@
   "definition": {
     "de": "Bezeichnung für verschiedene Brüdergemeinschaften, deren Mitglieder vorwiegend in der Kranken- und Altenpflege tätig sind."
   },
-  "notation": [
-    "GSReligiousOrder062"
-  ],
   "narrower": [
     {
       "id": "https://gsord.germania-sacra.de/resources/Barmherzige_Brueder_vom_hl_Johannes_von_Gott",
