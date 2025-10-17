@@ -41,20 +41,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://gsord.germania-sacra.de/resources/a"
+      "id": "https://gsord.germania-sacra.de/resources/"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://gsord.germania-sacra.de/resources/a"
-    },
     {
       "id": "https://gsord.germania-sacra.de/resources/"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://gsord.germania-sacra.de/resources/a"
+      "id": "https://gsord.germania-sacra.de/resources/"
     }
   ],
   "@context": {
