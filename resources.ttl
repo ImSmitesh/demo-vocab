@@ -4,7 +4,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-gsord:a a skos:ConceptScheme ;
+gsord: a skos:ConceptScheme ;
  rdfs:label "WIAG Ordensvokabular"@de ;
  skos:prefLabel "WIAG Ordensvokabular"@de ;
  skos:hasTopConcept gsord:Brudergemeinschaft, gsord:Franziskanerorden, gsord:Hospitaliterinnen, gsord:Semireligioese_W, gsord:Kreuzherren, gsord:Orden_nach_der_Benediktregel, gsord:Orden_nach_der_Augustinusregel, gsord:Regularkanoniker, gsord:Semireligioese_M, gsord:Mendikantenorden, gsord:Hospitaliter, gsord:Kapuzinerinnen, gsord:Barmherzige_Brueder .
