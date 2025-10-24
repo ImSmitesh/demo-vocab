@@ -2,11 +2,13 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 gsord: a skos:ConceptScheme ;
  rdfs:label "WIAG Ordensvokabular"@de ;
  skos:prefLabel "WIAG Ordensvokabular"@de ;
+ dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
  skos:hasTopConcept gsord:GSReligiousOrder106, gsord:Franziskanerorden, gsord:GSReligiousOrder124, gsord:GSReligiousOrder179, gsord:GSReligiousOrder018, gsord:GSReligiousOrder144, gsord:GSReligiousOrder130, gsord:GSReligiousOrder113, gsord:Semireligioese_M, gsord:GSReligiousOrder108, gsord:GSReligiousOrder110, gsord:GSReligiousOrder065, gsord:GSReligiousOrder062 .
 
 gsord:GSReligiousOrder104 a skos:Concept ;
