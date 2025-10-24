@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Augustinereremiten",
+    "nl": "Augustijner eremieten",
     "en": "Austin Friars",
-    "la": "Ordo Eremitarum Sancti Augustini",
-    "nl": "Augustijner eremieten"
+    "la": "Ordo Eremitarum Sancti Augustini"
   },
   "altLabel": {
     "de": [
@@ -19,14 +19,23 @@
     ]
   },
   "definition": {
-    "de": "Die Augustinereremiten entstanden Mitte des 13. Jahrhunderts durch den Zusammenschluss mehrerer Eremitenverbände, die sich der Augustinusregel verpflichtet hatten. Die Gründung erfolgte 1244 unter Innozenz IV., 1256 wurde der Vereinigungsprozess mit der päpstlichen Bulle 'Licet ecclesiae' durch Alexander IV. abgeschlossen. Der Orden verbreitete sich rasch im gesamten christlichen Abendland. Die Augustinereremiten werden zu den Bettelorden gezählt. Entsprechend der Augustinusregel versteht sich der Orden als eine apostolische Bruderschaft, deren Ideal die Güter- und Liebesgemeinschaft im Geist evangelischer Armut ist. Sie kümmern sich vor allem um Predigt und Volksseelsorge, seit dem 17. Jahrhundert auch um die Bildung der Jugend (Gymnasien und Internate). Die größte Verbreitung erreichte der Orden Mitte des 18. Jahrhunderts."
+    "de": "Die Augustinereremiten entstanden Mitte des 13. Jahrhunderts durch den Zusammenschluss mehrerer Eremitenverbände, die sich der Augustinusregel verpflichtet hatten. Die Gründung erfolgte 1244 unter Innozenz IV., 1256 wurde der Vereinigungsprozess mit der päpstlichen Bulle 'Licet ecclesiae' durch Alexander IV. abgeschlossen. Der Orden verbreitete sich rasch im gesamten christlichen Abendland. Die Augustinereremiten werden zu den Bettelorden gezählt. Entsprechend der Augustinusregel versteht sich der Orden als eine apostolische Bruderschaft, deren Ideal die Güter- und Liebesgemeinschaft im Geist evangelischer Armut ist. Sie kümmern sich vor allem um Predigt und Volksseelsorge, seit dem 17. Jahrhundert auch um die Bildung der Jugend (Gymnasien und Internate). Die größte Verbreitung erreichte der Orden Mitte des 18. Jahrhunderts.",
+    "nl": "Die Augustinereremiten entstanden Mitte des 13. Jahrhunderts durch den Zusammenschluss mehrerer Eremitenverbände, die sich der Augustinusregel verpflichtet hatten. Die Gründung erfolgte 1244 unter Innozenz IV., 1256 wurde der Vereinigungsprozess mit der päpstlichen Bulle 'Licet ecclesiae' durch Alexander IV. abgeschlossen. Der Orden verbreitete sich rasch im gesamten christlichen Abendland. Die Augustinereremiten werden zu den Bettelorden gezählt. Entsprechend der Augustinusregel versteht sich der Orden als eine apostolische Bruderschaft, deren Ideal die Güter- und Liebesgemeinschaft im Geist evangelischer Armut ist. Sie kümmern sich vor allem um Predigt und Volksseelsorge, seit dem 17. Jahrhundert auch um die Bildung der Jugend (Gymnasien und Internate). Die größte Verbreitung erreichte der Orden Mitte des 18. Jahrhunderts.",
+    "en": "Die Augustinereremiten entstanden Mitte des 13. Jahrhunderts durch den Zusammenschluss mehrerer Eremitenverbände, die sich der Augustinusregel verpflichtet hatten. Die Gründung erfolgte 1244 unter Innozenz IV., 1256 wurde der Vereinigungsprozess mit der päpstlichen Bulle 'Licet ecclesiae' durch Alexander IV. abgeschlossen. Der Orden verbreitete sich rasch im gesamten christlichen Abendland. Die Augustinereremiten werden zu den Bettelorden gezählt. Entsprechend der Augustinusregel versteht sich der Orden als eine apostolische Bruderschaft, deren Ideal die Güter- und Liebesgemeinschaft im Geist evangelischer Armut ist. Sie kümmern sich vor allem um Predigt und Volksseelsorge, seit dem 17. Jahrhundert auch um die Bildung der Jugend (Gymnasien und Internate). Die größte Verbreitung erreichte der Orden Mitte des 18. Jahrhunderts.",
+    "la": "Die Augustinereremiten entstanden Mitte des 13. Jahrhunderts durch den Zusammenschluss mehrerer Eremitenverbände, die sich der Augustinusregel verpflichtet hatten. Die Gründung erfolgte 1244 unter Innozenz IV., 1256 wurde der Vereinigungsprozess mit der päpstlichen Bulle 'Licet ecclesiae' durch Alexander IV. abgeschlossen. Der Orden verbreitete sich rasch im gesamten christlichen Abendland. Die Augustinereremiten werden zu den Bettelorden gezählt. Entsprechend der Augustinusregel versteht sich der Orden als eine apostolische Bruderschaft, deren Ideal die Güter- und Liebesgemeinschaft im Geist evangelischer Armut ist. Sie kümmern sich vor allem um Predigt und Volksseelsorge, seit dem 17. Jahrhundert auch um die Bildung der Jugend (Gymnasien und Internate). Die größte Verbreitung erreichte der Orden Mitte des 18. Jahrhunderts."
+  },
+  "example": {
+    "de": "o. s. Aug.",
+    "nl": "o. s. Aug.",
+    "en": "o. s. Aug.",
+    "la": "o. s. Aug."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder130",
     "prefLabel": {
       "de": "Orden nach der Augustinusregel",
-      "en": "Augustinian Orders",
-      "nl": "Augustijnen"
+      "nl": "Augustijnen",
+      "en": "Augustinian Orders"
     }
   },
   "related": [
@@ -34,9 +43,9 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder032",
       "prefLabel": {
         "de": "Augustinereremitinnen",
+        "nl": "Conversinnen van Sint-Augustinus",
         "en": "Converse Women of St Augustine",
-        "la": "Ordo Eremitarum Sancti Augustini",
-        "nl": "Conversinnen van Sint-Augustinus"
+        "la": "Ordo Eremitarum Sancti Augustini"
       }
     }
   ],

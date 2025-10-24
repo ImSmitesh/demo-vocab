@@ -3,8 +3,8 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Augustinerchorfrauen",
-    "en": "Canonesses Regular of St Augustine",
-    "nl": "Augustinessen"
+    "nl": "Augustinessen",
+    "en": "Canonesses Regular of St Augustine"
   },
   "altLabel": {
     "de": [
@@ -12,17 +12,20 @@
       "Regularkanonissen",
       "Regulierte Chorfrauen vom hl. Augustinus"
     ],
-    "la": [
-      "CRSA",
-      "CanA (w)"
-    ],
     "nl": [
       "Augustijner Koorvrouwen",
       "Reguliere kanunnikessen"
+    ],
+    "la": [
+      "CRSA",
+      "CanA (w)"
     ]
   },
   "definition": {
-    "de": "Die nach der Augustinusregel lebenden Augustinerchorfrauen entstanden im 11. Jahrhundert und lebten anfangs ausschließlich in Doppelkonventen mit Augustinerchorherren, bevor ab den 1120er Jahren auch unabhängige Stifte entstanden. Gerade im Mittelalter gab es eine große Diversität in den Lebensformen der Augustinerchorfrauen, die kanonikale, regular-kanonikale und monastische Elemente umfassen konnten; allerdings waren die Augustinerchorfrauen weniger strengen Regeln unterworfen als die Angehörigen monastischer Gemeinschaften. Blütezeit im Hochmittelalter und Aufschwung im Zuge der Windesheimer Kongregation."
+    "de": "Die nach der Augustinusregel lebenden Augustinerchorfrauen entstanden im 11. Jahrhundert und lebten anfangs ausschließlich in Doppelkonventen mit Augustinerchorherren, bevor ab den 1120er Jahren auch unabhängige Stifte entstanden. Gerade im Mittelalter gab es eine große Diversität in den Lebensformen der Augustinerchorfrauen, die kanonikale, regular-kanonikale und monastische Elemente umfassen konnten; allerdings waren die Augustinerchorfrauen weniger strengen Regeln unterworfen als die Angehörigen monastischer Gemeinschaften. Blütezeit im Hochmittelalter und Aufschwung im Zuge der Windesheimer Kongregation.",
+    "nl": "Die nach der Augustinusregel lebenden Augustinerchorfrauen entstanden im 11. Jahrhundert und lebten anfangs ausschließlich in Doppelkonventen mit Augustinerchorherren, bevor ab den 1120er Jahren auch unabhängige Stifte entstanden. Gerade im Mittelalter gab es eine große Diversität in den Lebensformen der Augustinerchorfrauen, die kanonikale, regular-kanonikale und monastische Elemente umfassen konnten; allerdings waren die Augustinerchorfrauen weniger strengen Regeln unterworfen als die Angehörigen monastischer Gemeinschaften. Blütezeit im Hochmittelalter und Aufschwung im Zuge der Windesheimer Kongregation.",
+    "en": "Die nach der Augustinusregel lebenden Augustinerchorfrauen entstanden im 11. Jahrhundert und lebten anfangs ausschließlich in Doppelkonventen mit Augustinerchorherren, bevor ab den 1120er Jahren auch unabhängige Stifte entstanden. Gerade im Mittelalter gab es eine große Diversität in den Lebensformen der Augustinerchorfrauen, die kanonikale, regular-kanonikale und monastische Elemente umfassen konnten; allerdings waren die Augustinerchorfrauen weniger strengen Regeln unterworfen als die Angehörigen monastischer Gemeinschaften. Blütezeit im Hochmittelalter und Aufschwung im Zuge der Windesheimer Kongregation.",
+    "la": "Die nach der Augustinusregel lebenden Augustinerchorfrauen entstanden im 11. Jahrhundert und lebten anfangs ausschließlich in Doppelkonventen mit Augustinerchorherren, bevor ab den 1120er Jahren auch unabhängige Stifte entstanden. Gerade im Mittelalter gab es eine große Diversität in den Lebensformen der Augustinerchorfrauen, die kanonikale, regular-kanonikale und monastische Elemente umfassen konnten; allerdings waren die Augustinerchorfrauen weniger strengen Regeln unterworfen als die Angehörigen monastischer Gemeinschaften. Blütezeit im Hochmittelalter und Aufschwung im Zuge der Windesheimer Kongregation."
   },
   "narrower": [
     {
@@ -37,28 +40,28 @@
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder113",
     "prefLabel": {
       "de": "Regularkanoniker",
+      "nl": "Reguliere kanunniken",
       "en": "Canons Regular",
-      "la": "Canonici regulares",
-      "nl": "Reguliere kanunniken"
+      "la": "Canonici regulares"
     }
   },
   "related": [
     {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder031",
-      "prefLabel": {
-        "de": "Prämonstratenserinnen",
-        "en": "Premonstratensian Canonesses",
-        "la": "Ordo Praemonstratensis",
-        "nl": "Norbertinessen"
-      }
-    },
-    {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder001",
       "prefLabel": {
         "de": "Augustinerchorherren",
+        "nl": "Regulieren van Sint-Augustin",
         "en": "Canons Regular of St Augustine",
-        "la": "Canonici Augustiniani",
-        "nl": "Regulieren van Sint-Augustin"
+        "la": "Canonici Augustiniani"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder031",
+      "prefLabel": {
+        "de": "Prämonstratenserinnen",
+        "nl": "Norbertinessen",
+        "en": "Premonstratensian Canonesses",
+        "la": "Ordo Praemonstratensis"
       }
     }
   ],

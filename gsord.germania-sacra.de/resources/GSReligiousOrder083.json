@@ -3,8 +3,8 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Chorfrauen vom Heiligen Grab",
-    "en": "Canonesses Regular of the Holy Sepulchre",
-    "nl": "Sepulcrinessen"
+    "nl": "Sepulcrinessen",
+    "en": "Canonesses Regular of the Holy Sepulchre"
   },
   "altLabel": {
     "de": [
@@ -16,15 +16,18 @@
     ]
   },
   "definition": {
-    "de": "Bereits im 12. Jahrhundert gab es Chorfrauen, die bei den Konventen der Chorherren vom Heiligen Grab lebten und später wohl auch eigenständige Konvente bildeten. Ihre Verbindung zum eigentlichen Orden der Chorfrauen vom Heiligen Grab ist jedoch umstitten. Zentrale Figur dieses Ordens ist zweifellos Johann von Abrock, Prior der Chorherren vom Heiligen Grab in Odilienberg, der um 1480 einen Sepulcrinerinnenkonvent einrichtete (seit 1495 in Maaseik, Belgien). Spätestens diese Gründung gilt als Beginn des Orden der Chorfrauen vom Heiligen Grab. Es folgten Gründungen in den Niederlanden, Frankreich und Deutschland."
+    "de": "Bereits im 12. Jahrhundert gab es Chorfrauen, die bei den Konventen der Chorherren vom Heiligen Grab lebten und später wohl auch eigenständige Konvente bildeten. Ihre Verbindung zum eigentlichen Orden der Chorfrauen vom Heiligen Grab ist jedoch umstitten. Zentrale Figur dieses Ordens ist zweifellos Johann von Abrock, Prior der Chorherren vom Heiligen Grab in Odilienberg, der um 1480 einen Sepulcrinerinnenkonvent einrichtete (seit 1495 in Maaseik, Belgien). Spätestens diese Gründung gilt als Beginn des Orden der Chorfrauen vom Heiligen Grab. Es folgten Gründungen in den Niederlanden, Frankreich und Deutschland.",
+    "nl": "Bereits im 12. Jahrhundert gab es Chorfrauen, die bei den Konventen der Chorherren vom Heiligen Grab lebten und später wohl auch eigenständige Konvente bildeten. Ihre Verbindung zum eigentlichen Orden der Chorfrauen vom Heiligen Grab ist jedoch umstitten. Zentrale Figur dieses Ordens ist zweifellos Johann von Abrock, Prior der Chorherren vom Heiligen Grab in Odilienberg, der um 1480 einen Sepulcrinerinnenkonvent einrichtete (seit 1495 in Maaseik, Belgien). Spätestens diese Gründung gilt als Beginn des Orden der Chorfrauen vom Heiligen Grab. Es folgten Gründungen in den Niederlanden, Frankreich und Deutschland.",
+    "en": "Bereits im 12. Jahrhundert gab es Chorfrauen, die bei den Konventen der Chorherren vom Heiligen Grab lebten und später wohl auch eigenständige Konvente bildeten. Ihre Verbindung zum eigentlichen Orden der Chorfrauen vom Heiligen Grab ist jedoch umstitten. Zentrale Figur dieses Ordens ist zweifellos Johann von Abrock, Prior der Chorherren vom Heiligen Grab in Odilienberg, der um 1480 einen Sepulcrinerinnenkonvent einrichtete (seit 1495 in Maaseik, Belgien). Spätestens diese Gründung gilt als Beginn des Orden der Chorfrauen vom Heiligen Grab. Es folgten Gründungen in den Niederlanden, Frankreich und Deutschland.",
+    "la": "Bereits im 12. Jahrhundert gab es Chorfrauen, die bei den Konventen der Chorherren vom Heiligen Grab lebten und später wohl auch eigenständige Konvente bildeten. Ihre Verbindung zum eigentlichen Orden der Chorfrauen vom Heiligen Grab ist jedoch umstitten. Zentrale Figur dieses Ordens ist zweifellos Johann von Abrock, Prior der Chorherren vom Heiligen Grab in Odilienberg, der um 1480 einen Sepulcrinerinnenkonvent einrichtete (seit 1495 in Maaseik, Belgien). Spätestens diese Gründung gilt als Beginn des Orden der Chorfrauen vom Heiligen Grab. Es folgten Gründungen in den Niederlanden, Frankreich und Deutschland."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder113",
     "prefLabel": {
       "de": "Regularkanoniker",
+      "nl": "Reguliere kanunniken",
       "en": "Canons Regular",
-      "la": "Canonici regulares",
-      "nl": "Reguliere kanunniken"
+      "la": "Canonici regulares"
     }
   },
   "related": [
@@ -32,8 +35,8 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder072",
       "prefLabel": {
         "de": "Chorherren vom Heiligen Grab",
-        "en": "Canons Regular of the Holy Sepulchre",
-        "nl": "Sepulcrijnen"
+        "nl": "Sepulcrijnen",
+        "en": "Canons Regular of the Holy Sepulchre"
       }
     }
   ],

@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Lazaristen",
+    "nl": "Lazarieten",
     "en": "Knights of St Lazarus",
-    "la": "Congregatio Missionis",
-    "nl": "Lazarieten"
+    "la": "Congregatio Missionis"
   },
   "altLabel": {
     "de": [
@@ -16,7 +16,10 @@
     ]
   },
   "definition": {
-    "de": "Die Lazaristen sind eine Gemeinschaft apostolischen Lebens, die 1625 von Vinzenz von Paul zur Evangelisierung der französischen Landbevölkerung gegründet und 1633 von Urban VIII. bestätigt wurde. Namensgebend ist das Priorat vom hl. Lazarus in Paris, in dem sich seit 1632 das Mutterhaus befindet. Die Regel der Gemeinschaft verfasste Vinzenz selbst. Die Lazaristen befassten sich mit Exerzitien, Priesterausbildung, Seelsorge an Gefangenen und Galeerensklaven sowie der auswärtigen Mission. Die Lazaristen breiteten sich über Frankreich hinaus auch über die Grenzen Europas hinweg aus. Während der Französischen Revolution wurde das Mutterhaus zerstört und die Gemeinschaft aufgelöst. Im 19. Jahrhundert wurde der Orden wiederhergestellt."
+    "de": "Die Lazaristen sind eine Gemeinschaft apostolischen Lebens, die 1625 von Vinzenz von Paul zur Evangelisierung der französischen Landbevölkerung gegründet und 1633 von Urban VIII. bestätigt wurde. Namensgebend ist das Priorat vom hl. Lazarus in Paris, in dem sich seit 1632 das Mutterhaus befindet. Die Regel der Gemeinschaft verfasste Vinzenz selbst. Die Lazaristen befassten sich mit Exerzitien, Priesterausbildung, Seelsorge an Gefangenen und Galeerensklaven sowie der auswärtigen Mission. Die Lazaristen breiteten sich über Frankreich hinaus auch über die Grenzen Europas hinweg aus. Während der Französischen Revolution wurde das Mutterhaus zerstört und die Gemeinschaft aufgelöst. Im 19. Jahrhundert wurde der Orden wiederhergestellt.",
+    "nl": "Die Lazaristen sind eine Gemeinschaft apostolischen Lebens, die 1625 von Vinzenz von Paul zur Evangelisierung der französischen Landbevölkerung gegründet und 1633 von Urban VIII. bestätigt wurde. Namensgebend ist das Priorat vom hl. Lazarus in Paris, in dem sich seit 1632 das Mutterhaus befindet. Die Regel der Gemeinschaft verfasste Vinzenz selbst. Die Lazaristen befassten sich mit Exerzitien, Priesterausbildung, Seelsorge an Gefangenen und Galeerensklaven sowie der auswärtigen Mission. Die Lazaristen breiteten sich über Frankreich hinaus auch über die Grenzen Europas hinweg aus. Während der Französischen Revolution wurde das Mutterhaus zerstört und die Gemeinschaft aufgelöst. Im 19. Jahrhundert wurde der Orden wiederhergestellt.",
+    "en": "Die Lazaristen sind eine Gemeinschaft apostolischen Lebens, die 1625 von Vinzenz von Paul zur Evangelisierung der französischen Landbevölkerung gegründet und 1633 von Urban VIII. bestätigt wurde. Namensgebend ist das Priorat vom hl. Lazarus in Paris, in dem sich seit 1632 das Mutterhaus befindet. Die Regel der Gemeinschaft verfasste Vinzenz selbst. Die Lazaristen befassten sich mit Exerzitien, Priesterausbildung, Seelsorge an Gefangenen und Galeerensklaven sowie der auswärtigen Mission. Die Lazaristen breiteten sich über Frankreich hinaus auch über die Grenzen Europas hinweg aus. Während der Französischen Revolution wurde das Mutterhaus zerstört und die Gemeinschaft aufgelöst. Im 19. Jahrhundert wurde der Orden wiederhergestellt.",
+    "la": "Die Lazaristen sind eine Gemeinschaft apostolischen Lebens, die 1625 von Vinzenz von Paul zur Evangelisierung der französischen Landbevölkerung gegründet und 1633 von Urban VIII. bestätigt wurde. Namensgebend ist das Priorat vom hl. Lazarus in Paris, in dem sich seit 1632 das Mutterhaus befindet. Die Regel der Gemeinschaft verfasste Vinzenz selbst. Die Lazaristen befassten sich mit Exerzitien, Priesterausbildung, Seelsorge an Gefangenen und Galeerensklaven sowie der auswärtigen Mission. Die Lazaristen breiteten sich über Frankreich hinaus auch über die Grenzen Europas hinweg aus. Während der Französischen Revolution wurde das Mutterhaus zerstört und die Gemeinschaft aufgelöst. Im 19. Jahrhundert wurde der Orden wiederhergestellt."
   },
   "exactMatch": [
     {

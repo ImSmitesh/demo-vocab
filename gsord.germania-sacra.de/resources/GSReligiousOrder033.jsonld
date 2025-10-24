@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Benediktinerinnen",
+    "nl": "Benedictinessen",
     "en": "Benedictine Nuns",
-    "la": "Ordo Sancti Benedicti",
-    "nl": "Benedictinessen"
+    "la": "Ordo Sancti Benedicti"
   },
   "altLabel": {
     "la": [
@@ -13,7 +13,10 @@
     ]
   },
   "definition": {
-    "de": "Seit dem 8. Jahrhundert wurde die Benediktregel auch den Bedürfnissen weiblicher Ordensmitglieder angepasst. Die Ursprünge der Benediktinerinnen gehen wohl auf das spätantike Mönchtum zurück. Eine Orientierung an der Regula Benedicti geschah zunächt über die Mischregel. Die karolingischen Bestrebungen zur Durchsetzung der Benediktregel, die in der Aachener Gesetzgebung von 816 manifest wurden, betrafen zwar nur Männerklöster, wirkten sich jedoch auch auf Frauenklöster aus. Anders als bei den Benediktinern blieb die kanonikale Lebensform für Frauen rechtmäßig."
+    "de": "Seit dem 8. Jahrhundert wurde die Benediktregel auch den Bedürfnissen weiblicher Ordensmitglieder angepasst. Die Ursprünge der Benediktinerinnen gehen wohl auf das spätantike Mönchtum zurück. Eine Orientierung an der Regula Benedicti geschah zunächt über die Mischregel. Die karolingischen Bestrebungen zur Durchsetzung der Benediktregel, die in der Aachener Gesetzgebung von 816 manifest wurden, betrafen zwar nur Männerklöster, wirkten sich jedoch auch auf Frauenklöster aus. Anders als bei den Benediktinern blieb die kanonikale Lebensform für Frauen rechtmäßig.",
+    "nl": "Seit dem 8. Jahrhundert wurde die Benediktregel auch den Bedürfnissen weiblicher Ordensmitglieder angepasst. Die Ursprünge der Benediktinerinnen gehen wohl auf das spätantike Mönchtum zurück. Eine Orientierung an der Regula Benedicti geschah zunächt über die Mischregel. Die karolingischen Bestrebungen zur Durchsetzung der Benediktregel, die in der Aachener Gesetzgebung von 816 manifest wurden, betrafen zwar nur Männerklöster, wirkten sich jedoch auch auf Frauenklöster aus. Anders als bei den Benediktinern blieb die kanonikale Lebensform für Frauen rechtmäßig.",
+    "en": "Seit dem 8. Jahrhundert wurde die Benediktregel auch den Bedürfnissen weiblicher Ordensmitglieder angepasst. Die Ursprünge der Benediktinerinnen gehen wohl auf das spätantike Mönchtum zurück. Eine Orientierung an der Regula Benedicti geschah zunächt über die Mischregel. Die karolingischen Bestrebungen zur Durchsetzung der Benediktregel, die in der Aachener Gesetzgebung von 816 manifest wurden, betrafen zwar nur Männerklöster, wirkten sich jedoch auch auf Frauenklöster aus. Anders als bei den Benediktinern blieb die kanonikale Lebensform für Frauen rechtmäßig.",
+    "la": "Seit dem 8. Jahrhundert wurde die Benediktregel auch den Bedürfnissen weiblicher Ordensmitglieder angepasst. Die Ursprünge der Benediktinerinnen gehen wohl auf das spätantike Mönchtum zurück. Eine Orientierung an der Regula Benedicti geschah zunächt über die Mischregel. Die karolingischen Bestrebungen zur Durchsetzung der Benediktregel, die in der Aachener Gesetzgebung von 816 manifest wurden, betrafen zwar nur Männerklöster, wirkten sich jedoch auch auf Frauenklöster aus. Anders als bei den Benediktinern blieb die kanonikale Lebensform für Frauen rechtmäßig."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder144",
@@ -23,28 +26,28 @@
   },
   "related": [
     {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder170",
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder016",
       "prefLabel": {
-        "de": "Coelestinerinnen",
-        "en": "Celestine Nuns"
+        "de": "Benediktiner",
+        "nl": "Benedictijnen",
+        "en": "Benedictines",
+        "la": "Ordo Sancti Benedicti"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder028",
       "prefLabel": {
         "de": "Zisterzienserinnen",
+        "nl": "Cisterciënzerinnen",
         "en": "Cistercian Nuns",
-        "la": "Ordo Cisterciensis",
-        "nl": "Cisterciënzerinnen"
+        "la": "Ordo Cisterciensis"
       }
     },
     {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder016",
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder170",
       "prefLabel": {
-        "de": "Benediktiner",
-        "en": "Benedictines",
-        "la": "Ordo Sancti Benedicti",
-        "nl": "Benedictijnen"
+        "de": "Coelestinerinnen",
+        "en": "Celestine Nuns"
       }
     }
   ],

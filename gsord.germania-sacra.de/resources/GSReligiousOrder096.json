@@ -5,27 +5,30 @@
     "de": "Theatiner"
   },
   "altLabel": {
+    "nl": [
+      "Theatijnen"
+    ],
     "en": [
       "Theatines"
     ],
     "la": [
       "CRth, OTheat",
       "Ordo Theatinorum"
-    ],
-    "nl": [
-      "Theatijnen"
     ]
   },
   "definition": {
-    "de": "Die Theatiner wurden 1524 von Cajetan de Thiene gegründet. Ihr Hauptziel bestand in der Erneuerung der Kirche durch einen reformierten Klerus. Die Mitglieder widmeten sich der Seelsorge, der karitativen Arbeit und der Priesterausbildung. Der Orden verbreitete sich zunächst in Italien, dann in Spanien, Portugal, Frankreich und im Reich. Im Jahr 1627 wurde der Orden von Urban VIII. mit der Leitung des Collegium Urbanum betraut und nahm in der Folge missionarische Tätigkeiten auf. Ab dem späten 18. Jahrhundert ging der Orden nieder und wurde erst im 20. Jahrhundert wiederhergestellt."
+    "de": "Die Theatiner wurden 1524 von Cajetan de Thiene gegründet. Ihr Hauptziel bestand in der Erneuerung der Kirche durch einen reformierten Klerus. Die Mitglieder widmeten sich der Seelsorge, der karitativen Arbeit und der Priesterausbildung. Der Orden verbreitete sich zunächst in Italien, dann in Spanien, Portugal, Frankreich und im Reich. Im Jahr 1627 wurde der Orden von Urban VIII. mit der Leitung des Collegium Urbanum betraut und nahm in der Folge missionarische Tätigkeiten auf. Ab dem späten 18. Jahrhundert ging der Orden nieder und wurde erst im 20. Jahrhundert wiederhergestellt.",
+    "nl": "Die Theatiner wurden 1524 von Cajetan de Thiene gegründet. Ihr Hauptziel bestand in der Erneuerung der Kirche durch einen reformierten Klerus. Die Mitglieder widmeten sich der Seelsorge, der karitativen Arbeit und der Priesterausbildung. Der Orden verbreitete sich zunächst in Italien, dann in Spanien, Portugal, Frankreich und im Reich. Im Jahr 1627 wurde der Orden von Urban VIII. mit der Leitung des Collegium Urbanum betraut und nahm in der Folge missionarische Tätigkeiten auf. Ab dem späten 18. Jahrhundert ging der Orden nieder und wurde erst im 20. Jahrhundert wiederhergestellt.",
+    "en": "Die Theatiner wurden 1524 von Cajetan de Thiene gegründet. Ihr Hauptziel bestand in der Erneuerung der Kirche durch einen reformierten Klerus. Die Mitglieder widmeten sich der Seelsorge, der karitativen Arbeit und der Priesterausbildung. Der Orden verbreitete sich zunächst in Italien, dann in Spanien, Portugal, Frankreich und im Reich. Im Jahr 1627 wurde der Orden von Urban VIII. mit der Leitung des Collegium Urbanum betraut und nahm in der Folge missionarische Tätigkeiten auf. Ab dem späten 18. Jahrhundert ging der Orden nieder und wurde erst im 20. Jahrhundert wiederhergestellt.",
+    "la": "Die Theatiner wurden 1524 von Cajetan de Thiene gegründet. Ihr Hauptziel bestand in der Erneuerung der Kirche durch einen reformierten Klerus. Die Mitglieder widmeten sich der Seelsorge, der karitativen Arbeit und der Priesterausbildung. Der Orden verbreitete sich zunächst in Italien, dann in Spanien, Portugal, Frankreich und im Reich. Im Jahr 1627 wurde der Orden von Urban VIII. mit der Leitung des Collegium Urbanum betraut und nahm in der Folge missionarische Tätigkeiten auf. Ab dem späten 18. Jahrhundert ging der Orden nieder und wurde erst im 20. Jahrhundert wiederhergestellt."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder113",
     "prefLabel": {
       "de": "Regularkanoniker",
+      "nl": "Reguliere kanunniken",
       "en": "Canons Regular",
-      "la": "Canonici regulares",
-      "nl": "Reguliere kanunniken"
+      "la": "Canonici regulares"
     }
   },
   "exactMatch": [

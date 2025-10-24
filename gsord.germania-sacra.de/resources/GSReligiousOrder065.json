@@ -3,8 +3,8 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Kapuzinerinnen",
-    "en": "Capuchiness",
     "nl": "Kapucijner Nons",
+    "en": "Capuchiness",
     "it": "Cappuccine"
   },
   "altLabel": {
@@ -17,7 +17,8 @@
     ]
   },
   "definition": {
-    "de": "Oberbegriff für die weiblichen Reformzweige des Kapuzinerordens. \"Kapuzinerinnen\" ist eine Bezeichnung für aus verschiedenen Ordenstraditionen hervorgegangene religiöse Gemeinschaften von Frauen, die sich in Tracht und Lebensweise dem Kapuzinerorden anglichen. 1538 gingen die ersten Kapuzinerinnen aus einem Klarissenkloster in Neapel hervor – daran angelehnt entstanden Klöster in Italien, Spanien und Frankreich. In der Schweiz und dem deutschsprachigen Raum entstanden Kapuzinerinnenklöster aus Franziskaner-Terziarinnenklöstern, nachdem 1591 Elisabeth Spitzlin aus dem Kloster Pfanneregg entsprechende Reformen initiierte und dabei von verschiedenen Nuntiaturen unterstützt wurde."
+    "en": "Oberbegriff für die weiblichen Reformzweige des Kapuzinerordens. ",
+    "la": "Oberbegriff für die weiblichen Reformzweige des Kapuzinerordens. "
   },
   "narrower": [
     {
@@ -49,8 +50,8 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder008",
       "prefLabel": {
         "de": "Kapuziner",
-        "en": "Capuchins",
-        "nl": "Kapucijnen"
+        "nl": "Kapucijnen",
+        "en": "Capuchins"
       }
     }
   ],

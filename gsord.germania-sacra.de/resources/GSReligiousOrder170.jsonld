@@ -6,7 +6,10 @@
     "en": "Celestine Nuns"
   },
   "definition": {
-    "de": "Weiblicher Zweig der Coelestiner. Die Anfänge liegen wohl in benediktinischen Frauenklöstern, die die coelestinischen Konstitutionen annahmen. In Italien und Frankreich verbreitet. Im 15. und 16. Jahrhundert zählten sie etwa 150 Klöster."
+    "de": "Weiblicher Zweig der Coelestiner. Die Anfänge liegen wohl in benediktinischen Frauenklöstern, die die coelestinischen Konstitutionen annahmen. In Italien und Frankreich verbreitet. Im 15. und 16. Jahrhundert zählten sie etwa 150 Klöster.",
+    "nl": "Weiblicher Zweig der Coelestiner. Die Anfänge liegen wohl in benediktinischen Frauenklöstern, die die coelestinischen Konstitutionen annahmen. In Italien und Frankreich verbreitet. Im 15. und 16. Jahrhundert zählten sie etwa 150 Klöster.",
+    "en": "Weiblicher Zweig der Coelestiner. Die Anfänge liegen wohl in benediktinischen Frauenklöstern, die die coelestinischen Konstitutionen annahmen. In Italien und Frankreich verbreitet. Im 15. und 16. Jahrhundert zählten sie etwa 150 Klöster.",
+    "la": "Weiblicher Zweig der Coelestiner. Die Anfänge liegen wohl in benediktinischen Frauenklöstern, die die coelestinischen Konstitutionen annahmen. In Italien und Frankreich verbreitet. Im 15. und 16. Jahrhundert zählten sie etwa 150 Klöster."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder144",
@@ -16,20 +19,20 @@
   },
   "related": [
     {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder033",
+      "prefLabel": {
+        "de": "Benediktinerinnen",
+        "nl": "Benedictinessen",
+        "en": "Benedictine Nuns",
+        "la": "Ordo Sancti Benedicti"
+      }
+    },
+    {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder104",
       "prefLabel": {
         "de": "Coelestiner",
         "en": "Celestines",
         "la": "Ordo Sancti Benedicti Coelestinensis"
-      }
-    },
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder033",
-      "prefLabel": {
-        "de": "Benediktinerinnen",
-        "en": "Benedictine Nuns",
-        "la": "Ordo Sancti Benedicti",
-        "nl": "Benedictinessen"
       }
     }
   ],

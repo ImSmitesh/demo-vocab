@@ -15,16 +15,19 @@
     ]
   },
   "definition": {
-    "de": "Frauengemeinschaft, die 1663 von dem Unbeschuhten Karmeliten Hermannus a St. Norberto und der Begine Anna Puttermans in Dendermonde gegründet wurde. Von Dendermonde aus verbreiteten sich die Maricollen in kurzer Zeit in den meisten großen Städten Flanderns. Seit 1672 sind sie dem Karmeliterorden zugeordnet, nach dessen Leitlinien sie leben. Die Maricollen widmen sich vor allem der Erziehung und caritativen Aufgaben."
+    "de": "Frauengemeinschaft, die 1663 von dem Unbeschuhten Karmeliten Hermannus a St. Norberto und der Begine Anna Puttermans in Dendermonde gegründet wurde. Von Dendermonde aus verbreiteten sich die Maricollen in kurzer Zeit in den meisten großen Städten Flanderns. Seit 1672 sind sie dem Karmeliterorden zugeordnet, nach dessen Leitlinien sie leben. Die Maricollen widmen sich vor allem der Erziehung und caritativen Aufgaben.",
+    "nl": "Frauengemeinschaft, die 1663 von dem Unbeschuhten Karmeliten Hermannus a St. Norberto und der Begine Anna Puttermans in Dendermonde gegründet wurde. Von Dendermonde aus verbreiteten sich die Maricollen in kurzer Zeit in den meisten großen Städten Flanderns. Seit 1672 sind sie dem Karmeliterorden zugeordnet, nach dessen Leitlinien sie leben. Die Maricollen widmen sich vor allem der Erziehung und caritativen Aufgaben.",
+    "en": "Frauengemeinschaft, die 1663 von dem Unbeschuhten Karmeliten Hermannus a St. Norberto und der Begine Anna Puttermans in Dendermonde gegründet wurde. Von Dendermonde aus verbreiteten sich die Maricollen in kurzer Zeit in den meisten großen Städten Flanderns. Seit 1672 sind sie dem Karmeliterorden zugeordnet, nach dessen Leitlinien sie leben. Die Maricollen widmen sich vor allem der Erziehung und caritativen Aufgaben.",
+    "la": "Frauengemeinschaft, die 1663 von dem Unbeschuhten Karmeliten Hermannus a St. Norberto und der Begine Anna Puttermans in Dendermonde gegründet wurde. Von Dendermonde aus verbreiteten sich die Maricollen in kurzer Zeit in den meisten großen Städten Flanderns. Seit 1672 sind sie dem Karmeliterorden zugeordnet, nach dessen Leitlinien sie leben. Die Maricollen widmen sich vor allem der Erziehung und caritativen Aufgaben."
   },
   "related": [
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder026",
       "prefLabel": {
         "de": "Karmeliterinnen",
+        "nl": "Karmelitessen",
         "en": "Carmelite Sisters",
-        "la": "Ordo Sororum Beatae Mariae Virginis de Monte Carmelo",
-        "nl": "Karmelitessen"
+        "la": "Ordo Sororum Beatae Mariae Virginis de Monte Carmelo"
       }
     }
   ],

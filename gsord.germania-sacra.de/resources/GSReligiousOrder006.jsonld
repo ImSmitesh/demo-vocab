@@ -3,8 +3,8 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Wilhelmiten",
-    "en": "Hermits of St William",
-    "nl": "Wilhelmieten"
+    "nl": "Wilhelmieten",
+    "en": "Hermits of St William"
   },
   "altLabel": {
     "la": [
@@ -13,7 +13,14 @@
     ]
   },
   "definition": {
-    "de": "Der Orden der Wilhelmiten entwickelte sich aus einer in der Mitte des 12. Jahrhunderts entstandenen toskanischen Eremitengemeinschaft. Diese wurde später fälschlicherweise auf Herzog Wilhelm IX. von Aquitanien zurückgeführt. Die Ordensmitglieder lebten nach der Benediktregel und nach am Vorbild des Zisterzienserordens ausgerichteten Konstitutionen. Während in den ländlich gelegenen Klöstern der ursprüngliche eremitisch-monastische Lebensstil beibehalten wurde, passten sich die städtischen Niederlassungen dem der Mendikanten an. 1266 wurde ihre Eigenständigkeit von Clemens IV. bestätigt. Seit dem 13. Jahrhundert breiteten sie sich auch nördlich der Alpen aus. In Nordwesteuropa bestand der Orden bis zum Ende des 19. Jahrhunderts.\nDie Wilhelmiten betreuten auch Frauenklöster und Beginenkonvente; diese gehörten nicht zum Orden, auch wenn sie umgangssprachlich manchmal als \"Wilhelmitinnen\" bezeichnet werden."
+    "en": "Der Orden der Wilhelmiten entwickelte sich aus einer in der Mitte des 12. Jahrhunderts entstandenen toskanischen Eremitengemeinschaft. Diese wurde später fälschlicherweise auf Herzog Wilhelm IX. von Aquitanien zurückgeführt. Die Ordensmitglieder lebten nach der Benediktregel und nach am Vorbild des Zisterzienserordens ausgerichteten Konstitutionen. Während in den ländlich gelegenen Klöstern der ursprüngliche eremitisch-monastische Lebensstil beibehalten wurde, passten sich die städtischen Niederlassungen dem der Mendikanten an. 1266 wurde ihre Eigenständigkeit von Clemens IV. bestätigt. Seit dem 13. Jahrhundert breiteten sie sich auch nördlich der Alpen aus. In Nordwesteuropa bestand der Orden bis zum Ende des 19. Jahrhunderts.\nDie Wilhelmiten betreuten auch Frauenklöster und Beginenkonvente; diese gehörten nicht zum Orden, auch wenn sie umgangssprachlich manchmal als ",
+    "la": "Der Orden der Wilhelmiten entwickelte sich aus einer in der Mitte des 12. Jahrhunderts entstandenen toskanischen Eremitengemeinschaft. Diese wurde später fälschlicherweise auf Herzog Wilhelm IX. von Aquitanien zurückgeführt. Die Ordensmitglieder lebten nach der Benediktregel und nach am Vorbild des Zisterzienserordens ausgerichteten Konstitutionen. Während in den ländlich gelegenen Klöstern der ursprüngliche eremitisch-monastische Lebensstil beibehalten wurde, passten sich die städtischen Niederlassungen dem der Mendikanten an. 1266 wurde ihre Eigenständigkeit von Clemens IV. bestätigt. Seit dem 13. Jahrhundert breiteten sie sich auch nördlich der Alpen aus. In Nordwesteuropa bestand der Orden bis zum Ende des 19. Jahrhunderts.\nDie Wilhelmiten betreuten auch Frauenklöster und Beginenkonvente; diese gehörten nicht zum Orden, auch wenn sie umgangssprachlich manchmal als "
+  },
+  "example": {
+    "de": "o. S. Wilhelmi",
+    "nl": "o. S. Wilhelmi",
+    "en": "o. S. Wilhelmi",
+    "la": "o. S. Wilhelmi"
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder144",

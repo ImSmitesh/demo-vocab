@@ -6,6 +6,33 @@
   },
   "narrower": [
     {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder016",
+      "prefLabel": {
+        "de": "Benediktiner",
+        "nl": "Benedictijnen",
+        "en": "Benedictines",
+        "la": "Ordo Sancti Benedicti"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder033",
+      "prefLabel": {
+        "de": "Benediktinerinnen",
+        "nl": "Benedictinessen",
+        "en": "Benedictine Nuns",
+        "la": "Ordo Sancti Benedicti"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder028",
+      "prefLabel": {
+        "de": "Zisterzienserinnen",
+        "nl": "Cisterciënzerinnen",
+        "en": "Cistercian Nuns",
+        "la": "Ordo Cisterciensis"
+      }
+    },
+    {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder104",
       "prefLabel": {
         "de": "Coelestiner",
@@ -21,28 +48,9 @@
       }
     },
     {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder004",
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder103",
       "prefLabel": {
-        "de": "Kartäuser",
-        "en": "Carthusians",
-        "la": "Ordo Cartusiensis",
-        "nl": "Kartuizers"
-      }
-    },
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder027",
-      "prefLabel": {
-        "de": "Kartäuserinnen",
-        "en": "Carthusian nuns"
-      }
-    },
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder033",
-      "prefLabel": {
-        "de": "Benediktinerinnen",
-        "en": "Benedictine Nuns",
-        "la": "Ordo Sancti Benedicti",
-        "nl": "Benedictinessen"
+        "de": "Kamaldulenser"
       }
     },
     {
@@ -54,52 +62,36 @@
       }
     },
     {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder103",
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder004",
       "prefLabel": {
-        "de": "Kamaldulenser"
+        "de": "Kartäuser",
+        "nl": "Kartuizers",
+        "en": "Carthusians",
+        "la": "Ordo Cartusiensis"
       }
     },
     {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder028",
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder027",
       "prefLabel": {
-        "de": "Zisterzienserinnen",
-        "en": "Cistercian Nuns",
-        "la": "Ordo Cisterciensis",
-        "nl": "Cisterciënzerinnen"
+        "de": "Kartäuserinnen",
+        "en": "Carthusian nuns"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder005",
       "prefLabel": {
         "de": "Zisterzienser",
+        "nl": "Cisterciënzers",
         "en": "Cistercians",
-        "la": "Ordo Cisterciensis",
-        "nl": "Cisterciënzers"
-      }
-    },
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder006",
-      "prefLabel": {
-        "de": "Wilhelmiten",
-        "en": "Hermits of St William",
-        "nl": "Wilhelmieten"
+        "la": "Ordo Cisterciensis"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder038",
       "prefLabel": {
         "de": "Magdalenerinnen",
-        "en": "Magdalenes",
-        "nl": "Magdalenen"
-      }
-    },
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder016",
-      "prefLabel": {
-        "de": "Benediktiner",
-        "en": "Benedictines",
-        "la": "Ordo Sancti Benedicti",
-        "nl": "Benedictijnen"
+        "nl": "Magdalenen",
+        "en": "Magdalenes"
       }
     },
     {
@@ -108,6 +100,14 @@
         "de": "Trappisten",
         "en": "Trappists",
         "la": "Ordo Cisterciensium Reformatorum"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder006",
+      "prefLabel": {
+        "de": "Wilhelmiten",
+        "nl": "Wilhelmieten",
+        "en": "Hermits of St William"
       }
     }
   ],

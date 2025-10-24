@@ -4,13 +4,19 @@
   "prefLabel": {
     "de": "Cluniazenser"
   },
+  "example": {
+    "de": "o. Clun.",
+    "nl": "o. Clun.",
+    "en": "o. Clun.",
+    "la": "o. Clun."
+  },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder016",
     "prefLabel": {
       "de": "Benediktiner",
+      "nl": "Benedictijnen",
       "en": "Benedictines",
-      "la": "Ordo Sancti Benedicti",
-      "nl": "Benedictijnen"
+      "la": "Ordo Sancti Benedicti"
     }
   },
   "exactMatch": [

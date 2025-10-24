@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Franziskanerinnen der Dritten Regel",
+    "nl": "Tertiarissen",
     "en": "Tertiaries",
-    "la": "Tertius Ordo Franciscanus",
-    "nl": "Tertiarissen"
+    "la": "Tertius Ordo Franciscanus"
   },
   "altLabel": {
     "de": [
@@ -16,7 +16,10 @@
     ]
   },
   "definition": {
-    "de": "Im weitesten Sinne liegen die Anfänge der Franziskaner-Terziarinnen in der Bußbewegung und im weiblichen Semireligiosentum des Mittelalters. Diese fanden eine franziskanische Organisation im sogenannten Dritten Orden. 1289 veröffentlichte Nikolaus IV. eine Regel für die in Gemeinschaft lebenden Terziaren und teilte den franziskanischen Dritten Orden in weltliche Terziaren und regulierte, die nach der Art der Ordensleute lebten. Leo X. veröffentlichte 1521 eine neue Regel für den regulierten Dritten Orden: strengere Verklösterlichung und Unterstellung aller Terziarinnen-Klöster unter den Franziskanerorden."
+    "de": "Im weitesten Sinne liegen die Anfänge der Franziskaner-Terziarinnen in der Bußbewegung und im weiblichen Semireligiosentum des Mittelalters. Diese fanden eine franziskanische Organisation im sogenannten Dritten Orden. 1289 veröffentlichte Nikolaus IV. eine Regel für die in Gemeinschaft lebenden Terziaren und teilte den franziskanischen Dritten Orden in weltliche Terziaren und regulierte, die nach der Art der Ordensleute lebten. Leo X. veröffentlichte 1521 eine neue Regel für den regulierten Dritten Orden: strengere Verklösterlichung und Unterstellung aller Terziarinnen-Klöster unter den Franziskanerorden.",
+    "nl": "Im weitesten Sinne liegen die Anfänge der Franziskaner-Terziarinnen in der Bußbewegung und im weiblichen Semireligiosentum des Mittelalters. Diese fanden eine franziskanische Organisation im sogenannten Dritten Orden. 1289 veröffentlichte Nikolaus IV. eine Regel für die in Gemeinschaft lebenden Terziaren und teilte den franziskanischen Dritten Orden in weltliche Terziaren und regulierte, die nach der Art der Ordensleute lebten. Leo X. veröffentlichte 1521 eine neue Regel für den regulierten Dritten Orden: strengere Verklösterlichung und Unterstellung aller Terziarinnen-Klöster unter den Franziskanerorden.",
+    "en": "Im weitesten Sinne liegen die Anfänge der Franziskaner-Terziarinnen in der Bußbewegung und im weiblichen Semireligiosentum des Mittelalters. Diese fanden eine franziskanische Organisation im sogenannten Dritten Orden. 1289 veröffentlichte Nikolaus IV. eine Regel für die in Gemeinschaft lebenden Terziaren und teilte den franziskanischen Dritten Orden in weltliche Terziaren und regulierte, die nach der Art der Ordensleute lebten. Leo X. veröffentlichte 1521 eine neue Regel für den regulierten Dritten Orden: strengere Verklösterlichung und Unterstellung aller Terziarinnen-Klöster unter den Franziskanerorden.",
+    "la": "Im weitesten Sinne liegen die Anfänge der Franziskaner-Terziarinnen in der Bußbewegung und im weiblichen Semireligiosentum des Mittelalters. Diese fanden eine franziskanische Organisation im sogenannten Dritten Orden. 1289 veröffentlichte Nikolaus IV. eine Regel für die in Gemeinschaft lebenden Terziaren und teilte den franziskanischen Dritten Orden in weltliche Terziaren und regulierte, die nach der Art der Ordensleute lebten. Leo X. veröffentlichte 1521 eine neue Regel für den regulierten Dritten Orden: strengere Verklösterlichung und Unterstellung aller Terziarinnen-Klöster unter den Franziskanerorden."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder108",

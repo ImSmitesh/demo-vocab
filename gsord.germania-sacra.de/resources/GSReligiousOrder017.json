@@ -3,13 +3,17 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Birgitten",
+    "nl": "Birgitten",
     "en": "Bridgettines",
-    "la": "Ordo Sanctae Birgittae",
-    "nl": "Birgitten"
+    "la": "Ordo Sanctae Birgittae"
   },
   "altLabel": {
     "de": [
       "Orden der Heiligen Birgitta"
+    ],
+    "nl": [
+      "Birgittinessen",
+      "Salvator-Orde"
     ],
     "en": [
       "Bridgettine Nuns"
@@ -18,21 +22,26 @@
       "OSBirg",
       "OSSS",
       "Ordo Sancti (Sanctissimi) Salvatoris"
-    ],
-    "nl": [
-      "Birgittinessen",
-      "Salvator-Orde"
     ]
   },
   "definition": {
-    "de": "Der Name des Ordens, der der Regel des Heiligen Augustinus folgt, geht auf die mittelalterliche Mystikerin Birgitta von Schweden († 1373) zurück. Nach dem Tod ihres Mannes widmete Birgitta ihr Leben dem Gebet und erlebte Visionen, von denen eine die Gründung eines Ordens war. 1370 gestattete Papst Urban V. die Stiftung eines Nonnen- und eines Priesterklosters in Vadstena mit der Regula Salvatoris als Satzung zur Augustinusregel. Weitere Klöster folgten, jedes mit nicht mehr als 60 Nonnen. Jedem Kloster war eine parallele Gemeinschaft von Mönchen angegliedert, die unter der Leitung der Äbtissin das gleiche liturgische Leben teilten. Der Orden, der Demut, Einfachheit und Kontemplation betonte, blühte bis zur Reformation und wurde 1595 aus Schweden verbannt. Nach dieser Zeit gab es keine Birgittinermönche mehr; nur vier selbständige Nonnenhäuser überlebten die Säkularisation: eines in England, ein weiteres in Bayern (Altomünster) und zwei in den Niederlanden."
+    "de": "Der Name des Ordens, der der Regel des Heiligen Augustinus folgt, geht auf die mittelalterliche Mystikerin Birgitta von Schweden († 1373) zurück. Nach dem Tod ihres Mannes widmete Birgitta ihr Leben dem Gebet und erlebte Visionen, von denen eine die Gründung eines Ordens war. 1370 gestattete Papst Urban V. die Stiftung eines Nonnen- und eines Priesterklosters in Vadstena mit der Regula Salvatoris als Satzung zur Augustinusregel. Weitere Klöster folgten, jedes mit nicht mehr als 60 Nonnen. Jedem Kloster war eine parallele Gemeinschaft von Mönchen angegliedert, die unter der Leitung der Äbtissin das gleiche liturgische Leben teilten. Der Orden, der Demut, Einfachheit und Kontemplation betonte, blühte bis zur Reformation und wurde 1595 aus Schweden verbannt. Nach dieser Zeit gab es keine Birgittinermönche mehr; nur vier selbständige Nonnenhäuser überlebten die Säkularisation: eines in England, ein weiteres in Bayern (Altomünster) und zwei in den Niederlanden.",
+    "nl": "Der Name des Ordens, der der Regel des Heiligen Augustinus folgt, geht auf die mittelalterliche Mystikerin Birgitta von Schweden († 1373) zurück. Nach dem Tod ihres Mannes widmete Birgitta ihr Leben dem Gebet und erlebte Visionen, von denen eine die Gründung eines Ordens war. 1370 gestattete Papst Urban V. die Stiftung eines Nonnen- und eines Priesterklosters in Vadstena mit der Regula Salvatoris als Satzung zur Augustinusregel. Weitere Klöster folgten, jedes mit nicht mehr als 60 Nonnen. Jedem Kloster war eine parallele Gemeinschaft von Mönchen angegliedert, die unter der Leitung der Äbtissin das gleiche liturgische Leben teilten. Der Orden, der Demut, Einfachheit und Kontemplation betonte, blühte bis zur Reformation und wurde 1595 aus Schweden verbannt. Nach dieser Zeit gab es keine Birgittinermönche mehr; nur vier selbständige Nonnenhäuser überlebten die Säkularisation: eines in England, ein weiteres in Bayern (Altomünster) und zwei in den Niederlanden.",
+    "en": "Der Name des Ordens, der der Regel des Heiligen Augustinus folgt, geht auf die mittelalterliche Mystikerin Birgitta von Schweden († 1373) zurück. Nach dem Tod ihres Mannes widmete Birgitta ihr Leben dem Gebet und erlebte Visionen, von denen eine die Gründung eines Ordens war. 1370 gestattete Papst Urban V. die Stiftung eines Nonnen- und eines Priesterklosters in Vadstena mit der Regula Salvatoris als Satzung zur Augustinusregel. Weitere Klöster folgten, jedes mit nicht mehr als 60 Nonnen. Jedem Kloster war eine parallele Gemeinschaft von Mönchen angegliedert, die unter der Leitung der Äbtissin das gleiche liturgische Leben teilten. Der Orden, der Demut, Einfachheit und Kontemplation betonte, blühte bis zur Reformation und wurde 1595 aus Schweden verbannt. Nach dieser Zeit gab es keine Birgittinermönche mehr; nur vier selbständige Nonnenhäuser überlebten die Säkularisation: eines in England, ein weiteres in Bayern (Altomünster) und zwei in den Niederlanden.",
+    "la": "Der Name des Ordens, der der Regel des Heiligen Augustinus folgt, geht auf die mittelalterliche Mystikerin Birgitta von Schweden († 1373) zurück. Nach dem Tod ihres Mannes widmete Birgitta ihr Leben dem Gebet und erlebte Visionen, von denen eine die Gründung eines Ordens war. 1370 gestattete Papst Urban V. die Stiftung eines Nonnen- und eines Priesterklosters in Vadstena mit der Regula Salvatoris als Satzung zur Augustinusregel. Weitere Klöster folgten, jedes mit nicht mehr als 60 Nonnen. Jedem Kloster war eine parallele Gemeinschaft von Mönchen angegliedert, die unter der Leitung der Äbtissin das gleiche liturgische Leben teilten. Der Orden, der Demut, Einfachheit und Kontemplation betonte, blühte bis zur Reformation und wurde 1595 aus Schweden verbannt. Nach dieser Zeit gab es keine Birgittinermönche mehr; nur vier selbständige Nonnenhäuser überlebten die Säkularisation: eines in England, ein weiteres in Bayern (Altomünster) und zwei in den Niederlanden."
+  },
+  "example": {
+    "de": "o. s. Brigide",
+    "nl": "o. s. Brigide",
+    "en": "o. s. Brigide",
+    "la": "o. s. Brigide"
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder130",
     "prefLabel": {
       "de": "Orden nach der Augustinusregel",
-      "en": "Augustinian Orders",
-      "nl": "Augustijnen"
+      "nl": "Augustijnen",
+      "en": "Augustinian Orders"
     }
   },
   "exactMatch": [

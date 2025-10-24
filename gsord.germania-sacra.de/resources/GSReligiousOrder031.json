@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Prämonstratenserinnen",
+    "nl": "Norbertinessen",
     "en": "Premonstratensian Canonesses",
-    "la": "Ordo Praemonstratensis",
-    "nl": "Norbertinessen"
+    "la": "Ordo Praemonstratensis"
   },
   "altLabel": {
     "de": [
@@ -16,15 +16,18 @@
     ]
   },
   "definition": {
-    "de": "Der Reformbewegung des Norbert von Xanten, die sich ab 1120 entwickelte, gehörten von Beginn an auch Frauen an. Sie lebten ursprünglich mit den männlichen Ordensangehörigen in Doppelklöstern und folgten ebenfalls der Augustinusregel. Sie lebten in strenger Klausur, verrichteten leichtere landwirtschaftlich-handwerkliche Tätigkeiten auf den Klostergütern und legten Wert auf Bildung. Ab etwa 1137 wurden Frauenkonvente auf separate Klosterhöfe verlegt, es bestand dabei weiterhin eine Gütergemeinschaft mit Männerklöstern. Zugleich wurden neue Frauenklöster mit eigenem Vermögen gestiftet, die rechtlich einem Männerkloster zugeordnet waren. Um 1160/70 verbot das Generalkapitel, Frauen in den Orden neu aufzunehmen. Dieser Beschluss wurde 1198 von Innozenz III. bestätigt. Frauenklöster mit eigenem Vermögen fielen zwar nicht unter das Verbot, schlossen sich bis zum 14. Jahrhundert jedoch mehrheitlich anderen Orden, insbesondere den Zisterziensern, an. In Westdeutschland überlebten über 50 Frauenklöster, die jedoch während der Reformation und Säkularisation untergingen."
+    "de": "Der Reformbewegung des Norbert von Xanten, die sich ab 1120 entwickelte, gehörten von Beginn an auch Frauen an. Sie lebten ursprünglich mit den männlichen Ordensangehörigen in Doppelklöstern und folgten ebenfalls der Augustinusregel. Sie lebten in strenger Klausur, verrichteten leichtere landwirtschaftlich-handwerkliche Tätigkeiten auf den Klostergütern und legten Wert auf Bildung. Ab etwa 1137 wurden Frauenkonvente auf separate Klosterhöfe verlegt, es bestand dabei weiterhin eine Gütergemeinschaft mit Männerklöstern. Zugleich wurden neue Frauenklöster mit eigenem Vermögen gestiftet, die rechtlich einem Männerkloster zugeordnet waren. Um 1160/70 verbot das Generalkapitel, Frauen in den Orden neu aufzunehmen. Dieser Beschluss wurde 1198 von Innozenz III. bestätigt. Frauenklöster mit eigenem Vermögen fielen zwar nicht unter das Verbot, schlossen sich bis zum 14. Jahrhundert jedoch mehrheitlich anderen Orden, insbesondere den Zisterziensern, an. In Westdeutschland überlebten über 50 Frauenklöster, die jedoch während der Reformation und Säkularisation untergingen.",
+    "nl": "Der Reformbewegung des Norbert von Xanten, die sich ab 1120 entwickelte, gehörten von Beginn an auch Frauen an. Sie lebten ursprünglich mit den männlichen Ordensangehörigen in Doppelklöstern und folgten ebenfalls der Augustinusregel. Sie lebten in strenger Klausur, verrichteten leichtere landwirtschaftlich-handwerkliche Tätigkeiten auf den Klostergütern und legten Wert auf Bildung. Ab etwa 1137 wurden Frauenkonvente auf separate Klosterhöfe verlegt, es bestand dabei weiterhin eine Gütergemeinschaft mit Männerklöstern. Zugleich wurden neue Frauenklöster mit eigenem Vermögen gestiftet, die rechtlich einem Männerkloster zugeordnet waren. Um 1160/70 verbot das Generalkapitel, Frauen in den Orden neu aufzunehmen. Dieser Beschluss wurde 1198 von Innozenz III. bestätigt. Frauenklöster mit eigenem Vermögen fielen zwar nicht unter das Verbot, schlossen sich bis zum 14. Jahrhundert jedoch mehrheitlich anderen Orden, insbesondere den Zisterziensern, an. In Westdeutschland überlebten über 50 Frauenklöster, die jedoch während der Reformation und Säkularisation untergingen.",
+    "en": "Der Reformbewegung des Norbert von Xanten, die sich ab 1120 entwickelte, gehörten von Beginn an auch Frauen an. Sie lebten ursprünglich mit den männlichen Ordensangehörigen in Doppelklöstern und folgten ebenfalls der Augustinusregel. Sie lebten in strenger Klausur, verrichteten leichtere landwirtschaftlich-handwerkliche Tätigkeiten auf den Klostergütern und legten Wert auf Bildung. Ab etwa 1137 wurden Frauenkonvente auf separate Klosterhöfe verlegt, es bestand dabei weiterhin eine Gütergemeinschaft mit Männerklöstern. Zugleich wurden neue Frauenklöster mit eigenem Vermögen gestiftet, die rechtlich einem Männerkloster zugeordnet waren. Um 1160/70 verbot das Generalkapitel, Frauen in den Orden neu aufzunehmen. Dieser Beschluss wurde 1198 von Innozenz III. bestätigt. Frauenklöster mit eigenem Vermögen fielen zwar nicht unter das Verbot, schlossen sich bis zum 14. Jahrhundert jedoch mehrheitlich anderen Orden, insbesondere den Zisterziensern, an. In Westdeutschland überlebten über 50 Frauenklöster, die jedoch während der Reformation und Säkularisation untergingen.",
+    "la": "Der Reformbewegung des Norbert von Xanten, die sich ab 1120 entwickelte, gehörten von Beginn an auch Frauen an. Sie lebten ursprünglich mit den männlichen Ordensangehörigen in Doppelklöstern und folgten ebenfalls der Augustinusregel. Sie lebten in strenger Klausur, verrichteten leichtere landwirtschaftlich-handwerkliche Tätigkeiten auf den Klostergütern und legten Wert auf Bildung. Ab etwa 1137 wurden Frauenkonvente auf separate Klosterhöfe verlegt, es bestand dabei weiterhin eine Gütergemeinschaft mit Männerklöstern. Zugleich wurden neue Frauenklöster mit eigenem Vermögen gestiftet, die rechtlich einem Männerkloster zugeordnet waren. Um 1160/70 verbot das Generalkapitel, Frauen in den Orden neu aufzunehmen. Dieser Beschluss wurde 1198 von Innozenz III. bestätigt. Frauenklöster mit eigenem Vermögen fielen zwar nicht unter das Verbot, schlossen sich bis zum 14. Jahrhundert jedoch mehrheitlich anderen Orden, insbesondere den Zisterziensern, an. In Westdeutschland überlebten über 50 Frauenklöster, die jedoch während der Reformation und Säkularisation untergingen."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder113",
     "prefLabel": {
       "de": "Regularkanoniker",
+      "nl": "Reguliere kanunniken",
       "en": "Canons Regular",
-      "la": "Canonici regulares",
-      "nl": "Reguliere kanunniken"
+      "la": "Canonici regulares"
     }
   },
   "related": [
@@ -32,17 +35,17 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder025",
       "prefLabel": {
         "de": "Augustinerchorfrauen",
-        "en": "Canonesses Regular of St Augustine",
-        "nl": "Augustinessen"
+        "nl": "Augustinessen",
+        "en": "Canonesses Regular of St Augustine"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder014",
       "prefLabel": {
         "de": "Prämonstratenser",
+        "nl": "Norbertijnen",
         "en": "Premonstratensians",
-        "la": "Ordo Praemonstratensis",
-        "nl": "Norbertijnen"
+        "la": "Ordo Praemonstratensis"
       }
     }
   ],

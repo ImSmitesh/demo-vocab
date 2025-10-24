@@ -16,14 +16,17 @@
     ]
   },
   "definition": {
-    "de": "Bei den Kapuzinerinnen handelt es sich um Terziarinnen des regulierten Dritten Ordens des Franziskus von Assisi. Ihre Aufgabe war unter anderem die Mädchenbildung. Die Niederlassungen der Franziskaner-Terziarinnen des 14.-16. Jahrhunderts, welche die Reformation überdauert hatten, erfuhren im Sinne der Kapuziner eine Umwandlung in Kapuzinerinnenklöster. 1589-1591 wurde unter Anleitung des Kapuziners Ludwig von Einsiedel aus Sachsen zuerst das Kloster Pfanneregg bei Wattwil dementsprechend neu organisiert, weshalb man die unter Elisabeth Spitzlin fortgeführte Umwandlung weiterer Terziarinnen-Niederlassungen auch als Pfanneregger Reform bezeichnet."
+    "de": "Bei den Kapuzinerinnen handelt es sich um Terziarinnen des regulierten Dritten Ordens des Franziskus von Assisi. Ihre Aufgabe war unter anderem die Mädchenbildung. Die Niederlassungen der Franziskaner-Terziarinnen des 14.-16. Jahrhunderts, welche die Reformation überdauert hatten, erfuhren im Sinne der Kapuziner eine Umwandlung in Kapuzinerinnenklöster. 1589-1591 wurde unter Anleitung des Kapuziners Ludwig von Einsiedel aus Sachsen zuerst das Kloster Pfanneregg bei Wattwil dementsprechend neu organisiert, weshalb man die unter Elisabeth Spitzlin fortgeführte Umwandlung weiterer Terziarinnen-Niederlassungen auch als Pfanneregger Reform bezeichnet.",
+    "nl": "Bei den Kapuzinerinnen handelt es sich um Terziarinnen des regulierten Dritten Ordens des Franziskus von Assisi. Ihre Aufgabe war unter anderem die Mädchenbildung. Die Niederlassungen der Franziskaner-Terziarinnen des 14.-16. Jahrhunderts, welche die Reformation überdauert hatten, erfuhren im Sinne der Kapuziner eine Umwandlung in Kapuzinerinnenklöster. 1589-1591 wurde unter Anleitung des Kapuziners Ludwig von Einsiedel aus Sachsen zuerst das Kloster Pfanneregg bei Wattwil dementsprechend neu organisiert, weshalb man die unter Elisabeth Spitzlin fortgeführte Umwandlung weiterer Terziarinnen-Niederlassungen auch als Pfanneregger Reform bezeichnet.",
+    "en": "Bei den Kapuzinerinnen handelt es sich um Terziarinnen des regulierten Dritten Ordens des Franziskus von Assisi. Ihre Aufgabe war unter anderem die Mädchenbildung. Die Niederlassungen der Franziskaner-Terziarinnen des 14.-16. Jahrhunderts, welche die Reformation überdauert hatten, erfuhren im Sinne der Kapuziner eine Umwandlung in Kapuzinerinnenklöster. 1589-1591 wurde unter Anleitung des Kapuziners Ludwig von Einsiedel aus Sachsen zuerst das Kloster Pfanneregg bei Wattwil dementsprechend neu organisiert, weshalb man die unter Elisabeth Spitzlin fortgeführte Umwandlung weiterer Terziarinnen-Niederlassungen auch als Pfanneregger Reform bezeichnet.",
+    "la": "Bei den Kapuzinerinnen handelt es sich um Terziarinnen des regulierten Dritten Ordens des Franziskus von Assisi. Ihre Aufgabe war unter anderem die Mädchenbildung. Die Niederlassungen der Franziskaner-Terziarinnen des 14.-16. Jahrhunderts, welche die Reformation überdauert hatten, erfuhren im Sinne der Kapuziner eine Umwandlung in Kapuzinerinnenklöster. 1589-1591 wurde unter Anleitung des Kapuziners Ludwig von Einsiedel aus Sachsen zuerst das Kloster Pfanneregg bei Wattwil dementsprechend neu organisiert, weshalb man die unter Elisabeth Spitzlin fortgeführte Umwandlung weiterer Terziarinnen-Niederlassungen auch als Pfanneregger Reform bezeichnet."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder065",
     "prefLabel": {
       "de": "Kapuzinerinnen",
-      "en": "Capuchiness",
       "nl": "Kapucijner Nons",
+      "en": "Capuchiness",
       "it": "Cappuccine"
     }
   },
@@ -32,8 +35,8 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder008",
       "prefLabel": {
         "de": "Kapuziner",
-        "en": "Capuchins",
-        "nl": "Kapucijnen"
+        "nl": "Kapucijnen",
+        "en": "Capuchins"
       }
     }
   ],

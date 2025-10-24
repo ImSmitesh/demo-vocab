@@ -3,13 +3,16 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Dominikaner",
+    "nl": "Dominicanen",
     "en": "Dominicans",
-    "la": "Ordo fratrum Praedicatorum",
-    "nl": "Dominicanen"
+    "la": "Ordo fratrum Praedicatorum"
   },
   "altLabel": {
     "de": [
       "Orden der Predigerbrüder"
+    ],
+    "nl": [
+      "Predikheren"
     ],
     "en": [
       "Blackfriars"
@@ -17,13 +20,19 @@
     "la": [
       "OP",
       "Ordo Praedicatorum"
-    ],
-    "nl": [
-      "Predikheren"
     ]
   },
   "definition": {
-    "de": "Der Dominikanerorden ist ein vom hl. Dominikus († 1221) im Jahr 1215 in Toulouse gegründeter Orden, der sich der Augustinusregel verpflichtete. Zu den Neuerungen dieses Ordens gehörten die lebenslange Verpflichtung zum Studium der Theologie und zur Predigt. Insbesondere durch die Ausweitung des Predigtmandats auf die gesamte Christenheit trug der Orden zur einer Veränderung des kirchlichen Pastorals bei, denn bis zu diesem Zeitpunkt war das Predigeramt allein den Bischöfen vorbehalten. Ferner wurde 1220 ein striktes Besitzlosigkeitsgebot in die Konstitutionen aufgenommen. Neben der Armut wurde auch die Askese des Studiums zur Buße gezählt. Mit der Verbindung von Kontemplation und Aktion sowie Mönchtum und Priestertum wurden die Dominikaner zum Vorbild anderer Bettelorden. Zunächst ließ sich der Orden in wichtigen Städten nieder, seit der 2. Hälfte des 13. Jahrhunderts auch in kleineren. Um 1220/50 verbreitete sich der Orden stark in Italien und Frankreich, ein zweiter Ausbreitungsschub 1270/1300 führte besonders in Mittel- und Nordeuropa zur Gründung neuer Konvente. Im Zuge der Reformation verlor der Orden seine Niederlassungen in den protestantischen Gebieten, während er in den katholischen Regionen im Rahmen der Gegenreformation deutlich anwuchs. Die Säkularisation führte zum Niedergang des Ordens in Deutschland und Frankreich und in Teilen auch in Italien."
+    "de": "Der Dominikanerorden ist ein vom hl. Dominikus († 1221) im Jahr 1215 in Toulouse gegründeter Orden, der sich der Augustinusregel verpflichtete. Zu den Neuerungen dieses Ordens gehörten die lebenslange Verpflichtung zum Studium der Theologie und zur Predigt. Insbesondere durch die Ausweitung des Predigtmandats auf die gesamte Christenheit trug der Orden zur einer Veränderung des kirchlichen Pastorals bei, denn bis zu diesem Zeitpunkt war das Predigeramt allein den Bischöfen vorbehalten. Ferner wurde 1220 ein striktes Besitzlosigkeitsgebot in die Konstitutionen aufgenommen. Neben der Armut wurde auch die Askese des Studiums zur Buße gezählt. Mit der Verbindung von Kontemplation und Aktion sowie Mönchtum und Priestertum wurden die Dominikaner zum Vorbild anderer Bettelorden. Zunächst ließ sich der Orden in wichtigen Städten nieder, seit der 2. Hälfte des 13. Jahrhunderts auch in kleineren. Um 1220/50 verbreitete sich der Orden stark in Italien und Frankreich, ein zweiter Ausbreitungsschub 1270/1300 führte besonders in Mittel- und Nordeuropa zur Gründung neuer Konvente. Im Zuge der Reformation verlor der Orden seine Niederlassungen in den protestantischen Gebieten, während er in den katholischen Regionen im Rahmen der Gegenreformation deutlich anwuchs. Die Säkularisation führte zum Niedergang des Ordens in Deutschland und Frankreich und in Teilen auch in Italien.",
+    "nl": "Der Dominikanerorden ist ein vom hl. Dominikus († 1221) im Jahr 1215 in Toulouse gegründeter Orden, der sich der Augustinusregel verpflichtete. Zu den Neuerungen dieses Ordens gehörten die lebenslange Verpflichtung zum Studium der Theologie und zur Predigt. Insbesondere durch die Ausweitung des Predigtmandats auf die gesamte Christenheit trug der Orden zur einer Veränderung des kirchlichen Pastorals bei, denn bis zu diesem Zeitpunkt war das Predigeramt allein den Bischöfen vorbehalten. Ferner wurde 1220 ein striktes Besitzlosigkeitsgebot in die Konstitutionen aufgenommen. Neben der Armut wurde auch die Askese des Studiums zur Buße gezählt. Mit der Verbindung von Kontemplation und Aktion sowie Mönchtum und Priestertum wurden die Dominikaner zum Vorbild anderer Bettelorden. Zunächst ließ sich der Orden in wichtigen Städten nieder, seit der 2. Hälfte des 13. Jahrhunderts auch in kleineren. Um 1220/50 verbreitete sich der Orden stark in Italien und Frankreich, ein zweiter Ausbreitungsschub 1270/1300 führte besonders in Mittel- und Nordeuropa zur Gründung neuer Konvente. Im Zuge der Reformation verlor der Orden seine Niederlassungen in den protestantischen Gebieten, während er in den katholischen Regionen im Rahmen der Gegenreformation deutlich anwuchs. Die Säkularisation führte zum Niedergang des Ordens in Deutschland und Frankreich und in Teilen auch in Italien.",
+    "en": "Der Dominikanerorden ist ein vom hl. Dominikus († 1221) im Jahr 1215 in Toulouse gegründeter Orden, der sich der Augustinusregel verpflichtete. Zu den Neuerungen dieses Ordens gehörten die lebenslange Verpflichtung zum Studium der Theologie und zur Predigt. Insbesondere durch die Ausweitung des Predigtmandats auf die gesamte Christenheit trug der Orden zur einer Veränderung des kirchlichen Pastorals bei, denn bis zu diesem Zeitpunkt war das Predigeramt allein den Bischöfen vorbehalten. Ferner wurde 1220 ein striktes Besitzlosigkeitsgebot in die Konstitutionen aufgenommen. Neben der Armut wurde auch die Askese des Studiums zur Buße gezählt. Mit der Verbindung von Kontemplation und Aktion sowie Mönchtum und Priestertum wurden die Dominikaner zum Vorbild anderer Bettelorden. Zunächst ließ sich der Orden in wichtigen Städten nieder, seit der 2. Hälfte des 13. Jahrhunderts auch in kleineren. Um 1220/50 verbreitete sich der Orden stark in Italien und Frankreich, ein zweiter Ausbreitungsschub 1270/1300 führte besonders in Mittel- und Nordeuropa zur Gründung neuer Konvente. Im Zuge der Reformation verlor der Orden seine Niederlassungen in den protestantischen Gebieten, während er in den katholischen Regionen im Rahmen der Gegenreformation deutlich anwuchs. Die Säkularisation führte zum Niedergang des Ordens in Deutschland und Frankreich und in Teilen auch in Italien.",
+    "la": "Der Dominikanerorden ist ein vom hl. Dominikus († 1221) im Jahr 1215 in Toulouse gegründeter Orden, der sich der Augustinusregel verpflichtete. Zu den Neuerungen dieses Ordens gehörten die lebenslange Verpflichtung zum Studium der Theologie und zur Predigt. Insbesondere durch die Ausweitung des Predigtmandats auf die gesamte Christenheit trug der Orden zur einer Veränderung des kirchlichen Pastorals bei, denn bis zu diesem Zeitpunkt war das Predigeramt allein den Bischöfen vorbehalten. Ferner wurde 1220 ein striktes Besitzlosigkeitsgebot in die Konstitutionen aufgenommen. Neben der Armut wurde auch die Askese des Studiums zur Buße gezählt. Mit der Verbindung von Kontemplation und Aktion sowie Mönchtum und Priestertum wurden die Dominikaner zum Vorbild anderer Bettelorden. Zunächst ließ sich der Orden in wichtigen Städten nieder, seit der 2. Hälfte des 13. Jahrhunderts auch in kleineren. Um 1220/50 verbreitete sich der Orden stark in Italien und Frankreich, ein zweiter Ausbreitungsschub 1270/1300 führte besonders in Mittel- und Nordeuropa zur Gründung neuer Konvente. Im Zuge der Reformation verlor der Orden seine Niederlassungen in den protestantischen Gebieten, während er in den katholischen Regionen im Rahmen der Gegenreformation deutlich anwuchs. Die Säkularisation führte zum Niedergang des Ordens in Deutschland und Frankreich und in Teilen auch in Italien."
+  },
+  "example": {
+    "de": "o. pred.",
+    "nl": "o. pred.",
+    "en": "o. pred.",
+    "la": "o. pred."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder108",
@@ -33,20 +42,20 @@
   },
   "related": [
     {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder084",
-      "prefLabel": {
-        "de": "Dominikaner-Terziarinnen",
-        "en": "Tertiaries of St Dominicus",
-        "nl": "Tertiarissen van Sint-Dominicus"
-      }
-    },
-    {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder030",
       "prefLabel": {
         "de": "Dominikanerinnen",
+        "nl": "Dominicanessen",
         "en": "Dominican Nuns",
-        "la": "Ordo fratrum Praedicatorum",
-        "nl": "Dominicanessen"
+        "la": "Ordo fratrum Praedicatorum"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder084",
+      "prefLabel": {
+        "de": "Dominikaner-Terziarinnen",
+        "nl": "Tertiarissen van Sint-Dominicus",
+        "en": "Tertiaries of St Dominicus"
       }
     }
   ],

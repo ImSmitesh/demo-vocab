@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Klarissen",
+    "nl": "Clarissen",
     "en": "Poor Clares",
-    "la": "Ordo Sanctae Clarae",
-    "nl": "Clarissen"
+    "la": "Ordo Sanctae Clarae"
   },
   "altLabel": {
     "la": [
@@ -13,15 +13,24 @@
     ]
   },
   "definition": {
-    "de": "Der Frauenorden der Klarissen wurde 1212 von Franziskus und Klara von Assisi mit einer ersten Niederlassung in S. Damiano gegründet. Die Klarissen bestehen in enger Bindung an den Franziskaner-Orden und leben im Bemühen um die Nachfolge Christi in höchster Armut. Die 1247 von Klara von Assisi konzipierte und 1253 durch Innozenz IV. approbierte Ordensregel galt nur für S. Damiano und wenige andere Klöster. Infolge einer neuen 1263 durch Urban IV. approbierten Regel, die unter anderem den Güterbesitz gewährte, kam es zu zwei Observanzen: Den 'armen' Klarissen mit Klara-Regel und den 'reichen' Klarissen mit Urban-Regel, den Urbanistinnen. Eine Reformbewegung zur Wiederherstellung der Einheit im Orden führte im 16. Jahrhundert zur Gründung der Klarissen-Kapuzinerinnen mit radikalem Armutspostulat, strenger Klausur und intensivem Gebetsleben."
+    "de": "Der Frauenorden der Klarissen wurde 1212 von Franziskus und Klara von Assisi mit einer ersten Niederlassung in S. Damiano gegründet. Die Klarissen bestehen in enger Bindung an den Franziskaner-Orden und leben im Bemühen um die Nachfolge Christi in höchster Armut. Die 1247 von Klara von Assisi konzipierte und 1253 durch Innozenz IV. approbierte Ordensregel galt nur für S. Damiano und wenige andere Klöster. Infolge einer neuen 1263 durch Urban IV. approbierten Regel, die unter anderem den Güterbesitz gewährte, kam es zu zwei Observanzen: Den 'armen' Klarissen mit Klara-Regel und den 'reichen' Klarissen mit Urban-Regel, den Urbanistinnen. Eine Reformbewegung zur Wiederherstellung der Einheit im Orden führte im 16. Jahrhundert zur Gründung der Klarissen-Kapuzinerinnen mit radikalem Armutspostulat, strenger Klausur und intensivem Gebetsleben.",
+    "nl": "Der Frauenorden der Klarissen wurde 1212 von Franziskus und Klara von Assisi mit einer ersten Niederlassung in S. Damiano gegründet. Die Klarissen bestehen in enger Bindung an den Franziskaner-Orden und leben im Bemühen um die Nachfolge Christi in höchster Armut. Die 1247 von Klara von Assisi konzipierte und 1253 durch Innozenz IV. approbierte Ordensregel galt nur für S. Damiano und wenige andere Klöster. Infolge einer neuen 1263 durch Urban IV. approbierten Regel, die unter anderem den Güterbesitz gewährte, kam es zu zwei Observanzen: Den 'armen' Klarissen mit Klara-Regel und den 'reichen' Klarissen mit Urban-Regel, den Urbanistinnen. Eine Reformbewegung zur Wiederherstellung der Einheit im Orden führte im 16. Jahrhundert zur Gründung der Klarissen-Kapuzinerinnen mit radikalem Armutspostulat, strenger Klausur und intensivem Gebetsleben.",
+    "en": "Der Frauenorden der Klarissen wurde 1212 von Franziskus und Klara von Assisi mit einer ersten Niederlassung in S. Damiano gegründet. Die Klarissen bestehen in enger Bindung an den Franziskaner-Orden und leben im Bemühen um die Nachfolge Christi in höchster Armut. Die 1247 von Klara von Assisi konzipierte und 1253 durch Innozenz IV. approbierte Ordensregel galt nur für S. Damiano und wenige andere Klöster. Infolge einer neuen 1263 durch Urban IV. approbierten Regel, die unter anderem den Güterbesitz gewährte, kam es zu zwei Observanzen: Den 'armen' Klarissen mit Klara-Regel und den 'reichen' Klarissen mit Urban-Regel, den Urbanistinnen. Eine Reformbewegung zur Wiederherstellung der Einheit im Orden führte im 16. Jahrhundert zur Gründung der Klarissen-Kapuzinerinnen mit radikalem Armutspostulat, strenger Klausur und intensivem Gebetsleben.",
+    "la": "Der Frauenorden der Klarissen wurde 1212 von Franziskus und Klara von Assisi mit einer ersten Niederlassung in S. Damiano gegründet. Die Klarissen bestehen in enger Bindung an den Franziskaner-Orden und leben im Bemühen um die Nachfolge Christi in höchster Armut. Die 1247 von Klara von Assisi konzipierte und 1253 durch Innozenz IV. approbierte Ordensregel galt nur für S. Damiano und wenige andere Klöster. Infolge einer neuen 1263 durch Urban IV. approbierten Regel, die unter anderem den Güterbesitz gewährte, kam es zu zwei Observanzen: Den 'armen' Klarissen mit Klara-Regel und den 'reichen' Klarissen mit Urban-Regel, den Urbanistinnen. Eine Reformbewegung zur Wiederherstellung der Einheit im Orden führte im 16. Jahrhundert zur Gründung der Klarissen-Kapuzinerinnen mit radikalem Armutspostulat, strenger Klausur und intensivem Gebetsleben."
+  },
+  "example": {
+    "de": "o. s. Clare",
+    "nl": "o. s. Clare",
+    "en": "o. s. Clare",
+    "la": "o. s. Clare"
   },
   "narrower": [
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder125",
       "prefLabel": {
         "de": "Colettinnen",
-        "en": "Caulites",
-        "nl": "Caulieten"
+        "nl": "Caulieten",
+        "en": "Caulites"
       }
     }
   ],

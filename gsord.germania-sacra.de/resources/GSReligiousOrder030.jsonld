@@ -3,14 +3,20 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Dominikanerinnen",
+    "nl": "Dominicanessen",
     "en": "Dominican Nuns",
-    "la": "Ordo fratrum Praedicatorum",
-    "nl": "Dominicanessen"
+    "la": "Ordo fratrum Praedicatorum"
   },
   "altLabel": {
     "la": [
       "OP (w)"
     ]
+  },
+  "definition": {
+    "de": "Die Dominikanerinnen entstanden vor dem Hintergrund der im 13. Jahrhundert verbreiteten Klausurbewegung unter Frauen, die im Anschluss an bereits bestehende Orden und dessen Klöster in Gemeinschaft leben wollten. Sie folgten der Augustinusregel und wurden 1267 in den Dominikanerorden inkorporiert. Die Dominikanerinnen gelten als wichtige Rezipientinnen und Verbreiterinnen der mittelalterlichen Erbauungsliteratur.",
+    "nl": "Die Dominikanerinnen entstanden vor dem Hintergrund der im 13. Jahrhundert verbreiteten Klausurbewegung unter Frauen, die im Anschluss an bereits bestehende Orden und dessen Klöster in Gemeinschaft leben wollten. Sie folgten der Augustinusregel und wurden 1267 in den Dominikanerorden inkorporiert. Die Dominikanerinnen gelten als wichtige Rezipientinnen und Verbreiterinnen der mittelalterlichen Erbauungsliteratur.",
+    "en": "Die Dominikanerinnen entstanden vor dem Hintergrund der im 13. Jahrhundert verbreiteten Klausurbewegung unter Frauen, die im Anschluss an bereits bestehende Orden und dessen Klöster in Gemeinschaft leben wollten. Sie folgten der Augustinusregel und wurden 1267 in den Dominikanerorden inkorporiert. Die Dominikanerinnen gelten als wichtige Rezipientinnen und Verbreiterinnen der mittelalterlichen Erbauungsliteratur.",
+    "la": "Die Dominikanerinnen entstanden vor dem Hintergrund der im 13. Jahrhundert verbreiteten Klausurbewegung unter Frauen, die im Anschluss an bereits bestehende Orden und dessen Klöster in Gemeinschaft leben wollten. Sie folgten der Augustinusregel und wurden 1267 in den Dominikanerorden inkorporiert. Die Dominikanerinnen gelten als wichtige Rezipientinnen und Verbreiterinnen der mittelalterlichen Erbauungsliteratur."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder108",
@@ -20,28 +26,28 @@
   },
   "related": [
     {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder084",
-      "prefLabel": {
-        "de": "Dominikaner-Terziarinnen",
-        "en": "Tertiaries of St Dominicus",
-        "nl": "Tertiarissen van Sint-Dominicus"
-      }
-    },
-    {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder013",
       "prefLabel": {
         "de": "Dominikaner",
+        "nl": "Dominicanen",
         "en": "Dominicans",
-        "la": "Ordo fratrum Praedicatorum",
-        "nl": "Dominicanen"
+        "la": "Ordo fratrum Praedicatorum"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder084",
+      "prefLabel": {
+        "de": "Dominikaner-Terziarinnen",
+        "nl": "Tertiarissen van Sint-Dominicus",
+        "en": "Tertiaries of St Dominicus"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder038",
       "prefLabel": {
         "de": "Magdalenerinnen",
-        "en": "Magdalenes",
-        "nl": "Magdalenen"
+        "nl": "Magdalenen",
+        "en": "Magdalenes"
       }
     }
   ],

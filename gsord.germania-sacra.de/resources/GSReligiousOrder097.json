@@ -10,24 +10,27 @@
       "Elisabethinnen",
       "Schwestern von der hl. Elisabeth"
     ],
-    "la": [
-      "OSE"
-    ],
     "nl": [
       "Elisabethinnen"
+    ],
+    "la": [
+      "OSE"
     ]
   },
   "definition": {
-    "de": "Die Elisabethinerinnen sind ein 1622 von Apollonia Radermecher gegründeter Frauenorden. Der Orden verbreitete sich schnell und wirkte vorbildlich in der Krankenpflege."
+    "de": "Die Elisabethinerinnen sind ein 1622 von Apollonia Radermecher gegründeter Frauenorden. Der Orden verbreitete sich schnell und wirkte vorbildlich in der Krankenpflege.",
+    "nl": "Die Elisabethinerinnen sind ein 1622 von Apollonia Radermecher gegründeter Frauenorden. Der Orden verbreitete sich schnell und wirkte vorbildlich in der Krankenpflege.",
+    "en": "Die Elisabethinerinnen sind ein 1622 von Apollonia Radermecher gegründeter Frauenorden. Der Orden verbreitete sich schnell und wirkte vorbildlich in der Krankenpflege.",
+    "la": "Die Elisabethinerinnen sind ein 1622 von Apollonia Radermecher gegründeter Frauenorden. Der Orden verbreitete sich schnell und wirkte vorbildlich in der Krankenpflege."
   },
   "related": [
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder082",
       "prefLabel": {
         "de": "Franziskanerinnen der Dritten Regel",
+        "nl": "Tertiarissen",
         "en": "Tertiaries",
-        "la": "Tertius Ordo Franciscanus",
-        "nl": "Tertiarissen"
+        "la": "Tertius Ordo Franciscanus"
       }
     }
   ],

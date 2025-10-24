@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Redemptoristinnen",
+    "nl": "Redemptoristinnen",
     "en": "Redemptoristines",
-    "la": "Ordo Sanctissimi Redemptoris",
-    "nl": "Redemptoristinnen"
+    "la": "Ordo Sanctissimi Redemptoris"
   },
   "altLabel": {
     "la": [
@@ -13,7 +13,10 @@
     ]
   },
   "definition": {
-    "de": "Der weibliche Zweig der Redemptoristen wurden 1732 zeitgleich mit dem männlichen Zweig ins Leben gerufen. Gründerin war unter anderem die italienische Mystikerin Maria Celeste Crostarosa († 1755). Bis 1831 gab es Klöster dieses kontemplativen Ordens mit strenger Klausur ausschließlich auf der Apenninhalbinsel."
+    "de": "Der weibliche Zweig der Redemptoristen wurden 1732 zeitgleich mit dem männlichen Zweig ins Leben gerufen. Gründerin war unter anderem die italienische Mystikerin Maria Celeste Crostarosa († 1755). Bis 1831 gab es Klöster dieses kontemplativen Ordens mit strenger Klausur ausschließlich auf der Apenninhalbinsel.",
+    "nl": "Der weibliche Zweig der Redemptoristen wurden 1732 zeitgleich mit dem männlichen Zweig ins Leben gerufen. Gründerin war unter anderem die italienische Mystikerin Maria Celeste Crostarosa († 1755). Bis 1831 gab es Klöster dieses kontemplativen Ordens mit strenger Klausur ausschließlich auf der Apenninhalbinsel.",
+    "en": "Der weibliche Zweig der Redemptoristen wurden 1732 zeitgleich mit dem männlichen Zweig ins Leben gerufen. Gründerin war unter anderem die italienische Mystikerin Maria Celeste Crostarosa († 1755). Bis 1831 gab es Klöster dieses kontemplativen Ordens mit strenger Klausur ausschließlich auf der Apenninhalbinsel.",
+    "la": "Der weibliche Zweig der Redemptoristen wurden 1732 zeitgleich mit dem männlichen Zweig ins Leben gerufen. Gründerin war unter anderem die italienische Mystikerin Maria Celeste Crostarosa († 1755). Bis 1831 gab es Klöster dieses kontemplativen Ordens mit strenger Klausur ausschließlich auf der Apenninhalbinsel."
   },
   "related": [
     {

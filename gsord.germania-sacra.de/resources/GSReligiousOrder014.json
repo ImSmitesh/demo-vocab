@@ -3,13 +3,16 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Prämonstratenser",
+    "nl": "Norbertijnen",
     "en": "Premonstratensians",
-    "la": "Ordo Praemonstratensis",
-    "nl": "Norbertijnen"
+    "la": "Ordo Praemonstratensis"
   },
   "altLabel": {
     "de": [
       "Norbertiner"
+    ],
+    "nl": [
+      "Premonstratenzers"
     ],
     "en": [
       "Norbertine Fathers",
@@ -18,21 +21,27 @@
     ],
     "la": [
       "OPraem"
-    ],
-    "nl": [
-      "Premonstratenzers"
     ]
   },
   "definition": {
-    "de": "Der Prämonstratenserorden geht auf den Wanderprediger Norbet von Xanten zurück, er führte ab 1120 mit einigen Klerikern und Laien in Prémontré (Nordfrankreich) ein Leben nach dem Vorbild des Evangeliums, der Lehre der Apostel und der Augustinusregel. Es schlossen sich auch Frauen an. Hugo von Fosses, der erste Abt von Prémontré, schuf ab 1128 bis zur Mitte des Jahrhunderts einen festgefügten Orden. In diesem Zusammenhang erfolgte die Auftrennung der Doppelköster in Männer- und Frauengemeinschaften. Gemäß der Verfassung des Prämonstratenserordens bestehen die einzelnen Klöster als weitgehend selbständige Einrichtungen. Zu den wichtigsten Zielen des Ordens gehören die Liturgie und die Seelsorge. Seit 1129 breiteten sich die Prämonstratenser auch in Nord- und Mitteldeutschland aus. Mit etwa 500 Klöstern erreichten die Prämonstratenser um 1200 ihre größte Ausbreitung. Die deutschen Niederlassungen wurden während der Reformation bzw. der Säkularisation aufgehoben. Einige österreichische Klöster blieben bestehen."
+    "de": "Der Prämonstratenserorden geht auf den Wanderprediger Norbet von Xanten zurück, er führte ab 1120 mit einigen Klerikern und Laien in Prémontré (Nordfrankreich) ein Leben nach dem Vorbild des Evangeliums, der Lehre der Apostel und der Augustinusregel. Es schlossen sich auch Frauen an. Hugo von Fosses, der erste Abt von Prémontré, schuf ab 1128 bis zur Mitte des Jahrhunderts einen festgefügten Orden. In diesem Zusammenhang erfolgte die Auftrennung der Doppelköster in Männer- und Frauengemeinschaften. Gemäß der Verfassung des Prämonstratenserordens bestehen die einzelnen Klöster als weitgehend selbständige Einrichtungen. Zu den wichtigsten Zielen des Ordens gehören die Liturgie und die Seelsorge. Seit 1129 breiteten sich die Prämonstratenser auch in Nord- und Mitteldeutschland aus. Mit etwa 500 Klöstern erreichten die Prämonstratenser um 1200 ihre größte Ausbreitung. Die deutschen Niederlassungen wurden während der Reformation bzw. der Säkularisation aufgehoben. Einige österreichische Klöster blieben bestehen.",
+    "nl": "Der Prämonstratenserorden geht auf den Wanderprediger Norbet von Xanten zurück, er führte ab 1120 mit einigen Klerikern und Laien in Prémontré (Nordfrankreich) ein Leben nach dem Vorbild des Evangeliums, der Lehre der Apostel und der Augustinusregel. Es schlossen sich auch Frauen an. Hugo von Fosses, der erste Abt von Prémontré, schuf ab 1128 bis zur Mitte des Jahrhunderts einen festgefügten Orden. In diesem Zusammenhang erfolgte die Auftrennung der Doppelköster in Männer- und Frauengemeinschaften. Gemäß der Verfassung des Prämonstratenserordens bestehen die einzelnen Klöster als weitgehend selbständige Einrichtungen. Zu den wichtigsten Zielen des Ordens gehören die Liturgie und die Seelsorge. Seit 1129 breiteten sich die Prämonstratenser auch in Nord- und Mitteldeutschland aus. Mit etwa 500 Klöstern erreichten die Prämonstratenser um 1200 ihre größte Ausbreitung. Die deutschen Niederlassungen wurden während der Reformation bzw. der Säkularisation aufgehoben. Einige österreichische Klöster blieben bestehen.",
+    "en": "Der Prämonstratenserorden geht auf den Wanderprediger Norbet von Xanten zurück, er führte ab 1120 mit einigen Klerikern und Laien in Prémontré (Nordfrankreich) ein Leben nach dem Vorbild des Evangeliums, der Lehre der Apostel und der Augustinusregel. Es schlossen sich auch Frauen an. Hugo von Fosses, der erste Abt von Prémontré, schuf ab 1128 bis zur Mitte des Jahrhunderts einen festgefügten Orden. In diesem Zusammenhang erfolgte die Auftrennung der Doppelköster in Männer- und Frauengemeinschaften. Gemäß der Verfassung des Prämonstratenserordens bestehen die einzelnen Klöster als weitgehend selbständige Einrichtungen. Zu den wichtigsten Zielen des Ordens gehören die Liturgie und die Seelsorge. Seit 1129 breiteten sich die Prämonstratenser auch in Nord- und Mitteldeutschland aus. Mit etwa 500 Klöstern erreichten die Prämonstratenser um 1200 ihre größte Ausbreitung. Die deutschen Niederlassungen wurden während der Reformation bzw. der Säkularisation aufgehoben. Einige österreichische Klöster blieben bestehen.",
+    "la": "Der Prämonstratenserorden geht auf den Wanderprediger Norbet von Xanten zurück, er führte ab 1120 mit einigen Klerikern und Laien in Prémontré (Nordfrankreich) ein Leben nach dem Vorbild des Evangeliums, der Lehre der Apostel und der Augustinusregel. Es schlossen sich auch Frauen an. Hugo von Fosses, der erste Abt von Prémontré, schuf ab 1128 bis zur Mitte des Jahrhunderts einen festgefügten Orden. In diesem Zusammenhang erfolgte die Auftrennung der Doppelköster in Männer- und Frauengemeinschaften. Gemäß der Verfassung des Prämonstratenserordens bestehen die einzelnen Klöster als weitgehend selbständige Einrichtungen. Zu den wichtigsten Zielen des Ordens gehören die Liturgie und die Seelsorge. Seit 1129 breiteten sich die Prämonstratenser auch in Nord- und Mitteldeutschland aus. Mit etwa 500 Klöstern erreichten die Prämonstratenser um 1200 ihre größte Ausbreitung. Die deutschen Niederlassungen wurden während der Reformation bzw. der Säkularisation aufgehoben. Einige österreichische Klöster blieben bestehen."
+  },
+  "example": {
+    "de": "o. Prem.",
+    "nl": "o. Prem.",
+    "en": "o. Prem.",
+    "la": "o. Prem."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder113",
     "prefLabel": {
       "de": "Regularkanoniker",
+      "nl": "Reguliere kanunniken",
       "en": "Canons Regular",
-      "la": "Canonici regulares",
-      "nl": "Reguliere kanunniken"
+      "la": "Canonici regulares"
     }
   },
   "related": [
@@ -40,9 +49,9 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder031",
       "prefLabel": {
         "de": "Prämonstratenserinnen",
+        "nl": "Norbertinessen",
         "en": "Premonstratensian Canonesses",
-        "la": "Ordo Praemonstratensis",
-        "nl": "Norbertinessen"
+        "la": "Ordo Praemonstratensis"
       }
     }
   ],

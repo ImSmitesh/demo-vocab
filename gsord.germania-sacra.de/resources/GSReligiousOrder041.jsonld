@@ -3,8 +3,8 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Serviten",
-    "en": "Servites",
-    "nl": "Servieten van Maria"
+    "nl": "Servieten van Maria",
+    "en": "Servites"
   },
   "altLabel": {
     "la": [
@@ -13,7 +13,16 @@
     ]
   },
   "definition": {
-    "de": "Die Serviten entstanden in der 1. Hälfte des 13. Jahrhunderts als ein klerikaler, den Mendikanten zugeordneter Orden in der Nähe von Florenz. Sie lebten nach der Augustinusregel und wurden 1304 durch Benedikt XI. bestätigt. Im 14. Jahrhundert breitete sich der Orden auch in Deutschland aus, im 15. Jahrhundert folgten Klostergründungen in Frankreich, Spanien und Portugal. In der Reformationszeit wurden alle deutschen Konvente aufgelöst. Zu Beginn des 17. Jahrhunderts erfolgte durch Erzherzogin Anna Katharina Gonzaga die Wiedereinführung des Ordens im deutschsprachigen Raum."
+    "de": "Die Serviten entstanden in der 1. Hälfte des 13. Jahrhunderts als ein klerikaler, den Mendikanten zugeordneter Orden in der Nähe von Florenz. Sie lebten nach der Augustinusregel und wurden 1304 durch Benedikt XI. bestätigt. Im 14. Jahrhundert breitete sich der Orden auch in Deutschland aus, im 15. Jahrhundert folgten Klostergründungen in Frankreich, Spanien und Portugal. In der Reformationszeit wurden alle deutschen Konvente aufgelöst. Zu Beginn des 17. Jahrhunderts erfolgte durch Erzherzogin Anna Katharina Gonzaga die Wiedereinführung des Ordens im deutschsprachigen Raum.",
+    "nl": "Die Serviten entstanden in der 1. Hälfte des 13. Jahrhunderts als ein klerikaler, den Mendikanten zugeordneter Orden in der Nähe von Florenz. Sie lebten nach der Augustinusregel und wurden 1304 durch Benedikt XI. bestätigt. Im 14. Jahrhundert breitete sich der Orden auch in Deutschland aus, im 15. Jahrhundert folgten Klostergründungen in Frankreich, Spanien und Portugal. In der Reformationszeit wurden alle deutschen Konvente aufgelöst. Zu Beginn des 17. Jahrhunderts erfolgte durch Erzherzogin Anna Katharina Gonzaga die Wiedereinführung des Ordens im deutschsprachigen Raum.",
+    "en": "Die Serviten entstanden in der 1. Hälfte des 13. Jahrhunderts als ein klerikaler, den Mendikanten zugeordneter Orden in der Nähe von Florenz. Sie lebten nach der Augustinusregel und wurden 1304 durch Benedikt XI. bestätigt. Im 14. Jahrhundert breitete sich der Orden auch in Deutschland aus, im 15. Jahrhundert folgten Klostergründungen in Frankreich, Spanien und Portugal. In der Reformationszeit wurden alle deutschen Konvente aufgelöst. Zu Beginn des 17. Jahrhunderts erfolgte durch Erzherzogin Anna Katharina Gonzaga die Wiedereinführung des Ordens im deutschsprachigen Raum.",
+    "la": "Die Serviten entstanden in der 1. Hälfte des 13. Jahrhunderts als ein klerikaler, den Mendikanten zugeordneter Orden in der Nähe von Florenz. Sie lebten nach der Augustinusregel und wurden 1304 durch Benedikt XI. bestätigt. Im 14. Jahrhundert breitete sich der Orden auch in Deutschland aus, im 15. Jahrhundert folgten Klostergründungen in Frankreich, Spanien und Portugal. In der Reformationszeit wurden alle deutschen Konvente aufgelöst. Zu Beginn des 17. Jahrhunderts erfolgte durch Erzherzogin Anna Katharina Gonzaga die Wiedereinführung des Ordens im deutschsprachigen Raum."
+  },
+  "example": {
+    "de": "fr. servorum b. Marie o. s. Aug.",
+    "nl": "fr. servorum b. Marie o. s. Aug.",
+    "en": "fr. servorum b. Marie o. s. Aug.",
+    "la": "fr. servorum b. Marie o. s. Aug."
   },
   "related": [
     {

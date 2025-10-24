@@ -3,20 +3,23 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Schwestern vom gemeinsamen Leben",
-    "en": "Sisters of the Common Life",
-    "nl": "Zusters des gemenen levens"
+    "nl": "Zusters des gemenen levens",
+    "en": "Sisters of the Common Life"
   },
   "definition": {
-    "de": "Die Schwestern vom gemeinsamen Leben entstanden im Zusammenhang mit der Devotio moderna. Ihre Anfänge gehen auf eine von Gerhard Grote 1379 in seinem Elternhaus errichtete Frauengemeinschaft zurück, die in der Tradition des Beginentums stand. Sie führten ein weltabgewandtes Leben ohne Ordensregel und Gelübde und wurden daher vor allem von den Bettelorden beschuldigt, entgegen den Bestimmungen des Vierten Laterankonzils und des 2. Lyoner Konzils einen neuen Orden ohne approbierte Regel gegründet zu haben. Diese Anschuldigung wehrten sie unter Hinweis auf die Tradition des Semireligiosentums erfolgreich ab."
+    "de": "Die Schwestern vom gemeinsamen Leben entstanden im Zusammenhang mit der Devotio moderna. Ihre Anfänge gehen auf eine von Gerhard Grote 1379 in seinem Elternhaus errichtete Frauengemeinschaft zurück, die in der Tradition des Beginentums stand. Sie führten ein weltabgewandtes Leben ohne Ordensregel und Gelübde und wurden daher vor allem von den Bettelorden beschuldigt, entgegen den Bestimmungen des Vierten Laterankonzils und des 2. Lyoner Konzils einen neuen Orden ohne approbierte Regel gegründet zu haben. Diese Anschuldigung wehrten sie unter Hinweis auf die Tradition des Semireligiosentums erfolgreich ab.",
+    "nl": "Die Schwestern vom gemeinsamen Leben entstanden im Zusammenhang mit der Devotio moderna. Ihre Anfänge gehen auf eine von Gerhard Grote 1379 in seinem Elternhaus errichtete Frauengemeinschaft zurück, die in der Tradition des Beginentums stand. Sie führten ein weltabgewandtes Leben ohne Ordensregel und Gelübde und wurden daher vor allem von den Bettelorden beschuldigt, entgegen den Bestimmungen des Vierten Laterankonzils und des 2. Lyoner Konzils einen neuen Orden ohne approbierte Regel gegründet zu haben. Diese Anschuldigung wehrten sie unter Hinweis auf die Tradition des Semireligiosentums erfolgreich ab.",
+    "en": "Die Schwestern vom gemeinsamen Leben entstanden im Zusammenhang mit der Devotio moderna. Ihre Anfänge gehen auf eine von Gerhard Grote 1379 in seinem Elternhaus errichtete Frauengemeinschaft zurück, die in der Tradition des Beginentums stand. Sie führten ein weltabgewandtes Leben ohne Ordensregel und Gelübde und wurden daher vor allem von den Bettelorden beschuldigt, entgegen den Bestimmungen des Vierten Laterankonzils und des 2. Lyoner Konzils einen neuen Orden ohne approbierte Regel gegründet zu haben. Diese Anschuldigung wehrten sie unter Hinweis auf die Tradition des Semireligiosentums erfolgreich ab.",
+    "la": "Die Schwestern vom gemeinsamen Leben entstanden im Zusammenhang mit der Devotio moderna. Ihre Anfänge gehen auf eine von Gerhard Grote 1379 in seinem Elternhaus errichtete Frauengemeinschaft zurück, die in der Tradition des Beginentums stand. Sie führten ein weltabgewandtes Leben ohne Ordensregel und Gelübde und wurden daher vor allem von den Bettelorden beschuldigt, entgegen den Bestimmungen des Vierten Laterankonzils und des 2. Lyoner Konzils einen neuen Orden ohne approbierte Regel gegründet zu haben. Diese Anschuldigung wehrten sie unter Hinweis auf die Tradition des Semireligiosentums erfolgreich ab."
   },
   "related": [
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder046",
       "prefLabel": {
         "de": "Brüder vom gemeinsamen Leben",
+        "nl": "Broeders des gemenen levens",
         "en": "Brethren of the Common Life",
-        "la": "Fratres communis vitae",
-        "nl": "Broeders des gemenen levens"
+        "la": "Fratres communis vitae"
       }
     }
   ],

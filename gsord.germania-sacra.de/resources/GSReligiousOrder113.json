@@ -3,12 +3,15 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Regularkanoniker",
+    "nl": "Reguliere kanunniken",
     "en": "Canons Regular",
-    "la": "Canonici regulares",
-    "nl": "Reguliere kanunniken"
+    "la": "Canonici regulares"
   },
   "definition": {
-    "de": "Im Zuge der Gregorianischen Reform bildeten sich im 11. Jahrhundert aus den (unregulierten) Kanonikern die Regularkanoniker heraus, die strengere Regeln anwandten und etwa größeren Wert auf das vita communis – also das Leben in der geistlichen Gemeinschaft – sowie die persönliche Armut legten. Wegweisende Vertreter dieser Richtung waren die Augustiner-Chorherren und die Prämonstratenser."
+    "de": "Im Zuge der Gregorianischen Reform bildeten sich im 11. Jahrhundert aus den (unregulierten) Kanonikern die Regularkanoniker heraus, die strengere Regeln anwandten und etwa größeren Wert auf das vita communis – also das Leben in der geistlichen Gemeinschaft – sowie die persönliche Armut legten. Wegweisende Vertreter dieser Richtung waren die Augustiner-Chorherren und die Prämonstratenser.",
+    "nl": "Im Zuge der Gregorianischen Reform bildeten sich im 11. Jahrhundert aus den (unregulierten) Kanonikern die Regularkanoniker heraus, die strengere Regeln anwandten und etwa größeren Wert auf das vita communis – also das Leben in der geistlichen Gemeinschaft – sowie die persönliche Armut legten. Wegweisende Vertreter dieser Richtung waren die Augustiner-Chorherren und die Prämonstratenser.",
+    "en": "Im Zuge der Gregorianischen Reform bildeten sich im 11. Jahrhundert aus den (unregulierten) Kanonikern die Regularkanoniker heraus, die strengere Regeln anwandten und etwa größeren Wert auf das vita communis – also das Leben in der geistlichen Gemeinschaft – sowie die persönliche Armut legten. Wegweisende Vertreter dieser Richtung waren die Augustiner-Chorherren und die Prämonstratenser.",
+    "la": "Im Zuge der Gregorianischen Reform bildeten sich im 11. Jahrhundert aus den (unregulierten) Kanonikern die Regularkanoniker heraus, die strengere Regeln anwandten und etwa größeren Wert auf das vita communis – also das Leben in der geistlichen Gemeinschaft – sowie die persönliche Armut legten. Wegweisende Vertreter dieser Richtung waren die Augustiner-Chorherren und die Prämonstratenser."
   },
   "narrower": [
     {
@@ -18,82 +21,79 @@
       }
     },
     {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder046",
-      "prefLabel": {
-        "de": "Brüder vom gemeinsamen Leben",
-        "en": "Brethren of the Common Life",
-        "la": "Fratres communis vitae",
-        "nl": "Broeders des gemenen levens"
-      }
-    },
-    {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder025",
       "prefLabel": {
         "de": "Augustinerchorfrauen",
-        "en": "Canonesses Regular of St Augustine",
-        "nl": "Augustinessen"
-      }
-    },
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder014",
-      "prefLabel": {
-        "de": "Prämonstratenser",
-        "en": "Premonstratensians",
-        "la": "Ordo Praemonstratensis",
-        "nl": "Norbertijnen"
-      }
-    },
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder031",
-      "prefLabel": {
-        "de": "Prämonstratenserinnen",
-        "en": "Premonstratensian Canonesses",
-        "la": "Ordo Praemonstratensis",
-        "nl": "Norbertinessen"
-      }
-    },
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder083",
-      "prefLabel": {
-        "de": "Chorfrauen vom Heiligen Grab",
-        "en": "Canonesses Regular of the Holy Sepulchre",
-        "nl": "Sepulcrinessen"
-      }
-    },
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder150",
-      "prefLabel": {
-        "de": "Böhmische Kreuzherren",
-        "en": "Knights of the Cross with the Red Star",
-        "la": "Ordo militaris Crucigerorum cum rubea stella",
-        "nl": "Orde van het Kruis met de Rode Ster"
+        "nl": "Augustinessen",
+        "en": "Canonesses Regular of St Augustine"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder001",
       "prefLabel": {
         "de": "Augustinerchorherren",
+        "nl": "Regulieren van Sint-Augustin",
         "en": "Canons Regular of St Augustine",
-        "la": "Canonici Augustiniani",
-        "nl": "Regulieren van Sint-Augustin"
+        "la": "Canonici Augustiniani"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder046",
+      "prefLabel": {
+        "de": "Brüder vom gemeinsamen Leben",
+        "nl": "Broeders des gemenen levens",
+        "en": "Brethren of the Common Life",
+        "la": "Fratres communis vitae"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder083",
+      "prefLabel": {
+        "de": "Chorfrauen vom Heiligen Grab",
+        "nl": "Sepulcrinessen",
+        "en": "Canonesses Regular of the Holy Sepulchre"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder022",
       "prefLabel": {
         "de": "Deutscher Orden",
+        "nl": "Duitse Orde",
         "en": "Teutonic Order",
-        "la": "Ordo Teutonicus",
-        "nl": "Duitse Orde"
+        "la": "Ordo Teutonicus"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder031",
+      "prefLabel": {
+        "de": "Prämonstratenserinnen",
+        "nl": "Norbertinessen",
+        "en": "Premonstratensian Canonesses",
+        "la": "Ordo Praemonstratensis"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder141",
       "prefLabel": {
         "de": "Kreuzherren vom Heiligen Kreuz",
+        "nl": "Kruisheren",
         "en": "Croziers",
-        "la": "Ordo Sanctae Crucis",
-        "nl": "Kruisheren"
+        "la": "Ordo Sanctae Crucis"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder096",
+      "prefLabel": {
+        "de": "Theatiner"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder150",
+      "prefLabel": {
+        "de": "Böhmische Kreuzherren",
+        "nl": "Orde van het Kruis met de Rode Ster",
+        "en": "Knights of the Cross with the Red Star",
+        "la": "Ordo militaris Crucigerorum cum rubea stella"
       }
     },
     {
@@ -104,9 +104,12 @@
       }
     },
     {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder096",
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder014",
       "prefLabel": {
-        "de": "Theatiner"
+        "de": "Prämonstratenser",
+        "nl": "Norbertijnen",
+        "en": "Premonstratensians",
+        "la": "Ordo Praemonstratensis"
       }
     }
   ],
@@ -115,17 +118,17 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder072",
       "prefLabel": {
         "de": "Chorherren vom Heiligen Grab",
-        "en": "Canons Regular of the Holy Sepulchre",
-        "nl": "Sepulcrijnen"
+        "nl": "Sepulcrijnen",
+        "en": "Canons Regular of the Holy Sepulchre"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder035",
       "prefLabel": {
         "de": "Kanonissen",
+        "nl": "Kanunnikessen",
         "en": "Canonesses",
-        "la": "canonicae",
-        "nl": "Kanunnikessen"
+        "la": "canonicae"
       }
     }
   ],

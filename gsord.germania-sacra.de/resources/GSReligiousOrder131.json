@@ -3,8 +3,8 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Begarden",
-    "en": "Beghards",
-    "nl": "Begarden"
+    "nl": "Begarden",
+    "en": "Beghards"
   },
   "altLabel": {
     "de": [
@@ -16,30 +16,27 @@
     ]
   },
   "definition": {
-    "de": "Begarden waren Angehörige semireligiöser Gemeinschaften von Männern. Sie widmeten sich häufig der Krankenpflege und Totenbestattung. Die Begardenbewegungen entstanden um 1220 in den Niederlanden. Sie waren weit weniger verbreitet als die Beginen. Sie verdienten ihren Lebensunterhalt mit Betteln und handwerklichen Tätigkeiten (vor allem Weben), existierten vor allem zwischen dem 13. und 15. Jahrhundert und gerieten nicht selten unter Häresieverdacht."
-  },
-  "broader": {
-    "id": "https://gsord.germania-sacra.de/resources/Semireligioese_M",
-    "prefLabel": {
-      "de": "Semireligiöse Gemeinschaft (männlich)"
-    }
+    "de": "Begarden waren Angehörige semireligiöser Gemeinschaften von Männern. Sie widmeten sich häufig der Krankenpflege und Totenbestattung. Die Begardenbewegungen entstanden um 1220 in den Niederlanden. Sie waren weit weniger verbreitet als die Beginen. Sie verdienten ihren Lebensunterhalt mit Betteln und handwerklichen Tätigkeiten (vor allem Weben), existierten vor allem zwischen dem 13. und 15. Jahrhundert und gerieten nicht selten unter Häresieverdacht.",
+    "nl": "Begarden waren Angehörige semireligiöser Gemeinschaften von Männern. Sie widmeten sich häufig der Krankenpflege und Totenbestattung. Die Begardenbewegungen entstanden um 1220 in den Niederlanden. Sie waren weit weniger verbreitet als die Beginen. Sie verdienten ihren Lebensunterhalt mit Betteln und handwerklichen Tätigkeiten (vor allem Weben), existierten vor allem zwischen dem 13. und 15. Jahrhundert und gerieten nicht selten unter Häresieverdacht.",
+    "en": "Begarden waren Angehörige semireligiöser Gemeinschaften von Männern. Sie widmeten sich häufig der Krankenpflege und Totenbestattung. Die Begardenbewegungen entstanden um 1220 in den Niederlanden. Sie waren weit weniger verbreitet als die Beginen. Sie verdienten ihren Lebensunterhalt mit Betteln und handwerklichen Tätigkeiten (vor allem Weben), existierten vor allem zwischen dem 13. und 15. Jahrhundert und gerieten nicht selten unter Häresieverdacht.",
+    "la": "Begarden waren Angehörige semireligiöser Gemeinschaften von Männern. Sie widmeten sich häufig der Krankenpflege und Totenbestattung. Die Begardenbewegungen entstanden um 1220 in den Niederlanden. Sie waren weit weniger verbreitet als die Beginen. Sie verdienten ihren Lebensunterhalt mit Betteln und handwerklichen Tätigkeiten (vor allem Weben), existierten vor allem zwischen dem 13. und 15. Jahrhundert und gerieten nicht selten unter Häresieverdacht."
   },
   "related": [
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder037",
       "prefLabel": {
         "de": "Alexianer",
+        "nl": "Alexianen",
         "en": "Alexians",
-        "la": "Congregatio Fratrum Alexianorum",
-        "nl": "Alexianen"
+        "la": "Congregatio Fratrum Alexianorum"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder132",
       "prefLabel": {
         "de": "Beginen",
-        "en": "Beguines",
-        "nl": "Begijnen"
+        "nl": "Begijnen",
+        "en": "Beguines"
       }
     }
   ],

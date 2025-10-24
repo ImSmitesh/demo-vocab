@@ -1,28 +1,9 @@
 {
-  "id": "https://gsord.germania-sacra.de/resources/Semireligioese_M",
+  "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder79",
   "type": "Concept",
   "prefLabel": {
     "de": "Semireligiöse Gemeinschaft (männlich)"
   },
-  "narrower": [
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder046",
-      "prefLabel": {
-        "de": "Brüder vom gemeinsamen Leben",
-        "en": "Brethren of the Common Life",
-        "la": "Fratres communis vitae",
-        "nl": "Broeders des gemenen levens"
-      }
-    },
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder131",
-      "prefLabel": {
-        "de": "Begarden",
-        "en": "Beghards",
-        "nl": "Begarden"
-      }
-    }
-  ],
   "related": [
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder179",

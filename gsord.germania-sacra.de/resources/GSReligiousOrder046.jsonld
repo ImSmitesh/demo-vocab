@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Brüder vom gemeinsamen Leben",
+    "nl": "Broeders des gemenen levens",
     "en": "Brethren of the Common Life",
-    "la": "Fratres communis vitae",
-    "nl": "Broeders des gemenen levens"
+    "la": "Fratres communis vitae"
   },
   "altLabel": {
     "de": [
@@ -21,8 +21,8 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder045",
       "prefLabel": {
         "de": "Schwestern vom gemeinsamen Leben",
-        "en": "Sisters of the Common Life",
-        "nl": "Zusters des gemenen levens"
+        "nl": "Zusters des gemenen levens",
+        "en": "Sisters of the Common Life"
       }
     }
   ],

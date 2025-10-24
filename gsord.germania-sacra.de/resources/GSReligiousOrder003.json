@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Karmeliten",
+    "nl": "Karmelieten",
     "en": "Carmelites",
-    "la": "Ordo Fratrum Beatae Mariae Virginis de Monte Carmelo",
-    "nl": "Karmelieten"
+    "la": "Ordo Fratrum Beatae Mariae Virginis de Monte Carmelo"
   },
   "altLabel": {
     "de": [
@@ -17,7 +17,16 @@
     ]
   },
   "definition": {
-    "de": "Die Karmeliter entstanden als eine kontemplativ geprägte Gemeinschaft lateinischer Eremiten auf dem Berg Karmel. Als die Kreuzzüge scheiterten, wanderten die Karmeliten nach Europa, wo der Bettelorden aufblühte. Einsamkeit, Enthaltsamkeit und Gebet wurden streng praktiziert. Sie erhielten zwischen 1206 und 1214 eine erste Regel. 1249 (Köln) und 1252 (Würzburg) entstanden die ersten Niederlassungen im deutschsprachigen Raum. Der reformierte Zweig wurde 1593 zu einem eigenen Orden, die Unbeschuhten Karmeliten (Ordo Carmelitarum Discalceatorum). Die beiden Ordenszweige bilden seither zwei selbständige Orden. Die Reformation führte zur Auflösung der böhmischen und sächsischen Provinzen, die ober- und niederdeutschen Provinzen überlebten und blieben bis zur Säkularisation bestehen."
+    "de": "Die Karmeliter entstanden als eine kontemplativ geprägte Gemeinschaft lateinischer Eremiten auf dem Berg Karmel. Als die Kreuzzüge scheiterten, wanderten die Karmeliten nach Europa, wo der Bettelorden aufblühte. Einsamkeit, Enthaltsamkeit und Gebet wurden streng praktiziert. Sie erhielten zwischen 1206 und 1214 eine erste Regel. 1249 (Köln) und 1252 (Würzburg) entstanden die ersten Niederlassungen im deutschsprachigen Raum. Der reformierte Zweig wurde 1593 zu einem eigenen Orden, die Unbeschuhten Karmeliten (Ordo Carmelitarum Discalceatorum). Die beiden Ordenszweige bilden seither zwei selbständige Orden. Die Reformation führte zur Auflösung der böhmischen und sächsischen Provinzen, die ober- und niederdeutschen Provinzen überlebten und blieben bis zur Säkularisation bestehen.",
+    "nl": "Die Karmeliter entstanden als eine kontemplativ geprägte Gemeinschaft lateinischer Eremiten auf dem Berg Karmel. Als die Kreuzzüge scheiterten, wanderten die Karmeliten nach Europa, wo der Bettelorden aufblühte. Einsamkeit, Enthaltsamkeit und Gebet wurden streng praktiziert. Sie erhielten zwischen 1206 und 1214 eine erste Regel. 1249 (Köln) und 1252 (Würzburg) entstanden die ersten Niederlassungen im deutschsprachigen Raum. Der reformierte Zweig wurde 1593 zu einem eigenen Orden, die Unbeschuhten Karmeliten (Ordo Carmelitarum Discalceatorum). Die beiden Ordenszweige bilden seither zwei selbständige Orden. Die Reformation führte zur Auflösung der böhmischen und sächsischen Provinzen, die ober- und niederdeutschen Provinzen überlebten und blieben bis zur Säkularisation bestehen.",
+    "en": "Die Karmeliter entstanden als eine kontemplativ geprägte Gemeinschaft lateinischer Eremiten auf dem Berg Karmel. Als die Kreuzzüge scheiterten, wanderten die Karmeliten nach Europa, wo der Bettelorden aufblühte. Einsamkeit, Enthaltsamkeit und Gebet wurden streng praktiziert. Sie erhielten zwischen 1206 und 1214 eine erste Regel. 1249 (Köln) und 1252 (Würzburg) entstanden die ersten Niederlassungen im deutschsprachigen Raum. Der reformierte Zweig wurde 1593 zu einem eigenen Orden, die Unbeschuhten Karmeliten (Ordo Carmelitarum Discalceatorum). Die beiden Ordenszweige bilden seither zwei selbständige Orden. Die Reformation führte zur Auflösung der böhmischen und sächsischen Provinzen, die ober- und niederdeutschen Provinzen überlebten und blieben bis zur Säkularisation bestehen.",
+    "la": "Die Karmeliter entstanden als eine kontemplativ geprägte Gemeinschaft lateinischer Eremiten auf dem Berg Karmel. Als die Kreuzzüge scheiterten, wanderten die Karmeliten nach Europa, wo der Bettelorden aufblühte. Einsamkeit, Enthaltsamkeit und Gebet wurden streng praktiziert. Sie erhielten zwischen 1206 und 1214 eine erste Regel. 1249 (Köln) und 1252 (Würzburg) entstanden die ersten Niederlassungen im deutschsprachigen Raum. Der reformierte Zweig wurde 1593 zu einem eigenen Orden, die Unbeschuhten Karmeliten (Ordo Carmelitarum Discalceatorum). Die beiden Ordenszweige bilden seither zwei selbständige Orden. Die Reformation führte zur Auflösung der böhmischen und sächsischen Provinzen, die ober- und niederdeutschen Provinzen überlebten und blieben bis zur Säkularisation bestehen."
+  },
+  "example": {
+    "de": "b. Marie Carmel",
+    "nl": "b. Marie Carmel",
+    "en": "b. Marie Carmel",
+    "la": "b. Marie Carmel"
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder108",
@@ -27,29 +36,29 @@
   },
   "related": [
     {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder026",
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder133",
       "prefLabel": {
-        "de": "Karmeliterinnen",
-        "en": "Carmelite Sisters",
-        "la": "Ordo Sororum Beatae Mariae Virginis de Monte Carmelo",
-        "nl": "Karmelitessen"
+        "de": "Unbeschuhte Karmeliten",
+        "nl": "Ongeschoeide Karmeliten",
+        "en": "Discalced Carmelite Friars",
+        "la": "Ordo Carmelitarum Discalceatorum"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder136",
       "prefLabel": {
         "de": "Unbeschuhte Karmelitinnen",
-        "en": "Discalced Carmelite Sisters",
-        "nl": "Ongeschoeide Karmelitessen"
+        "nl": "Ongeschoeide Karmelitessen",
+        "en": "Discalced Carmelite Sisters"
       }
     },
     {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder133",
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder026",
       "prefLabel": {
-        "de": "Unbeschuhte Karmeliten",
-        "en": "Discalced Carmelite Friars",
-        "la": "Ordo Carmelitarum Discalceatorum",
-        "nl": "Ongeschoeide Karmeliten"
+        "de": "Karmeliterinnen",
+        "nl": "Karmelitessen",
+        "en": "Carmelite Sisters",
+        "la": "Ordo Sororum Beatae Mariae Virginis de Monte Carmelo"
       }
     }
   ],

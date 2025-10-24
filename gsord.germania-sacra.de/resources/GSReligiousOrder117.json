@@ -8,45 +8,48 @@
     "de": [
       "Rote Annunziatinnen"
     ],
+    "nl": [
+      "Orde van de Annunciatie van de Gezegende Maagd Maria"
+    ],
     "en": [
       "Order of the Annunciation of the Blessed Virgin Mary"
     ],
     "la": [
       "Ordo de Annuntiatione Beatae Mariae Virginis",
       "OAnnM"
-    ],
-    "nl": [
-      "Orde van de Annunciatie van de Gezegende Maagd Maria"
     ]
   },
   "definition": {
-    "de": "Die Roten Annunziatinnen wurden 1500 von der heiligen Johanna von Valois, nach der Annulierung ihrer Ehe mit dem französischen König Ludwig XII., gegründet; 1502 erfolgte die päpstliche Bestätigung. Die kontemplative Gemeinschaft pflegte eine marianische Frömmigkeit und breitete sich vor allem in Frankreich aus."
+    "de": "Die Roten Annunziatinnen wurden 1500 von der heiligen Johanna von Valois, nach der Annulierung ihrer Ehe mit dem französischen König Ludwig XII., gegründet; 1502 erfolgte die päpstliche Bestätigung. Die kontemplative Gemeinschaft pflegte eine marianische Frömmigkeit und breitete sich vor allem in Frankreich aus.",
+    "nl": "Die Roten Annunziatinnen wurden 1500 von der heiligen Johanna von Valois, nach der Annulierung ihrer Ehe mit dem französischen König Ludwig XII., gegründet; 1502 erfolgte die päpstliche Bestätigung. Die kontemplative Gemeinschaft pflegte eine marianische Frömmigkeit und breitete sich vor allem in Frankreich aus.",
+    "en": "Die Roten Annunziatinnen wurden 1500 von der heiligen Johanna von Valois, nach der Annulierung ihrer Ehe mit dem französischen König Ludwig XII., gegründet; 1502 erfolgte die päpstliche Bestätigung. Die kontemplative Gemeinschaft pflegte eine marianische Frömmigkeit und breitete sich vor allem in Frankreich aus.",
+    "la": "Die Roten Annunziatinnen wurden 1500 von der heiligen Johanna von Valois, nach der Annulierung ihrer Ehe mit dem französischen König Ludwig XII., gegründet; 1502 erfolgte die päpstliche Bestätigung. Die kontemplative Gemeinschaft pflegte eine marianische Frömmigkeit und breitete sich vor allem in Frankreich aus."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder054",
     "prefLabel": {
       "de": "Annunziatinnen",
+      "nl": "Annunciaten",
       "en": "Sisters of the Annunciation",
-      "la": "Ordo de Annuntiatione Beatae Mariae Virginis",
-      "nl": "Annunciaten"
+      "la": "Ordo de Annuntiatione Beatae Mariae Virginis"
     }
   },
   "related": [
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder054",
+      "prefLabel": {
+        "de": "Annunziatinnen",
+        "nl": "Annunciaten",
+        "en": "Sisters of the Annunciation",
+        "la": "Ordo de Annuntiatione Beatae Mariae Virginis"
+      }
+    },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder119",
       "prefLabel": {
         "de": "Italienische Annunziatinnen",
         "en": "Order of the Most Holy Annunciation",
         "it": "Ordine della Santissima Annunziata"
-      }
-    },
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder054",
-      "prefLabel": {
-        "de": "Annunziatinnen",
-        "en": "Sisters of the Annunciation",
-        "la": "Ordo de Annuntiatione Beatae Mariae Virginis",
-        "nl": "Annunciaten"
       }
     }
   ],

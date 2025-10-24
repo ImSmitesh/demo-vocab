@@ -11,7 +11,10 @@
     ]
   },
   "definition": {
-    "de": "Bereits 1140-1150 erhielten die Nonnen von St-André de Ramières auf Nachfrage hin die Consuetudines Cartusiae, 1248 waren die Kartäuserinnen nachweislich dem Orden angegliedert. Niederlassungen entstanden in abgelegenen Tälern der französischen und italienischen Alpen. Die Lebensweise der Nonnen unterschied sich von der der Mönche insofern, dass die Regeln in abgemilderter Form gelebt wurden. Die Nonnenklöster wurden 1783 von Joseph II. und 1794 in der Französischen Revolution aufgehoben, im 19. Jahrhundert kam es zu Neugründungen."
+    "de": "Bereits 1140-1150 erhielten die Nonnen von St-André de Ramières auf Nachfrage hin die Consuetudines Cartusiae, 1248 waren die Kartäuserinnen nachweislich dem Orden angegliedert. Niederlassungen entstanden in abgelegenen Tälern der französischen und italienischen Alpen. Die Lebensweise der Nonnen unterschied sich von der der Mönche insofern, dass die Regeln in abgemilderter Form gelebt wurden. Die Nonnenklöster wurden 1783 von Joseph II. und 1794 in der Französischen Revolution aufgehoben, im 19. Jahrhundert kam es zu Neugründungen.",
+    "nl": "Bereits 1140-1150 erhielten die Nonnen von St-André de Ramières auf Nachfrage hin die Consuetudines Cartusiae, 1248 waren die Kartäuserinnen nachweislich dem Orden angegliedert. Niederlassungen entstanden in abgelegenen Tälern der französischen und italienischen Alpen. Die Lebensweise der Nonnen unterschied sich von der der Mönche insofern, dass die Regeln in abgemilderter Form gelebt wurden. Die Nonnenklöster wurden 1783 von Joseph II. und 1794 in der Französischen Revolution aufgehoben, im 19. Jahrhundert kam es zu Neugründungen.",
+    "en": "Bereits 1140-1150 erhielten die Nonnen von St-André de Ramières auf Nachfrage hin die Consuetudines Cartusiae, 1248 waren die Kartäuserinnen nachweislich dem Orden angegliedert. Niederlassungen entstanden in abgelegenen Tälern der französischen und italienischen Alpen. Die Lebensweise der Nonnen unterschied sich von der der Mönche insofern, dass die Regeln in abgemilderter Form gelebt wurden. Die Nonnenklöster wurden 1783 von Joseph II. und 1794 in der Französischen Revolution aufgehoben, im 19. Jahrhundert kam es zu Neugründungen.",
+    "la": "Bereits 1140-1150 erhielten die Nonnen von St-André de Ramières auf Nachfrage hin die Consuetudines Cartusiae, 1248 waren die Kartäuserinnen nachweislich dem Orden angegliedert. Niederlassungen entstanden in abgelegenen Tälern der französischen und italienischen Alpen. Die Lebensweise der Nonnen unterschied sich von der der Mönche insofern, dass die Regeln in abgemilderter Form gelebt wurden. Die Nonnenklöster wurden 1783 von Joseph II. und 1794 in der Französischen Revolution aufgehoben, im 19. Jahrhundert kam es zu Neugründungen."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder144",
@@ -24,9 +27,9 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder004",
       "prefLabel": {
         "de": "Kartäuser",
+        "nl": "Kartuizers",
         "en": "Carthusians",
-        "la": "Ordo Cartusiensis",
-        "nl": "Kartuizers"
+        "la": "Ordo Cartusiensis"
       }
     }
   ],

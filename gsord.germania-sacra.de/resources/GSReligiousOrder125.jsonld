@@ -3,19 +3,22 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Colettinnen",
-    "en": "Caulites",
-    "nl": "Caulieten"
+    "nl": "Caulieten",
+    "en": "Caulites"
   },
   "definition": {
-    "de": "Gegründet von Coletta von Corbie († 1447). Reformzweig der Klarissen. 1434 wurde die Ordenskonstitution vom franziskanischen Generalminister bestätigt."
+    "de": "Gegründet von Coletta von Corbie († 1447). Reformzweig der Klarissen. 1434 wurde die Ordenskonstitution vom franziskanischen Generalminister bestätigt.",
+    "nl": "Gegründet von Coletta von Corbie († 1447). Reformzweig der Klarissen. 1434 wurde die Ordenskonstitution vom franziskanischen Generalminister bestätigt.",
+    "en": "Gegründet von Coletta von Corbie († 1447). Reformzweig der Klarissen. 1434 wurde die Ordenskonstitution vom franziskanischen Generalminister bestätigt.",
+    "la": "Gegründet von Coletta von Corbie († 1447). Reformzweig der Klarissen. 1434 wurde die Ordenskonstitution vom franziskanischen Generalminister bestätigt."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder019",
     "prefLabel": {
       "de": "Klarissen",
+      "nl": "Clarissen",
       "en": "Poor Clares",
-      "la": "Ordo Sanctae Clarae",
-      "nl": "Clarissen"
+      "la": "Ordo Sanctae Clarae"
     }
   },
   "exactMatch": [

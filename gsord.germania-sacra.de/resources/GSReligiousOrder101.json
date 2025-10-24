@@ -3,8 +3,8 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Cellitinnen",
-    "en": "Alexian Sisters",
-    "nl": "Cellezusters"
+    "nl": "Cellezusters",
+    "en": "Alexian Sisters"
   },
   "altLabel": {
     "de": [
@@ -16,14 +16,17 @@
     ]
   },
   "definition": {
-    "de": "Bei den Cellitinnen bzw. Alexianerinnen handelte es sich um eine weibliche Ordensgemeinschaft, die im späten Mittelalter aus der Beginenbewegung hervorgegangen ist. Wie auch der männliche Zweig lebten die Alexianerinnen gewöhnlich nach der Augustinusregel und widmeten sich vor allem der Krankenpflege. Zu ihrem Hauptverbreitungsgebiet zählen Belgien, die Niederlanden und das Rheinland."
+    "de": "Bei den Cellitinnen bzw. Alexianerinnen handelte es sich um eine weibliche Ordensgemeinschaft, die im späten Mittelalter aus der Beginenbewegung hervorgegangen ist. Wie auch der männliche Zweig lebten die Alexianerinnen gewöhnlich nach der Augustinusregel und widmeten sich vor allem der Krankenpflege. Zu ihrem Hauptverbreitungsgebiet zählen Belgien, die Niederlanden und das Rheinland.",
+    "nl": "Bei den Cellitinnen bzw. Alexianerinnen handelte es sich um eine weibliche Ordensgemeinschaft, die im späten Mittelalter aus der Beginenbewegung hervorgegangen ist. Wie auch der männliche Zweig lebten die Alexianerinnen gewöhnlich nach der Augustinusregel und widmeten sich vor allem der Krankenpflege. Zu ihrem Hauptverbreitungsgebiet zählen Belgien, die Niederlanden und das Rheinland.",
+    "en": "Bei den Cellitinnen bzw. Alexianerinnen handelte es sich um eine weibliche Ordensgemeinschaft, die im späten Mittelalter aus der Beginenbewegung hervorgegangen ist. Wie auch der männliche Zweig lebten die Alexianerinnen gewöhnlich nach der Augustinusregel und widmeten sich vor allem der Krankenpflege. Zu ihrem Hauptverbreitungsgebiet zählen Belgien, die Niederlanden und das Rheinland.",
+    "la": "Bei den Cellitinnen bzw. Alexianerinnen handelte es sich um eine weibliche Ordensgemeinschaft, die im späten Mittelalter aus der Beginenbewegung hervorgegangen ist. Wie auch der männliche Zweig lebten die Alexianerinnen gewöhnlich nach der Augustinusregel und widmeten sich vor allem der Krankenpflege. Zu ihrem Hauptverbreitungsgebiet zählen Belgien, die Niederlanden und das Rheinland."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder130",
     "prefLabel": {
       "de": "Orden nach der Augustinusregel",
-      "en": "Augustinian Orders",
-      "nl": "Augustijnen"
+      "nl": "Augustijnen",
+      "en": "Augustinian Orders"
     }
   },
   "related": [
@@ -31,9 +34,9 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder037",
       "prefLabel": {
         "de": "Alexianer",
+        "nl": "Alexianen",
         "en": "Alexians",
-        "la": "Congregatio Fratrum Alexianorum",
-        "nl": "Alexianen"
+        "la": "Congregatio Fratrum Alexianorum"
       }
     }
   ],

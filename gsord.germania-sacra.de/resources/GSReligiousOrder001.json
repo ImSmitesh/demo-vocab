@@ -3,29 +3,38 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Augustinerchorherren",
+    "nl": "Regulieren van Sint-Augustin",
     "en": "Canons Regular of St Augustine",
-    "la": "Canonici Augustiniani",
-    "nl": "Regulieren van Sint-Augustin"
+    "la": "Canonici Augustiniani"
   },
   "altLabel": {
+    "nl": [
+      "Augustijner koorheren"
+    ],
     "la": [
       "CSA",
       "CanA"
-    ],
-    "nl": [
-      "Augustijner koorheren"
     ]
   },
   "definition": {
-    "de": "Bei den Augustinerchorherren handelt es sich um regulierte Chorherren, die im 11./12. Jahrhundert die augustinische Regel annahmen und sich zu einem Leben in Gemeinschaft verpflichteten, das von priesterlichem Dienst, Askese, Keuschheit und Armut geprägt war. Eine der wichtigsten Aufgaben der Augustinerchorherren war die Seelsorge. Die Reformbewegung der Kanoniker breitete sich schnell in ganz Europa aus und entwickelte sich bis zum Zeitalter der Reformation zu einem der kulturell bedeutendsten und größten Orden. Fast alle Stifte nahmen auch Laienbrüder (Konversen) auf. Frauenklöster entstanden in enger Anbindung an die Männerklöster, vielfach wurden die Häuser als Doppelklöster gegründet. Häufig schlossen sie sich zu Kongregationen zusammen, wie etwa die Windesheimer Kongregation, die Chorherren vom Hl. Grabe in Jerusalem, die Kreuzherren, die Antoniter und viele mehr. Die Säkularisation bedeutete für den Orden den nahezu vollständigen Niedergang."
+    "de": "Bei den Augustinerchorherren handelt es sich um regulierte Chorherren, die im 11./12. Jahrhundert die augustinische Regel annahmen und sich zu einem Leben in Gemeinschaft verpflichteten, das von priesterlichem Dienst, Askese, Keuschheit und Armut geprägt war. Eine der wichtigsten Aufgaben der Augustinerchorherren war die Seelsorge. Die Reformbewegung der Kanoniker breitete sich schnell in ganz Europa aus und entwickelte sich bis zum Zeitalter der Reformation zu einem der kulturell bedeutendsten und größten Orden. Fast alle Stifte nahmen auch Laienbrüder (Konversen) auf. Frauenklöster entstanden in enger Anbindung an die Männerklöster, vielfach wurden die Häuser als Doppelklöster gegründet. Häufig schlossen sie sich zu Kongregationen zusammen, wie etwa die Windesheimer Kongregation, die Chorherren vom Hl. Grabe in Jerusalem, die Kreuzherren, die Antoniter und viele mehr. Die Säkularisation bedeutete für den Orden den nahezu vollständigen Niedergang.",
+    "nl": "Bei den Augustinerchorherren handelt es sich um regulierte Chorherren, die im 11./12. Jahrhundert die augustinische Regel annahmen und sich zu einem Leben in Gemeinschaft verpflichteten, das von priesterlichem Dienst, Askese, Keuschheit und Armut geprägt war. Eine der wichtigsten Aufgaben der Augustinerchorherren war die Seelsorge. Die Reformbewegung der Kanoniker breitete sich schnell in ganz Europa aus und entwickelte sich bis zum Zeitalter der Reformation zu einem der kulturell bedeutendsten und größten Orden. Fast alle Stifte nahmen auch Laienbrüder (Konversen) auf. Frauenklöster entstanden in enger Anbindung an die Männerklöster, vielfach wurden die Häuser als Doppelklöster gegründet. Häufig schlossen sie sich zu Kongregationen zusammen, wie etwa die Windesheimer Kongregation, die Chorherren vom Hl. Grabe in Jerusalem, die Kreuzherren, die Antoniter und viele mehr. Die Säkularisation bedeutete für den Orden den nahezu vollständigen Niedergang.",
+    "en": "Bei den Augustinerchorherren handelt es sich um regulierte Chorherren, die im 11./12. Jahrhundert die augustinische Regel annahmen und sich zu einem Leben in Gemeinschaft verpflichteten, das von priesterlichem Dienst, Askese, Keuschheit und Armut geprägt war. Eine der wichtigsten Aufgaben der Augustinerchorherren war die Seelsorge. Die Reformbewegung der Kanoniker breitete sich schnell in ganz Europa aus und entwickelte sich bis zum Zeitalter der Reformation zu einem der kulturell bedeutendsten und größten Orden. Fast alle Stifte nahmen auch Laienbrüder (Konversen) auf. Frauenklöster entstanden in enger Anbindung an die Männerklöster, vielfach wurden die Häuser als Doppelklöster gegründet. Häufig schlossen sie sich zu Kongregationen zusammen, wie etwa die Windesheimer Kongregation, die Chorherren vom Hl. Grabe in Jerusalem, die Kreuzherren, die Antoniter und viele mehr. Die Säkularisation bedeutete für den Orden den nahezu vollständigen Niedergang.",
+    "la": "Bei den Augustinerchorherren handelt es sich um regulierte Chorherren, die im 11./12. Jahrhundert die augustinische Regel annahmen und sich zu einem Leben in Gemeinschaft verpflichteten, das von priesterlichem Dienst, Askese, Keuschheit und Armut geprägt war. Eine der wichtigsten Aufgaben der Augustinerchorherren war die Seelsorge. Die Reformbewegung der Kanoniker breitete sich schnell in ganz Europa aus und entwickelte sich bis zum Zeitalter der Reformation zu einem der kulturell bedeutendsten und größten Orden. Fast alle Stifte nahmen auch Laienbrüder (Konversen) auf. Frauenklöster entstanden in enger Anbindung an die Männerklöster, vielfach wurden die Häuser als Doppelklöster gegründet. Häufig schlossen sie sich zu Kongregationen zusammen, wie etwa die Windesheimer Kongregation, die Chorherren vom Hl. Grabe in Jerusalem, die Kreuzherren, die Antoniter und viele mehr. Die Säkularisation bedeutete für den Orden den nahezu vollständigen Niedergang."
+  },
+  "example": {
+    "de": "o. s. Aug. can. reg.",
+    "nl": "o. s. Aug. can. reg.",
+    "en": "o. s. Aug. can. reg.",
+    "la": "o. s. Aug. can. reg."
   },
   "related": [
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder025",
       "prefLabel": {
         "de": "Augustinerchorfrauen",
-        "en": "Canonesses Regular of St Augustine",
-        "nl": "Augustinessen"
+        "nl": "Augustinessen",
+        "en": "Canonesses Regular of St Augustine"
       }
     }
   ],

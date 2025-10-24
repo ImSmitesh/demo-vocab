@@ -3,8 +3,8 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Templerorden",
-    "en": "Knights Templar",
-    "nl": "Tempeliers"
+    "nl": "Tempeliers",
+    "en": "Knights Templar"
   },
   "altLabel": {
     "de": [
@@ -12,7 +12,10 @@
     ]
   },
   "definition": {
-    "de": "Der Templerorden geht auf Kreuzfahrer zurück, die sich in den 1120er Jahren zum bewaffneten Schutz der Jerusalempilger zu einer bruderschaftlichen Vereinigung zusammenschlossen. 1129 wurde seine Regel vom Konzil von Troyes beschlossen. Neben dem Heiligen Land errichtete der Orden auch zahlreiche Niederlassungen in Europa und diente der Verteidigung der Kreuzfahrerstaaten. Nach der Eroberung Jerusalems (1187) und dem Fall Akkos (1291) zogen sich die Templer zunächst auf die Insel Ruad, dann nach Zypern zurück. Auf dem Konzil von Vienne (1311-1312) wurde der Orden von Clemens V. aufgehoben. Die Besitzungen fielen größtenteils an den Johanniterorden."
+    "de": "Der Templerorden geht auf Kreuzfahrer zurück, die sich in den 1120er Jahren zum bewaffneten Schutz der Jerusalempilger zu einer bruderschaftlichen Vereinigung zusammenschlossen. 1129 wurde seine Regel vom Konzil von Troyes beschlossen. Neben dem Heiligen Land errichtete der Orden auch zahlreiche Niederlassungen in Europa und diente der Verteidigung der Kreuzfahrerstaaten. Nach der Eroberung Jerusalems (1187) und dem Fall Akkos (1291) zogen sich die Templer zunächst auf die Insel Ruad, dann nach Zypern zurück. Auf dem Konzil von Vienne (1311-1312) wurde der Orden von Clemens V. aufgehoben. Die Besitzungen fielen größtenteils an den Johanniterorden.",
+    "nl": "Der Templerorden geht auf Kreuzfahrer zurück, die sich in den 1120er Jahren zum bewaffneten Schutz der Jerusalempilger zu einer bruderschaftlichen Vereinigung zusammenschlossen. 1129 wurde seine Regel vom Konzil von Troyes beschlossen. Neben dem Heiligen Land errichtete der Orden auch zahlreiche Niederlassungen in Europa und diente der Verteidigung der Kreuzfahrerstaaten. Nach der Eroberung Jerusalems (1187) und dem Fall Akkos (1291) zogen sich die Templer zunächst auf die Insel Ruad, dann nach Zypern zurück. Auf dem Konzil von Vienne (1311-1312) wurde der Orden von Clemens V. aufgehoben. Die Besitzungen fielen größtenteils an den Johanniterorden.",
+    "en": "Der Templerorden geht auf Kreuzfahrer zurück, die sich in den 1120er Jahren zum bewaffneten Schutz der Jerusalempilger zu einer bruderschaftlichen Vereinigung zusammenschlossen. 1129 wurde seine Regel vom Konzil von Troyes beschlossen. Neben dem Heiligen Land errichtete der Orden auch zahlreiche Niederlassungen in Europa und diente der Verteidigung der Kreuzfahrerstaaten. Nach der Eroberung Jerusalems (1187) und dem Fall Akkos (1291) zogen sich die Templer zunächst auf die Insel Ruad, dann nach Zypern zurück. Auf dem Konzil von Vienne (1311-1312) wurde der Orden von Clemens V. aufgehoben. Die Besitzungen fielen größtenteils an den Johanniterorden.",
+    "la": "Der Templerorden geht auf Kreuzfahrer zurück, die sich in den 1120er Jahren zum bewaffneten Schutz der Jerusalempilger zu einer bruderschaftlichen Vereinigung zusammenschlossen. 1129 wurde seine Regel vom Konzil von Troyes beschlossen. Neben dem Heiligen Land errichtete der Orden auch zahlreiche Niederlassungen in Europa und diente der Verteidigung der Kreuzfahrerstaaten. Nach der Eroberung Jerusalems (1187) und dem Fall Akkos (1291) zogen sich die Templer zunächst auf die Insel Ruad, dann nach Zypern zurück. Auf dem Konzil von Vienne (1311-1312) wurde der Orden von Clemens V. aufgehoben. Die Besitzungen fielen größtenteils an den Johanniterorden."
   },
   "exactMatch": [
     {

@@ -4,22 +4,28 @@
   "prefLabel": {
     "de": "Kreuzherren"
   },
+  "example": {
+    "de": "o. cruciferorum",
+    "nl": "o. cruciferorum",
+    "en": "o. cruciferorum",
+    "la": "o. cruciferorum"
+  },
   "narrower": [
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder072",
       "prefLabel": {
         "de": "Chorherren vom Heiligen Grab",
-        "en": "Canons Regular of the Holy Sepulchre",
-        "nl": "Sepulcrijnen"
+        "nl": "Sepulcrijnen",
+        "en": "Canons Regular of the Holy Sepulchre"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder141",
       "prefLabel": {
         "de": "Kreuzherren vom Heiligen Kreuz",
+        "nl": "Kruisheren",
         "en": "Croziers",
-        "la": "Ordo Sanctae Crucis",
-        "nl": "Kruisheren"
+        "la": "Ordo Sanctae Crucis"
       }
     }
   ],

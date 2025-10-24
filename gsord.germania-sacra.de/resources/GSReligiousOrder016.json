@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Benediktiner",
+    "nl": "Benedictijnen",
     "en": "Benedictines",
-    "la": "Ordo Sancti Benedicti",
-    "nl": "Benedictijnen"
+    "la": "Ordo Sancti Benedicti"
   },
   "altLabel": {
     "en": [
@@ -16,7 +16,14 @@
     ]
   },
   "definition": {
-    "de": "Der nach Benedikt von Nursia benannte Benediktinerorden war der wichtigste Orden des frühen und hohen Mittelalters. Das angelsächsische Mönchtum war bereits im 7./8. Jahrhundert benediktinisch geprägt, die Regula Benedicti (Benediktsregel) hatte jedoch keine Exklusivgeltung. Auch Klosterneugründungen außerhalb Großbritanniens lebten zunächst nach der Mischregeltradition. Anfang des 9. Jahrhunderts machten die karolingischen Herrscher die Regula Benedicti zur Norm des fränkischen Mönchtums – die karolingische Mönchsreform gilt als 'Geburtsstunde des benediktinischen Mönchtums'. Die Aachener Gesetzgebung von 816 machte die Benediktregel verpflichtend und trennte Mönche von Kanonikern. Das Klosterleben wird durch die Losung \"Ora et labora et lege\" (Bete und arbeite und lies) geprägt. Der Benediktinerorden hatte eine herausragende religiöse, politische, wirtschaftliche und kulturelle Bedeutung."
+    "en": "Der nach Benedikt von Nursia benannte Benediktinerorden war der wichtigste Orden des frühen und hohen Mittelalters. Das angelsächsische Mönchtum war bereits im 7./8. Jahrhundert benediktinisch geprägt, die Regula Benedicti (Benediktsregel) hatte jedoch keine Exklusivgeltung. Auch Klosterneugründungen außerhalb Großbritanniens lebten zunächst nach der Mischregeltradition. Anfang des 9. Jahrhunderts machten die karolingischen Herrscher die Regula Benedicti zur Norm des fränkischen Mönchtums – die karolingische Mönchsreform gilt als 'Geburtsstunde des benediktinischen Mönchtums'. Die Aachener Gesetzgebung von 816 machte die Benediktregel verpflichtend und trennte Mönche von Kanonikern. Das Klosterleben wird durch die Losung ",
+    "la": "Der nach Benedikt von Nursia benannte Benediktinerorden war der wichtigste Orden des frühen und hohen Mittelalters. Das angelsächsische Mönchtum war bereits im 7./8. Jahrhundert benediktinisch geprägt, die Regula Benedicti (Benediktsregel) hatte jedoch keine Exklusivgeltung. Auch Klosterneugründungen außerhalb Großbritanniens lebten zunächst nach der Mischregeltradition. Anfang des 9. Jahrhunderts machten die karolingischen Herrscher die Regula Benedicti zur Norm des fränkischen Mönchtums – die karolingische Mönchsreform gilt als 'Geburtsstunde des benediktinischen Mönchtums'. Die Aachener Gesetzgebung von 816 machte die Benediktregel verpflichtend und trennte Mönche von Kanonikern. Das Klosterleben wird durch die Losung "
+  },
+  "example": {
+    "de": "o. s. Ben.",
+    "nl": "o. s. Ben.",
+    "en": "o. s. Ben.",
+    "la": "o. s. Ben."
   },
   "narrower": [
     {
@@ -37,9 +44,9 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder033",
       "prefLabel": {
         "de": "Benediktinerinnen",
+        "nl": "Benedictinessen",
         "en": "Benedictine Nuns",
-        "la": "Ordo Sancti Benedicti",
-        "nl": "Benedictinessen"
+        "la": "Ordo Sancti Benedicti"
       }
     },
     {

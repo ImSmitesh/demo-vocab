@@ -3,8 +3,8 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Kapuziner",
-    "en": "Capuchins",
-    "nl": "Kapucijnen"
+    "nl": "Kapucijnen",
+    "en": "Capuchins"
   },
   "altLabel": {
     "la": [
@@ -13,7 +13,10 @@
     ]
   },
   "definition": {
-    "de": "Die Kapuziner, der dritte franziskanische Ordenszweig, entstanden nach der 1517 durch Papst Leo X. durchgeführten Trennung der Franziskaner-Oberservanten (OFMObs) und der Franziskaner-Konventualen (OFMConv) als eine Reformgruppe der Observanz um Matthäus von Bascio. 1528 wurde der Orden von Clemens VII. in nomineller Abhängigkeit vom OFMConv approbiert. Kontemplation, höchste Armut, strengster von der Kreuzesnachfolge geprägter Lebensstil und Tätigkeiten wie Handarbeit und Krankenpflege prägten das Leben der Augustinerbrüder. Die Predigt blieb studierten Priesterbrüdern vorbehalten und wurde im 16. Jahrhundert als volksnahe Wanderpredigt ausgeübt. In den 1536 verabschiedeten Satzungen des Generalkapitels wurde ferner eine Berufung zur Missionstätigkeit festgehalten. Zunächst breitete sich der Orden in Italien aus, nachdem Gregor XIII. 1574 die geographische Eingrenzung aufgehoben hatte, auch in Frankreich, Spanien, Deutschland, Österreich und der Schweiz. Im 17. und 18. Jh. entstanden Niederlassungen in Afrika, Asien und Amerika."
+    "de": "Die Kapuziner, der dritte franziskanische Ordenszweig, entstanden nach der 1517 durch Papst Leo X. durchgeführten Trennung der Franziskaner-Oberservanten (OFMObs) und der Franziskaner-Konventualen (OFMConv) als eine Reformgruppe der Observanz um Matthäus von Bascio. 1528 wurde der Orden von Clemens VII. in nomineller Abhängigkeit vom OFMConv approbiert. Kontemplation, höchste Armut, strengster von der Kreuzesnachfolge geprägter Lebensstil und Tätigkeiten wie Handarbeit und Krankenpflege prägten das Leben der Augustinerbrüder. Die Predigt blieb studierten Priesterbrüdern vorbehalten und wurde im 16. Jahrhundert als volksnahe Wanderpredigt ausgeübt. In den 1536 verabschiedeten Satzungen des Generalkapitels wurde ferner eine Berufung zur Missionstätigkeit festgehalten. Zunächst breitete sich der Orden in Italien aus, nachdem Gregor XIII. 1574 die geographische Eingrenzung aufgehoben hatte, auch in Frankreich, Spanien, Deutschland, Österreich und der Schweiz. Im 17. und 18. Jh. entstanden Niederlassungen in Afrika, Asien und Amerika.",
+    "nl": "Die Kapuziner, der dritte franziskanische Ordenszweig, entstanden nach der 1517 durch Papst Leo X. durchgeführten Trennung der Franziskaner-Oberservanten (OFMObs) und der Franziskaner-Konventualen (OFMConv) als eine Reformgruppe der Observanz um Matthäus von Bascio. 1528 wurde der Orden von Clemens VII. in nomineller Abhängigkeit vom OFMConv approbiert. Kontemplation, höchste Armut, strengster von der Kreuzesnachfolge geprägter Lebensstil und Tätigkeiten wie Handarbeit und Krankenpflege prägten das Leben der Augustinerbrüder. Die Predigt blieb studierten Priesterbrüdern vorbehalten und wurde im 16. Jahrhundert als volksnahe Wanderpredigt ausgeübt. In den 1536 verabschiedeten Satzungen des Generalkapitels wurde ferner eine Berufung zur Missionstätigkeit festgehalten. Zunächst breitete sich der Orden in Italien aus, nachdem Gregor XIII. 1574 die geographische Eingrenzung aufgehoben hatte, auch in Frankreich, Spanien, Deutschland, Österreich und der Schweiz. Im 17. und 18. Jh. entstanden Niederlassungen in Afrika, Asien und Amerika.",
+    "en": "Die Kapuziner, der dritte franziskanische Ordenszweig, entstanden nach der 1517 durch Papst Leo X. durchgeführten Trennung der Franziskaner-Oberservanten (OFMObs) und der Franziskaner-Konventualen (OFMConv) als eine Reformgruppe der Observanz um Matthäus von Bascio. 1528 wurde der Orden von Clemens VII. in nomineller Abhängigkeit vom OFMConv approbiert. Kontemplation, höchste Armut, strengster von der Kreuzesnachfolge geprägter Lebensstil und Tätigkeiten wie Handarbeit und Krankenpflege prägten das Leben der Augustinerbrüder. Die Predigt blieb studierten Priesterbrüdern vorbehalten und wurde im 16. Jahrhundert als volksnahe Wanderpredigt ausgeübt. In den 1536 verabschiedeten Satzungen des Generalkapitels wurde ferner eine Berufung zur Missionstätigkeit festgehalten. Zunächst breitete sich der Orden in Italien aus, nachdem Gregor XIII. 1574 die geographische Eingrenzung aufgehoben hatte, auch in Frankreich, Spanien, Deutschland, Österreich und der Schweiz. Im 17. und 18. Jh. entstanden Niederlassungen in Afrika, Asien und Amerika.",
+    "la": "Die Kapuziner, der dritte franziskanische Ordenszweig, entstanden nach der 1517 durch Papst Leo X. durchgeführten Trennung der Franziskaner-Oberservanten (OFMObs) und der Franziskaner-Konventualen (OFMConv) als eine Reformgruppe der Observanz um Matthäus von Bascio. 1528 wurde der Orden von Clemens VII. in nomineller Abhängigkeit vom OFMConv approbiert. Kontemplation, höchste Armut, strengster von der Kreuzesnachfolge geprägter Lebensstil und Tätigkeiten wie Handarbeit und Krankenpflege prägten das Leben der Augustinerbrüder. Die Predigt blieb studierten Priesterbrüdern vorbehalten und wurde im 16. Jahrhundert als volksnahe Wanderpredigt ausgeübt. In den 1536 verabschiedeten Satzungen des Generalkapitels wurde ferner eine Berufung zur Missionstätigkeit festgehalten. Zunächst breitete sich der Orden in Italien aus, nachdem Gregor XIII. 1574 die geographische Eingrenzung aufgehoben hatte, auch in Frankreich, Spanien, Deutschland, Österreich und der Schweiz. Im 17. und 18. Jh. entstanden Niederlassungen in Afrika, Asien und Amerika."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder108",
@@ -26,8 +29,8 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder065",
       "prefLabel": {
         "de": "Kapuzinerinnen",
-        "en": "Capuchiness",
         "nl": "Kapucijner Nons",
+        "en": "Capuchiness",
         "it": "Cappuccine"
       }
     },

@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Zisterzienser",
+    "nl": "Cisterciënzers",
     "en": "Cistercians",
-    "la": "Ordo Cisterciensis",
-    "nl": "Cisterciënzers"
+    "la": "Ordo Cisterciensis"
   },
   "altLabel": {
     "la": [
@@ -13,7 +13,14 @@
     ]
   },
   "definition": {
-    "de": "Der Zisterzienserorden entstand aus der Tradition des Benediktinerordens und geht auf das Jahr 1098 zurück, als sich der Abt Robert von Molesme mit 21 Mönchen in Cîteaux niederließ, um hier sein Reformprogramm zu verwirklichen: Die Benediktregel sollte in ihrer ganzen \"Reinheit\" gelebt werden. Rückbesinnung auf die Anfänge des Mönchtums, Armut, Handarbeit, Einfachheit und Weltabgeschiedenheit galten als Ideal. 1113 trat Bernhard von Clairveaux dem Orden bei, der ihm zu großem Aufschwung verhalf und die Spiritualität der Zisterzienser prägte. 1119 wurden sowohl Cîteaux als Mutterkloster als auch die Charta Caritas bestätigt."
+    "en": "Der Zisterzienserorden entstand aus der Tradition des Benediktinerordens und geht auf das Jahr 1098 zurück, als sich der Abt Robert von Molesme mit 21 Mönchen in Cîteaux niederließ, um hier sein Reformprogramm zu verwirklichen: Die Benediktregel sollte in ihrer ganzen ",
+    "la": "Der Zisterzienserorden entstand aus der Tradition des Benediktinerordens und geht auf das Jahr 1098 zurück, als sich der Abt Robert von Molesme mit 21 Mönchen in Cîteaux niederließ, um hier sein Reformprogramm zu verwirklichen: Die Benediktregel sollte in ihrer ganzen "
+  },
+  "example": {
+    "de": "o. Cist.",
+    "nl": "o. Cist.",
+    "en": "o. Cist.",
+    "la": "o. Cist."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder144",
@@ -26,9 +33,9 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder028",
       "prefLabel": {
         "de": "Zisterzienserinnen",
+        "nl": "Cisterciënzerinnen",
         "en": "Cistercian Nuns",
-        "la": "Ordo Cisterciensis",
-        "nl": "Cisterciënzerinnen"
+        "la": "Ordo Cisterciensis"
       }
     }
   ],

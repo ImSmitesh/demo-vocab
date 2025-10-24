@@ -3,8 +3,8 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Johanniter",
-    "en": "Knights Hospitaller",
-    "nl": "Johannieters"
+    "nl": "Johannieters",
+    "en": "Knights Hospitaller"
   },
   "altLabel": {
     "de": [
@@ -21,16 +21,25 @@
     ]
   },
   "definition": {
-    "de": "Der Johanniter-Orden geht auf ein Pilgerhospital in Jerusalem zurück und entstand 1099. Eine eigene Regel entstand wahrscheinlich um 1130, die päpstliche Anerkennung erfolgte jedoch erst 1154. Zum Ordensauftrag zählten neben caritativ-seelsorgerlichen auch militärische Aufgaben, die zunehmend das Wirken des Ordens bestimmten. Hauptsitz der Johanniter war bis 1187 Jerusalem, danach Akko. Nach dem Fall Akkons 1291 zogen sie sich zuerst nach Zypern, dann nach Rhodos zurück, wo sie eine eigene staatliche Existenz aufbauten und eine große Bedeutung in der Mittelmeerpolitik und in den Kreuzzügen gegen die Muslime erlangten. Als die Osmanen 1522 Rhodos eroberten, wichen die Johanniter auf die Insel Malta aus. Seit dieser Zeit tritt die Bezeichnung Malteserorden auf. Während der Französischen Revolution verlor der Orden seine Besitztümer in Frankreich und 1798 Malta."
+    "de": "Der Johanniter-Orden geht auf ein Pilgerhospital in Jerusalem zurück und entstand 1099. Eine eigene Regel entstand wahrscheinlich um 1130, die päpstliche Anerkennung erfolgte jedoch erst 1154. Zum Ordensauftrag zählten neben caritativ-seelsorgerlichen auch militärische Aufgaben, die zunehmend das Wirken des Ordens bestimmten. Hauptsitz der Johanniter war bis 1187 Jerusalem, danach Akko. Nach dem Fall Akkons 1291 zogen sie sich zuerst nach Zypern, dann nach Rhodos zurück, wo sie eine eigene staatliche Existenz aufbauten und eine große Bedeutung in der Mittelmeerpolitik und in den Kreuzzügen gegen die Muslime erlangten. Als die Osmanen 1522 Rhodos eroberten, wichen die Johanniter auf die Insel Malta aus. Seit dieser Zeit tritt die Bezeichnung Malteserorden auf. Während der Französischen Revolution verlor der Orden seine Besitztümer in Frankreich und 1798 Malta.",
+    "nl": "Der Johanniter-Orden geht auf ein Pilgerhospital in Jerusalem zurück und entstand 1099. Eine eigene Regel entstand wahrscheinlich um 1130, die päpstliche Anerkennung erfolgte jedoch erst 1154. Zum Ordensauftrag zählten neben caritativ-seelsorgerlichen auch militärische Aufgaben, die zunehmend das Wirken des Ordens bestimmten. Hauptsitz der Johanniter war bis 1187 Jerusalem, danach Akko. Nach dem Fall Akkons 1291 zogen sie sich zuerst nach Zypern, dann nach Rhodos zurück, wo sie eine eigene staatliche Existenz aufbauten und eine große Bedeutung in der Mittelmeerpolitik und in den Kreuzzügen gegen die Muslime erlangten. Als die Osmanen 1522 Rhodos eroberten, wichen die Johanniter auf die Insel Malta aus. Seit dieser Zeit tritt die Bezeichnung Malteserorden auf. Während der Französischen Revolution verlor der Orden seine Besitztümer in Frankreich und 1798 Malta.",
+    "en": "Der Johanniter-Orden geht auf ein Pilgerhospital in Jerusalem zurück und entstand 1099. Eine eigene Regel entstand wahrscheinlich um 1130, die päpstliche Anerkennung erfolgte jedoch erst 1154. Zum Ordensauftrag zählten neben caritativ-seelsorgerlichen auch militärische Aufgaben, die zunehmend das Wirken des Ordens bestimmten. Hauptsitz der Johanniter war bis 1187 Jerusalem, danach Akko. Nach dem Fall Akkons 1291 zogen sie sich zuerst nach Zypern, dann nach Rhodos zurück, wo sie eine eigene staatliche Existenz aufbauten und eine große Bedeutung in der Mittelmeerpolitik und in den Kreuzzügen gegen die Muslime erlangten. Als die Osmanen 1522 Rhodos eroberten, wichen die Johanniter auf die Insel Malta aus. Seit dieser Zeit tritt die Bezeichnung Malteserorden auf. Während der Französischen Revolution verlor der Orden seine Besitztümer in Frankreich und 1798 Malta.",
+    "la": "Der Johanniter-Orden geht auf ein Pilgerhospital in Jerusalem zurück und entstand 1099. Eine eigene Regel entstand wahrscheinlich um 1130, die päpstliche Anerkennung erfolgte jedoch erst 1154. Zum Ordensauftrag zählten neben caritativ-seelsorgerlichen auch militärische Aufgaben, die zunehmend das Wirken des Ordens bestimmten. Hauptsitz der Johanniter war bis 1187 Jerusalem, danach Akko. Nach dem Fall Akkons 1291 zogen sie sich zuerst nach Zypern, dann nach Rhodos zurück, wo sie eine eigene staatliche Existenz aufbauten und eine große Bedeutung in der Mittelmeerpolitik und in den Kreuzzügen gegen die Muslime erlangten. Als die Osmanen 1522 Rhodos eroberten, wichen die Johanniter auf die Insel Malta aus. Seit dieser Zeit tritt die Bezeichnung Malteserorden auf. Während der Französischen Revolution verlor der Orden seine Besitztümer in Frankreich und 1798 Malta."
+  },
+  "example": {
+    "de": "s. Johannis Jerus.",
+    "nl": "s. Johannis Jerus.",
+    "en": "s. Johannis Jerus.",
+    "la": "s. Johannis Jerus."
   },
   "related": [
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder043",
       "prefLabel": {
         "de": "Antoniter",
+        "nl": "Antonieten",
         "en": "Antonines",
-        "la": "Canonici Regulares Sancti Antonii",
-        "nl": "Antonieten"
+        "la": "Canonici Regulares Sancti Antonii"
       }
     }
   ],

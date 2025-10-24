@@ -15,15 +15,18 @@
     ]
   },
   "definition": {
-    "de": "Der nach der Augustinerregel lebende Orden der Lombardischen Annunziatinnen ging aus einem 1408 bei Pavia gegründeten Konvent hervor. Im 15. und 16. Jahrhundert war er in der Lombardei und Venetien weit verbreitet. Im ausgehenden 18. Jahrhundert erlosch der Orden."
+    "de": "Der nach der Augustinerregel lebende Orden der Lombardischen Annunziatinnen ging aus einem 1408 bei Pavia gegründeten Konvent hervor. Im 15. und 16. Jahrhundert war er in der Lombardei und Venetien weit verbreitet. Im ausgehenden 18. Jahrhundert erlosch der Orden.",
+    "nl": "Der nach der Augustinerregel lebende Orden der Lombardischen Annunziatinnen ging aus einem 1408 bei Pavia gegründeten Konvent hervor. Im 15. und 16. Jahrhundert war er in der Lombardei und Venetien weit verbreitet. Im ausgehenden 18. Jahrhundert erlosch der Orden.",
+    "en": "Der nach der Augustinerregel lebende Orden der Lombardischen Annunziatinnen ging aus einem 1408 bei Pavia gegründeten Konvent hervor. Im 15. und 16. Jahrhundert war er in der Lombardei und Venetien weit verbreitet. Im ausgehenden 18. Jahrhundert erlosch der Orden.",
+    "la": "Der nach der Augustinerregel lebende Orden der Lombardischen Annunziatinnen ging aus einem 1408 bei Pavia gegründeten Konvent hervor. Im 15. und 16. Jahrhundert war er in der Lombardei und Venetien weit verbreitet. Im ausgehenden 18. Jahrhundert erlosch der Orden."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder054",
     "prefLabel": {
       "de": "Annunziatinnen",
+      "nl": "Annunciaten",
       "en": "Sisters of the Annunciation",
-      "la": "Ordo de Annuntiatione Beatae Mariae Virginis",
-      "nl": "Annunciaten"
+      "la": "Ordo de Annuntiatione Beatae Mariae Virginis"
     }
   },
   "exactMatch": [

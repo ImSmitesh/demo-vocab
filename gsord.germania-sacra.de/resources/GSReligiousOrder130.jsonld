@@ -3,8 +3,8 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Orden nach der Augustinusregel",
-    "en": "Augustinian Orders",
-    "nl": "Augustijnen"
+    "nl": "Augustijnen",
+    "en": "Augustinian Orders"
   },
   "altLabel": {
     "de": [
@@ -16,24 +16,27 @@
     ]
   },
   "definition": {
-    "de": "Monastische oder stiftische Gemeinschaft mit Augustinerregel wie Augustiner-Chorherren oder Augustinereremiten"
+    "de": "Monastische oder stiftische Gemeinschaft mit Augustinerregel wie Augustiner-Chorherren oder Augustinereremiten",
+    "nl": "Monastische oder stiftische Gemeinschaft mit Augustinerregel wie Augustiner-Chorherren oder Augustinereremiten",
+    "en": "Monastische oder stiftische Gemeinschaft mit Augustinerregel wie Augustiner-Chorherren oder Augustinereremiten",
+    "la": "Monastische oder stiftische Gemeinschaft mit Augustinerregel wie Augustiner-Chorherren oder Augustinereremiten"
   },
   "narrower": [
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder101",
-      "prefLabel": {
-        "de": "Cellitinnen",
-        "en": "Alexian Sisters",
-        "nl": "Cellezusters"
-      }
-    },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder037",
       "prefLabel": {
         "de": "Alexianer",
+        "nl": "Alexianen",
         "en": "Alexians",
-        "la": "Congregatio Fratrum Alexianorum",
-        "nl": "Alexianen"
+        "la": "Congregatio Fratrum Alexianorum"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder101",
+      "prefLabel": {
+        "de": "Cellitinnen",
+        "nl": "Cellezusters",
+        "en": "Alexian Sisters"
       }
     },
     {
@@ -44,29 +47,29 @@
       }
     },
     {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder072",
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder036",
       "prefLabel": {
-        "de": "Chorherren vom Heiligen Grab",
-        "en": "Canons Regular of the Holy Sepulchre",
-        "nl": "Sepulcrijnen"
+        "de": "Augustinereremiten",
+        "nl": "Augustijner eremieten",
+        "en": "Austin Friars",
+        "la": "Ordo Eremitarum Sancti Augustini"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder017",
       "prefLabel": {
         "de": "Birgitten",
+        "nl": "Birgitten",
         "en": "Bridgettines",
-        "la": "Ordo Sanctae Birgittae",
-        "nl": "Birgitten"
+        "la": "Ordo Sanctae Birgittae"
       }
     },
     {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder036",
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder072",
       "prefLabel": {
-        "de": "Augustinereremiten",
-        "en": "Austin Friars",
-        "la": "Ordo Eremitarum Sancti Augustini",
-        "nl": "Augustijner eremieten"
+        "de": "Chorherren vom Heiligen Grab",
+        "nl": "Sepulcrijnen",
+        "en": "Canons Regular of the Holy Sepulchre"
       }
     }
   ],

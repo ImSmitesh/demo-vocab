@@ -9,14 +9,14 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder132",
       "prefLabel": {
         "de": "Beginen",
-        "en": "Beguines",
-        "nl": "Begijnen"
+        "nl": "Begijnen",
+        "en": "Beguines"
       }
     }
   ],
   "related": [
     {
-      "id": "https://gsord.germania-sacra.de/resources/Semireligioese_M",
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder79",
       "prefLabel": {
         "de": "Semireligiöse Gemeinschaft (männlich)"
       }

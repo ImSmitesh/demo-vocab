@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Institut der seligen Jungfrau Maria",
+    "nl": "Congregatie van Jezus",
     "en": "Congregation of Jesus",
-    "la": "Institutum Beatae Mariae Virginis",
-    "nl": "Congregatie van Jezus"
+    "la": "Institutum Beatae Mariae Virginis"
   },
   "altLabel": {
     "de": [
@@ -17,15 +17,18 @@
     ]
   },
   "definition": {
-    "de": "Das Institut der seligen Jungfrau Maria ist ein von Maria Ward (1585-1645) gegründeter Frauenorden. Der ersten Gründung 1609/10 in St. Omer folgten mehrere weitere Gründungen von Instituten, in denen die Ordensregel der Jesuiten gelten sollten und die der religiösen Unterweisung und dem Unterricht (Lesen, Schreiben, Rechnen) dienten. Die ersten Gründungen dienten hierbei dezidiert der Unterrichtung von katholischen Exil-Engländerinnen auf dem Kontinent. Anfangs von weltlichen und geistlichen Fürsten gefördert, geriet Maria Ward beim Versuch, ihre Institut vom Papst als Orden anerkennen zu lassen, in heftige Konflikte um bischöfliche Jurisdiktion und dem Zweck von Frauenorden. Den Englischen Fräulein wurden von Urban VIII. durch die Bulle 'Pastoralis Romani Pontificis' der Zusammenschluss als Orden verboten. Als 'weltliche' Lehrinstitute bestand die Gemeinschaft fort; 1703 wurden ihre Regel vom Papst approbiert, 1748/1749 wurde das Amt der Generaloberin päpstlich anerkannt, sämtliche Erinnerung an Maria Ward sollte jedoch unterbleiben."
+    "de": "Das Institut der seligen Jungfrau Maria ist ein von Maria Ward (1585-1645) gegründeter Frauenorden. Der ersten Gründung 1609/10 in St. Omer folgten mehrere weitere Gründungen von Instituten, in denen die Ordensregel der Jesuiten gelten sollten und die der religiösen Unterweisung und dem Unterricht (Lesen, Schreiben, Rechnen) dienten. Die ersten Gründungen dienten hierbei dezidiert der Unterrichtung von katholischen Exil-Engländerinnen auf dem Kontinent. Anfangs von weltlichen und geistlichen Fürsten gefördert, geriet Maria Ward beim Versuch, ihre Institut vom Papst als Orden anerkennen zu lassen, in heftige Konflikte um bischöfliche Jurisdiktion und dem Zweck von Frauenorden. Den Englischen Fräulein wurden von Urban VIII. durch die Bulle 'Pastoralis Romani Pontificis' der Zusammenschluss als Orden verboten. Als 'weltliche' Lehrinstitute bestand die Gemeinschaft fort; 1703 wurden ihre Regel vom Papst approbiert, 1748/1749 wurde das Amt der Generaloberin päpstlich anerkannt, sämtliche Erinnerung an Maria Ward sollte jedoch unterbleiben.",
+    "nl": "Das Institut der seligen Jungfrau Maria ist ein von Maria Ward (1585-1645) gegründeter Frauenorden. Der ersten Gründung 1609/10 in St. Omer folgten mehrere weitere Gründungen von Instituten, in denen die Ordensregel der Jesuiten gelten sollten und die der religiösen Unterweisung und dem Unterricht (Lesen, Schreiben, Rechnen) dienten. Die ersten Gründungen dienten hierbei dezidiert der Unterrichtung von katholischen Exil-Engländerinnen auf dem Kontinent. Anfangs von weltlichen und geistlichen Fürsten gefördert, geriet Maria Ward beim Versuch, ihre Institut vom Papst als Orden anerkennen zu lassen, in heftige Konflikte um bischöfliche Jurisdiktion und dem Zweck von Frauenorden. Den Englischen Fräulein wurden von Urban VIII. durch die Bulle 'Pastoralis Romani Pontificis' der Zusammenschluss als Orden verboten. Als 'weltliche' Lehrinstitute bestand die Gemeinschaft fort; 1703 wurden ihre Regel vom Papst approbiert, 1748/1749 wurde das Amt der Generaloberin päpstlich anerkannt, sämtliche Erinnerung an Maria Ward sollte jedoch unterbleiben.",
+    "en": "Das Institut der seligen Jungfrau Maria ist ein von Maria Ward (1585-1645) gegründeter Frauenorden. Der ersten Gründung 1609/10 in St. Omer folgten mehrere weitere Gründungen von Instituten, in denen die Ordensregel der Jesuiten gelten sollten und die der religiösen Unterweisung und dem Unterricht (Lesen, Schreiben, Rechnen) dienten. Die ersten Gründungen dienten hierbei dezidiert der Unterrichtung von katholischen Exil-Engländerinnen auf dem Kontinent. Anfangs von weltlichen und geistlichen Fürsten gefördert, geriet Maria Ward beim Versuch, ihre Institut vom Papst als Orden anerkennen zu lassen, in heftige Konflikte um bischöfliche Jurisdiktion und dem Zweck von Frauenorden. Den Englischen Fräulein wurden von Urban VIII. durch die Bulle 'Pastoralis Romani Pontificis' der Zusammenschluss als Orden verboten. Als 'weltliche' Lehrinstitute bestand die Gemeinschaft fort; 1703 wurden ihre Regel vom Papst approbiert, 1748/1749 wurde das Amt der Generaloberin päpstlich anerkannt, sämtliche Erinnerung an Maria Ward sollte jedoch unterbleiben.",
+    "la": "Das Institut der seligen Jungfrau Maria ist ein von Maria Ward (1585-1645) gegründeter Frauenorden. Der ersten Gründung 1609/10 in St. Omer folgten mehrere weitere Gründungen von Instituten, in denen die Ordensregel der Jesuiten gelten sollten und die der religiösen Unterweisung und dem Unterricht (Lesen, Schreiben, Rechnen) dienten. Die ersten Gründungen dienten hierbei dezidiert der Unterrichtung von katholischen Exil-Engländerinnen auf dem Kontinent. Anfangs von weltlichen und geistlichen Fürsten gefördert, geriet Maria Ward beim Versuch, ihre Institut vom Papst als Orden anerkennen zu lassen, in heftige Konflikte um bischöfliche Jurisdiktion und dem Zweck von Frauenorden. Den Englischen Fräulein wurden von Urban VIII. durch die Bulle 'Pastoralis Romani Pontificis' der Zusammenschluss als Orden verboten. Als 'weltliche' Lehrinstitute bestand die Gemeinschaft fort; 1703 wurden ihre Regel vom Papst approbiert, 1748/1749 wurde das Amt der Generaloberin päpstlich anerkannt, sämtliche Erinnerung an Maria Ward sollte jedoch unterbleiben."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder023",
     "prefLabel": {
       "de": "Jesuiten",
+      "nl": "Jezuïeten",
       "en": "Jesuits",
-      "la": "Societas Jesu",
-      "nl": "Jezuïeten"
+      "la": "Societas Jesu"
     }
   },
   "related": [
@@ -33,9 +36,9 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder023",
       "prefLabel": {
         "de": "Jesuiten",
+        "nl": "Jezuïeten",
         "en": "Jesuits",
-        "la": "Societas Jesu",
-        "nl": "Jezuïeten"
+        "la": "Societas Jesu"
       }
     }
   ],

@@ -3,12 +3,15 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Hospitaliterinnen",
+    "nl": "Hospitaalzusters",
     "en": "Hospital Sisters",
-    "la": "Ordo hospitaliarii",
-    "nl": "Hospitaalzusters"
+    "la": "Ordo hospitaliarii"
   },
   "definition": {
-    "de": "Hospitaliterinnen ist eine Sammelbezeichnung für die Ordensgemeinschaften von Frauen, die sich der Krankenpflege widmeten. Im Mittelalter gab es etwa eine Vielzahl von Frauengemeinschaften, die in Hospitälern Dienst taten und nach Ordensregeln (für gewöhnlich Augustinusregel) lebten. In der Frühen Neuzeit schlossen diese sich häufiger überörtlichen Kongregationen zusammen."
+    "de": "Hospitaliterinnen ist eine Sammelbezeichnung für die Ordensgemeinschaften von Frauen, die sich der Krankenpflege widmeten. Im Mittelalter gab es etwa eine Vielzahl von Frauengemeinschaften, die in Hospitälern Dienst taten und nach Ordensregeln (für gewöhnlich Augustinusregel) lebten. In der Frühen Neuzeit schlossen diese sich häufiger überörtlichen Kongregationen zusammen.",
+    "nl": "Hospitaliterinnen ist eine Sammelbezeichnung für die Ordensgemeinschaften von Frauen, die sich der Krankenpflege widmeten. Im Mittelalter gab es etwa eine Vielzahl von Frauengemeinschaften, die in Hospitälern Dienst taten und nach Ordensregeln (für gewöhnlich Augustinusregel) lebten. In der Frühen Neuzeit schlossen diese sich häufiger überörtlichen Kongregationen zusammen.",
+    "en": "Hospitaliterinnen ist eine Sammelbezeichnung für die Ordensgemeinschaften von Frauen, die sich der Krankenpflege widmeten. Im Mittelalter gab es etwa eine Vielzahl von Frauengemeinschaften, die in Hospitälern Dienst taten und nach Ordensregeln (für gewöhnlich Augustinusregel) lebten. In der Frühen Neuzeit schlossen diese sich häufiger überörtlichen Kongregationen zusammen.",
+    "la": "Hospitaliterinnen ist eine Sammelbezeichnung für die Ordensgemeinschaften von Frauen, die sich der Krankenpflege widmeten. Im Mittelalter gab es etwa eine Vielzahl von Frauengemeinschaften, die in Hospitälern Dienst taten und nach Ordensregeln (für gewöhnlich Augustinusregel) lebten. In der Frühen Neuzeit schlossen diese sich häufiger überörtlichen Kongregationen zusammen."
   },
   "related": [
     {

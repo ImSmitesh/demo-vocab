@@ -3,8 +3,8 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Chorherren vom Heiligen Grab",
-    "en": "Canons Regular of the Holy Sepulchre",
-    "nl": "Sepulcrijnen"
+    "nl": "Sepulcrijnen",
+    "en": "Canons Regular of the Holy Sepulchre"
   },
   "altLabel": {
     "de": [
@@ -16,24 +16,33 @@
     ]
   },
   "definition": {
-    "de": "Die Chorherren vom Heiligen Grab gehen auf das von Gottfried von Bouillon an der Jerusalemer Grabeskirche 1099 eingerichtete Kathedralkapitel zurück. 1114 forderte der Patriarch Arnulf von Choque die vita communis und die Annahme der Augustinusregel; 1122 von Calixtus II. bestätigt. Der hohe Rang der Grabeskirche und der dort verehrten Reliquien ermöglichten dem Orden den Erwerb von beträchtlichem Grundbesitz und die Gründung zahlreicher Niederlassungen im Heiligen Land und Syrien, aber auch in Süditalien, Südfrankreich und Spanien sowie später weiteren Teilen Europas. Nach dem Verlust von Jerusalem und Akkon befand sich das Haupthaus ab 1291 in Perugia. 1489 versuchte Papst Innozenz VIII. vergeblich, den Orden aufzulösen, der bis zur Säkularisation weiterbestand."
+    "de": "Die Chorherren vom Heiligen Grab gehen auf das von Gottfried von Bouillon an der Jerusalemer Grabeskirche 1099 eingerichtete Kathedralkapitel zurück. 1114 forderte der Patriarch Arnulf von Choque die vita communis und die Annahme der Augustinusregel; 1122 von Calixtus II. bestätigt. Der hohe Rang der Grabeskirche und der dort verehrten Reliquien ermöglichten dem Orden den Erwerb von beträchtlichem Grundbesitz und die Gründung zahlreicher Niederlassungen im Heiligen Land und Syrien, aber auch in Süditalien, Südfrankreich und Spanien sowie später weiteren Teilen Europas. Nach dem Verlust von Jerusalem und Akkon befand sich das Haupthaus ab 1291 in Perugia. 1489 versuchte Papst Innozenz VIII. vergeblich, den Orden aufzulösen, der bis zur Säkularisation weiterbestand.",
+    "nl": "Die Chorherren vom Heiligen Grab gehen auf das von Gottfried von Bouillon an der Jerusalemer Grabeskirche 1099 eingerichtete Kathedralkapitel zurück. 1114 forderte der Patriarch Arnulf von Choque die vita communis und die Annahme der Augustinusregel; 1122 von Calixtus II. bestätigt. Der hohe Rang der Grabeskirche und der dort verehrten Reliquien ermöglichten dem Orden den Erwerb von beträchtlichem Grundbesitz und die Gründung zahlreicher Niederlassungen im Heiligen Land und Syrien, aber auch in Süditalien, Südfrankreich und Spanien sowie später weiteren Teilen Europas. Nach dem Verlust von Jerusalem und Akkon befand sich das Haupthaus ab 1291 in Perugia. 1489 versuchte Papst Innozenz VIII. vergeblich, den Orden aufzulösen, der bis zur Säkularisation weiterbestand.",
+    "en": "Die Chorherren vom Heiligen Grab gehen auf das von Gottfried von Bouillon an der Jerusalemer Grabeskirche 1099 eingerichtete Kathedralkapitel zurück. 1114 forderte der Patriarch Arnulf von Choque die vita communis und die Annahme der Augustinusregel; 1122 von Calixtus II. bestätigt. Der hohe Rang der Grabeskirche und der dort verehrten Reliquien ermöglichten dem Orden den Erwerb von beträchtlichem Grundbesitz und die Gründung zahlreicher Niederlassungen im Heiligen Land und Syrien, aber auch in Süditalien, Südfrankreich und Spanien sowie später weiteren Teilen Europas. Nach dem Verlust von Jerusalem und Akkon befand sich das Haupthaus ab 1291 in Perugia. 1489 versuchte Papst Innozenz VIII. vergeblich, den Orden aufzulösen, der bis zur Säkularisation weiterbestand.",
+    "la": "Die Chorherren vom Heiligen Grab gehen auf das von Gottfried von Bouillon an der Jerusalemer Grabeskirche 1099 eingerichtete Kathedralkapitel zurück. 1114 forderte der Patriarch Arnulf von Choque die vita communis und die Annahme der Augustinusregel; 1122 von Calixtus II. bestätigt. Der hohe Rang der Grabeskirche und der dort verehrten Reliquien ermöglichten dem Orden den Erwerb von beträchtlichem Grundbesitz und die Gründung zahlreicher Niederlassungen im Heiligen Land und Syrien, aber auch in Süditalien, Südfrankreich und Spanien sowie später weiteren Teilen Europas. Nach dem Verlust von Jerusalem und Akkon befand sich das Haupthaus ab 1291 in Perugia. 1489 versuchte Papst Innozenz VIII. vergeblich, den Orden aufzulösen, der bis zur Säkularisation weiterbestand."
+  },
+  "example": {
+    "de": "S. Sepolcri",
+    "nl": "S. Sepolcri",
+    "en": "S. Sepolcri",
+    "la": "S. Sepolcri"
   },
   "related": [
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder113",
       "prefLabel": {
         "de": "Regularkanoniker",
+        "nl": "Reguliere kanunniken",
         "en": "Canons Regular",
-        "la": "Canonici regulares",
-        "nl": "Reguliere kanunniken"
+        "la": "Canonici regulares"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder083",
       "prefLabel": {
         "de": "Chorfrauen vom Heiligen Grab",
-        "en": "Canonesses Regular of the Holy Sepulchre",
-        "nl": "Sepulcrinessen"
+        "nl": "Sepulcrinessen",
+        "en": "Canonesses Regular of the Holy Sepulchre"
       }
     }
   ],

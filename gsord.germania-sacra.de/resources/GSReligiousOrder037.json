@@ -3,31 +3,34 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Alexianer",
+    "nl": "Alexianen",
     "en": "Alexians",
-    "la": "Congregatio Fratrum Alexianorum",
-    "nl": "Alexianen"
+    "la": "Congregatio Fratrum Alexianorum"
   },
   "altLabel": {
     "de": [
       "Alexianerbrüder",
       "Celliten"
     ],
-    "la": [
-      "CFA"
-    ],
     "nl": [
       "Cellebroeders"
+    ],
+    "la": [
+      "CFA"
     ]
   },
   "definition": {
-    "de": "Bei den Alexianern handelt es sich um Brüdergemeinschaften, deren Hauptaufgabe die Krankenpflege war. Die Ursprünge dieser Ordensgemeinschaften liegen in den religiösen Laienbewegungen des Mittelalters, den Begarden. Die Alexianer waren zunächst vor allem am Niederrhein, in den Niederlanden und in Belgien verbreitet. Die Alexianer von Aachen sind seit 1462 als eigene Gemeinschaft nach der Augustinusregel päpstlich anerkannt. Teilweise folgten sie der Regel des Dritten Ordens des heiligen Franziskus, überwiegend jedoch der Augustinusregel."
+    "de": "Bei den Alexianern handelt es sich um Brüdergemeinschaften, deren Hauptaufgabe die Krankenpflege war. Die Ursprünge dieser Ordensgemeinschaften liegen in den religiösen Laienbewegungen des Mittelalters, den Begarden. Die Alexianer waren zunächst vor allem am Niederrhein, in den Niederlanden und in Belgien verbreitet. Die Alexianer von Aachen sind seit 1462 als eigene Gemeinschaft nach der Augustinusregel päpstlich anerkannt. Teilweise folgten sie der Regel des Dritten Ordens des heiligen Franziskus, überwiegend jedoch der Augustinusregel.",
+    "nl": "Bei den Alexianern handelt es sich um Brüdergemeinschaften, deren Hauptaufgabe die Krankenpflege war. Die Ursprünge dieser Ordensgemeinschaften liegen in den religiösen Laienbewegungen des Mittelalters, den Begarden. Die Alexianer waren zunächst vor allem am Niederrhein, in den Niederlanden und in Belgien verbreitet. Die Alexianer von Aachen sind seit 1462 als eigene Gemeinschaft nach der Augustinusregel päpstlich anerkannt. Teilweise folgten sie der Regel des Dritten Ordens des heiligen Franziskus, überwiegend jedoch der Augustinusregel.",
+    "en": "Bei den Alexianern handelt es sich um Brüdergemeinschaften, deren Hauptaufgabe die Krankenpflege war. Die Ursprünge dieser Ordensgemeinschaften liegen in den religiösen Laienbewegungen des Mittelalters, den Begarden. Die Alexianer waren zunächst vor allem am Niederrhein, in den Niederlanden und in Belgien verbreitet. Die Alexianer von Aachen sind seit 1462 als eigene Gemeinschaft nach der Augustinusregel päpstlich anerkannt. Teilweise folgten sie der Regel des Dritten Ordens des heiligen Franziskus, überwiegend jedoch der Augustinusregel.",
+    "la": "Bei den Alexianern handelt es sich um Brüdergemeinschaften, deren Hauptaufgabe die Krankenpflege war. Die Ursprünge dieser Ordensgemeinschaften liegen in den religiösen Laienbewegungen des Mittelalters, den Begarden. Die Alexianer waren zunächst vor allem am Niederrhein, in den Niederlanden und in Belgien verbreitet. Die Alexianer von Aachen sind seit 1462 als eigene Gemeinschaft nach der Augustinusregel päpstlich anerkannt. Teilweise folgten sie der Regel des Dritten Ordens des heiligen Franziskus, überwiegend jedoch der Augustinusregel."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder130",
     "prefLabel": {
       "de": "Orden nach der Augustinusregel",
-      "en": "Augustinian Orders",
-      "nl": "Augustijnen"
+      "nl": "Augustijnen",
+      "en": "Augustinian Orders"
     }
   },
   "related": [
@@ -35,16 +38,16 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder101",
       "prefLabel": {
         "de": "Cellitinnen",
-        "en": "Alexian Sisters",
-        "nl": "Cellezusters"
+        "nl": "Cellezusters",
+        "en": "Alexian Sisters"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder131",
       "prefLabel": {
         "de": "Begarden",
-        "en": "Beghards",
-        "nl": "Begarden"
+        "nl": "Begarden",
+        "en": "Beghards"
       }
     }
   ],

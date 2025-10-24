@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Zisterzienserinnen",
+    "nl": "Cisterciënzerinnen",
     "en": "Cistercian Nuns",
-    "la": "Ordo Cisterciensis",
-    "nl": "Cisterciënzerinnen"
+    "la": "Ordo Cisterciensis"
   },
   "altLabel": {
     "la": [
@@ -23,18 +23,18 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder033",
       "prefLabel": {
         "de": "Benediktinerinnen",
+        "nl": "Benedictinessen",
         "en": "Benedictine Nuns",
-        "la": "Ordo Sancti Benedicti",
-        "nl": "Benedictinessen"
+        "la": "Ordo Sancti Benedicti"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder005",
       "prefLabel": {
         "de": "Zisterzienser",
+        "nl": "Cisterciënzers",
         "en": "Cistercians",
-        "la": "Ordo Cisterciensis",
-        "nl": "Cisterciënzers"
+        "la": "Ordo Cisterciensis"
       }
     }
   ],

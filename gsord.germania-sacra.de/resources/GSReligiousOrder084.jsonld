@@ -3,8 +3,8 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Dominikaner-Terziarinnen",
-    "en": "Tertiaries of St Dominicus",
-    "nl": "Tertiarissen van Sint-Dominicus"
+    "nl": "Tertiarissen van Sint-Dominicus",
+    "en": "Tertiaries of St Dominicus"
   },
   "altLabel": {
     "de": [
@@ -16,7 +16,10 @@
     ]
   },
   "definition": {
-    "de": "Die Dominikaner-Terziarinnen sind Frauengemeinschaften, die Dominikanerinnenregeln befolgten – insbesondere die 1285 vom Ordensmeister Munio de Zamora erlassenen 'Regula tertii ordinis feminarum et virorum' bzw. 'Regula fratrum et sororum Ordinis de poenitentia S. Dominici' – formal aber nicht in den Orden inkorporiert wurden. Aus diesem Grund gab es deutliche Unterschiede in den konkreten Lebensformen der Dominikaner-Terziarinnen, vor allem was die Strenge von Armut und Weltabgeschiedenheit betrifft; manche Dominikaner-Terziarinnen-Gemeinschaften waren eher semireligiöse Gemeinschaften, andere lebten wie Dominikanerinnen. In Spätmittelalter und Früher Neuzeit gab es die Tendenz, die weniger streng lebenden Gemeinschaften der Terziarinnen durch Klausurierung und Regulierung dem Orden der Dominikanerinnen in Lebensstil und Frömmigkeit anzugleichen."
+    "de": "Die Dominikaner-Terziarinnen sind Frauengemeinschaften, die Dominikanerinnenregeln befolgten – insbesondere die 1285 vom Ordensmeister Munio de Zamora erlassenen 'Regula tertii ordinis feminarum et virorum' bzw. 'Regula fratrum et sororum Ordinis de poenitentia S. Dominici' – formal aber nicht in den Orden inkorporiert wurden. Aus diesem Grund gab es deutliche Unterschiede in den konkreten Lebensformen der Dominikaner-Terziarinnen, vor allem was die Strenge von Armut und Weltabgeschiedenheit betrifft; manche Dominikaner-Terziarinnen-Gemeinschaften waren eher semireligiöse Gemeinschaften, andere lebten wie Dominikanerinnen. In Spätmittelalter und Früher Neuzeit gab es die Tendenz, die weniger streng lebenden Gemeinschaften der Terziarinnen durch Klausurierung und Regulierung dem Orden der Dominikanerinnen in Lebensstil und Frömmigkeit anzugleichen.",
+    "nl": "Die Dominikaner-Terziarinnen sind Frauengemeinschaften, die Dominikanerinnenregeln befolgten – insbesondere die 1285 vom Ordensmeister Munio de Zamora erlassenen 'Regula tertii ordinis feminarum et virorum' bzw. 'Regula fratrum et sororum Ordinis de poenitentia S. Dominici' – formal aber nicht in den Orden inkorporiert wurden. Aus diesem Grund gab es deutliche Unterschiede in den konkreten Lebensformen der Dominikaner-Terziarinnen, vor allem was die Strenge von Armut und Weltabgeschiedenheit betrifft; manche Dominikaner-Terziarinnen-Gemeinschaften waren eher semireligiöse Gemeinschaften, andere lebten wie Dominikanerinnen. In Spätmittelalter und Früher Neuzeit gab es die Tendenz, die weniger streng lebenden Gemeinschaften der Terziarinnen durch Klausurierung und Regulierung dem Orden der Dominikanerinnen in Lebensstil und Frömmigkeit anzugleichen.",
+    "en": "Die Dominikaner-Terziarinnen sind Frauengemeinschaften, die Dominikanerinnenregeln befolgten – insbesondere die 1285 vom Ordensmeister Munio de Zamora erlassenen 'Regula tertii ordinis feminarum et virorum' bzw. 'Regula fratrum et sororum Ordinis de poenitentia S. Dominici' – formal aber nicht in den Orden inkorporiert wurden. Aus diesem Grund gab es deutliche Unterschiede in den konkreten Lebensformen der Dominikaner-Terziarinnen, vor allem was die Strenge von Armut und Weltabgeschiedenheit betrifft; manche Dominikaner-Terziarinnen-Gemeinschaften waren eher semireligiöse Gemeinschaften, andere lebten wie Dominikanerinnen. In Spätmittelalter und Früher Neuzeit gab es die Tendenz, die weniger streng lebenden Gemeinschaften der Terziarinnen durch Klausurierung und Regulierung dem Orden der Dominikanerinnen in Lebensstil und Frömmigkeit anzugleichen.",
+    "la": "Die Dominikaner-Terziarinnen sind Frauengemeinschaften, die Dominikanerinnenregeln befolgten – insbesondere die 1285 vom Ordensmeister Munio de Zamora erlassenen 'Regula tertii ordinis feminarum et virorum' bzw. 'Regula fratrum et sororum Ordinis de poenitentia S. Dominici' – formal aber nicht in den Orden inkorporiert wurden. Aus diesem Grund gab es deutliche Unterschiede in den konkreten Lebensformen der Dominikaner-Terziarinnen, vor allem was die Strenge von Armut und Weltabgeschiedenheit betrifft; manche Dominikaner-Terziarinnen-Gemeinschaften waren eher semireligiöse Gemeinschaften, andere lebten wie Dominikanerinnen. In Spätmittelalter und Früher Neuzeit gab es die Tendenz, die weniger streng lebenden Gemeinschaften der Terziarinnen durch Klausurierung und Regulierung dem Orden der Dominikanerinnen in Lebensstil und Frömmigkeit anzugleichen."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder108",
@@ -29,18 +32,18 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder013",
       "prefLabel": {
         "de": "Dominikaner",
+        "nl": "Dominicanen",
         "en": "Dominicans",
-        "la": "Ordo fratrum Praedicatorum",
-        "nl": "Dominicanen"
+        "la": "Ordo fratrum Praedicatorum"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder030",
       "prefLabel": {
         "de": "Dominikanerinnen",
+        "nl": "Dominicanessen",
         "en": "Dominican Nuns",
-        "la": "Ordo fratrum Praedicatorum",
-        "nl": "Dominicanessen"
+        "la": "Ordo fratrum Praedicatorum"
       }
     }
   ],

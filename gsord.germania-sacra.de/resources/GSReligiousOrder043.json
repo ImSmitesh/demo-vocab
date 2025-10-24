@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Antoniter",
+    "nl": "Antonieten",
     "en": "Antonines",
-    "la": "Canonici Regulares Sancti Antonii",
-    "nl": "Antonieten"
+    "la": "Canonici Regulares Sancti Antonii"
   },
   "altLabel": {
     "de": [
@@ -22,7 +22,15 @@
     ]
   },
   "definition": {
-    "de": "Um 1096 entstand in Südfrankreich aus einem Hospiz zur Versorgung von Pilgern und Kranken eine Bruderschaft, die sich der Krankenpflege widmete. 1247 entwickelte sich hieraus eine Ordensgemeinschaft, die mit Erlaubnis von Papst Innozenz IV. einen Konvent bildete, der nach der Augustinusregel lebte. Die Aufgabe des Ordens, der zahlreiche Spitäler betreute, war vor allem die Pflege und Behandlung am Antoniusfeuer (Mutterkornbrand) Erkrankter. Der Orden verbreitete sich in ganz Europa (rund 300 Häuser), bis es im späten Mittelalter durch Verweltlichung und Verpfründung zum Niedergang des Ordens kam. 1774 wurden die verbliebenen Häuser (rund 30) mit den Johannitern auf Malta vereinigt."
+    "de": "Um 1096 entstand in Südfrankreich aus einem Hospiz zur Versorgung von Pilgern und Kranken eine Bruderschaft, die sich der Krankenpflege widmete. 1247 entwickelte sich hieraus eine Ordensgemeinschaft, die mit Erlaubnis von Papst Innozenz IV. einen Konvent bildete, der nach der Augustinusregel lebte. Die Aufgabe des Ordens, der zahlreiche Spitäler betreute, war vor allem die Pflege und Behandlung am Antoniusfeuer (Mutterkornbrand) Erkrankter. Der Orden verbreitete sich in ganz Europa (rund 300 Häuser), bis es im späten Mittelalter durch Verweltlichung und Verpfründung zum Niedergang des Ordens kam. 1774 wurden die verbliebenen Häuser (rund 30) mit den Johannitern auf Malta vereinigt.",
+    "nl": "Um 1096 entstand in Südfrankreich aus einem Hospiz zur Versorgung von Pilgern und Kranken eine Bruderschaft, die sich der Krankenpflege widmete. 1247 entwickelte sich hieraus eine Ordensgemeinschaft, die mit Erlaubnis von Papst Innozenz IV. einen Konvent bildete, der nach der Augustinusregel lebte. Die Aufgabe des Ordens, der zahlreiche Spitäler betreute, war vor allem die Pflege und Behandlung am Antoniusfeuer (Mutterkornbrand) Erkrankter. Der Orden verbreitete sich in ganz Europa (rund 300 Häuser), bis es im späten Mittelalter durch Verweltlichung und Verpfründung zum Niedergang des Ordens kam. 1774 wurden die verbliebenen Häuser (rund 30) mit den Johannitern auf Malta vereinigt.",
+    "en": "Um 1096 entstand in Südfrankreich aus einem Hospiz zur Versorgung von Pilgern und Kranken eine Bruderschaft, die sich der Krankenpflege widmete. 1247 entwickelte sich hieraus eine Ordensgemeinschaft, die mit Erlaubnis von Papst Innozenz IV. einen Konvent bildete, der nach der Augustinusregel lebte. Die Aufgabe des Ordens, der zahlreiche Spitäler betreute, war vor allem die Pflege und Behandlung am Antoniusfeuer (Mutterkornbrand) Erkrankter. Der Orden verbreitete sich in ganz Europa (rund 300 Häuser), bis es im späten Mittelalter durch Verweltlichung und Verpfründung zum Niedergang des Ordens kam. 1774 wurden die verbliebenen Häuser (rund 30) mit den Johannitern auf Malta vereinigt.",
+    "la": "Um 1096 entstand in Südfrankreich aus einem Hospiz zur Versorgung von Pilgern und Kranken eine Bruderschaft, die sich der Krankenpflege widmete. 1247 entwickelte sich hieraus eine Ordensgemeinschaft, die mit Erlaubnis von Papst Innozenz IV. einen Konvent bildete, der nach der Augustinusregel lebte. Die Aufgabe des Ordens, der zahlreiche Spitäler betreute, war vor allem die Pflege und Behandlung am Antoniusfeuer (Mutterkornbrand) Erkrankter. Der Orden verbreitete sich in ganz Europa (rund 300 Häuser), bis es im späten Mittelalter durch Verweltlichung und Verpfründung zum Niedergang des Ordens kam. 1774 wurden die verbliebenen Häuser (rund 30) mit den Johannitern auf Malta vereinigt."
+  },
+  "example": {
+    "de": "o. s. Antonii",
+    "nl": "o. s. Antonii",
+    "en": "o. s. Antonii"
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder110",
@@ -35,8 +43,8 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder012",
       "prefLabel": {
         "de": "Johanniter",
-        "en": "Knights Hospitaller",
-        "nl": "Johannieters"
+        "nl": "Johannieters",
+        "en": "Knights Hospitaller"
       }
     }
   ],

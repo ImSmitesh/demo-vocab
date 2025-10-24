@@ -8,94 +8,97 @@
     "de": [
       "Bettelorden"
     ],
-    "en": [
-      "Mendicant orders"
-    ],
     "nl": [
       "Bedelorden"
+    ],
+    "en": [
+      "Mendicant orders"
     ]
   },
   "definition": {
-    "de": "Die Mendikantenorden, oder auch Bettelorden, entstanden im 13. Jahrhundert und bemühten sich, dem Ideal der Armut zu entsprechen, was jedoch vor allem in den 1320er Jahren zu innerkirchlichen Konflikten führte und letztlich nur eingeschränkt gelang. Namensgebend wurde das Betteln, das – wie Schenkungen – traditionell zum Bestreiten des Lebensunterhalts dienen sollte. Nicht zuletzt aus diesem Grund siedelten sich Bettelorden im Spätmittelalter vor allem in prosperierenden Städten an; Seelsorge, Mission (beziehungsweise Ketzerbekämpfung) und Gelehrsamkeit waren wichtige Tätigkeitsfelder von Bettelorden, die ein deutlich anderes Verhältnis zur ‚Welt‘ pflegten als etwa die Benediktiner."
+    "de": "Die Mendikantenorden, oder auch Bettelorden, entstanden im 13. Jahrhundert und bemühten sich, dem Ideal der Armut zu entsprechen, was jedoch vor allem in den 1320er Jahren zu innerkirchlichen Konflikten führte und letztlich nur eingeschränkt gelang. Namensgebend wurde das Betteln, das – wie Schenkungen – traditionell zum Bestreiten des Lebensunterhalts dienen sollte. Nicht zuletzt aus diesem Grund siedelten sich Bettelorden im Spätmittelalter vor allem in prosperierenden Städten an; Seelsorge, Mission (beziehungsweise Ketzerbekämpfung) und Gelehrsamkeit waren wichtige Tätigkeitsfelder von Bettelorden, die ein deutlich anderes Verhältnis zur ‚Welt‘ pflegten als etwa die Benediktiner.",
+    "nl": "Die Mendikantenorden, oder auch Bettelorden, entstanden im 13. Jahrhundert und bemühten sich, dem Ideal der Armut zu entsprechen, was jedoch vor allem in den 1320er Jahren zu innerkirchlichen Konflikten führte und letztlich nur eingeschränkt gelang. Namensgebend wurde das Betteln, das – wie Schenkungen – traditionell zum Bestreiten des Lebensunterhalts dienen sollte. Nicht zuletzt aus diesem Grund siedelten sich Bettelorden im Spätmittelalter vor allem in prosperierenden Städten an; Seelsorge, Mission (beziehungsweise Ketzerbekämpfung) und Gelehrsamkeit waren wichtige Tätigkeitsfelder von Bettelorden, die ein deutlich anderes Verhältnis zur ‚Welt‘ pflegten als etwa die Benediktiner.",
+    "en": "Die Mendikantenorden, oder auch Bettelorden, entstanden im 13. Jahrhundert und bemühten sich, dem Ideal der Armut zu entsprechen, was jedoch vor allem in den 1320er Jahren zu innerkirchlichen Konflikten führte und letztlich nur eingeschränkt gelang. Namensgebend wurde das Betteln, das – wie Schenkungen – traditionell zum Bestreiten des Lebensunterhalts dienen sollte. Nicht zuletzt aus diesem Grund siedelten sich Bettelorden im Spätmittelalter vor allem in prosperierenden Städten an; Seelsorge, Mission (beziehungsweise Ketzerbekämpfung) und Gelehrsamkeit waren wichtige Tätigkeitsfelder von Bettelorden, die ein deutlich anderes Verhältnis zur ‚Welt‘ pflegten als etwa die Benediktiner.",
+    "la": "Die Mendikantenorden, oder auch Bettelorden, entstanden im 13. Jahrhundert und bemühten sich, dem Ideal der Armut zu entsprechen, was jedoch vor allem in den 1320er Jahren zu innerkirchlichen Konflikten führte und letztlich nur eingeschränkt gelang. Namensgebend wurde das Betteln, das – wie Schenkungen – traditionell zum Bestreiten des Lebensunterhalts dienen sollte. Nicht zuletzt aus diesem Grund siedelten sich Bettelorden im Spätmittelalter vor allem in prosperierenden Städten an; Seelsorge, Mission (beziehungsweise Ketzerbekämpfung) und Gelehrsamkeit waren wichtige Tätigkeitsfelder von Bettelorden, die ein deutlich anderes Verhältnis zur ‚Welt‘ pflegten als etwa die Benediktiner."
   },
   "narrower": [
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder065",
       "prefLabel": {
         "de": "Kapuzinerinnen",
-        "en": "Capuchiness",
         "nl": "Kapucijner Nons",
+        "en": "Capuchiness",
         "it": "Cappuccine"
-      }
-    },
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder026",
-      "prefLabel": {
-        "de": "Karmeliterinnen",
-        "en": "Carmelite Sisters",
-        "la": "Ordo Sororum Beatae Mariae Virginis de Monte Carmelo",
-        "nl": "Karmelitessen"
-      }
-    },
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder084",
-      "prefLabel": {
-        "de": "Dominikaner-Terziarinnen",
-        "en": "Tertiaries of St Dominicus",
-        "nl": "Tertiarissen van Sint-Dominicus"
-      }
-    },
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder013",
-      "prefLabel": {
-        "de": "Dominikaner",
-        "en": "Dominicans",
-        "la": "Ordo fratrum Praedicatorum",
-        "nl": "Dominicanen"
-      }
-    },
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder030",
-      "prefLabel": {
-        "de": "Dominikanerinnen",
-        "en": "Dominican Nuns",
-        "la": "Ordo fratrum Praedicatorum",
-        "nl": "Dominicanessen"
-      }
-    },
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder008",
-      "prefLabel": {
-        "de": "Kapuziner",
-        "en": "Capuchins",
-        "nl": "Kapucijnen"
-      }
-    },
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder003",
-      "prefLabel": {
-        "de": "Karmeliten",
-        "en": "Carmelites",
-        "la": "Ordo Fratrum Beatae Mariae Virginis de Monte Carmelo",
-        "nl": "Karmelieten"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder019",
       "prefLabel": {
         "de": "Klarissen",
+        "nl": "Clarissen",
         "en": "Poor Clares",
-        "la": "Ordo Sanctae Clarae",
-        "nl": "Clarissen"
+        "la": "Ordo Sanctae Clarae"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder013",
+      "prefLabel": {
+        "de": "Dominikaner",
+        "nl": "Dominicanen",
+        "en": "Dominicans",
+        "la": "Ordo fratrum Praedicatorum"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder030",
+      "prefLabel": {
+        "de": "Dominikanerinnen",
+        "nl": "Dominicanessen",
+        "en": "Dominican Nuns",
+        "la": "Ordo fratrum Praedicatorum"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder084",
+      "prefLabel": {
+        "de": "Dominikaner-Terziarinnen",
+        "nl": "Tertiarissen van Sint-Dominicus",
+        "en": "Tertiaries of St Dominicus"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder082",
       "prefLabel": {
         "de": "Franziskanerinnen der Dritten Regel",
+        "nl": "Tertiarissen",
         "en": "Tertiaries",
-        "la": "Tertius Ordo Franciscanus",
-        "nl": "Tertiarissen"
+        "la": "Tertius Ordo Franciscanus"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder008",
+      "prefLabel": {
+        "de": "Kapuziner",
+        "nl": "Kapucijnen",
+        "en": "Capuchins"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder003",
+      "prefLabel": {
+        "de": "Karmeliten",
+        "nl": "Karmelieten",
+        "en": "Carmelites",
+        "la": "Ordo Fratrum Beatae Mariae Virginis de Monte Carmelo"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder026",
+      "prefLabel": {
+        "de": "Karmeliterinnen",
+        "nl": "Karmelitessen",
+        "en": "Carmelite Sisters",
+        "la": "Ordo Sororum Beatae Mariae Virginis de Monte Carmelo"
       }
     }
   ],

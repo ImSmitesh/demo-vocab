@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Augustinereremitinnen",
+    "nl": "Conversinnen van Sint-Augustinus",
     "en": "Converse Women of St Augustine",
-    "la": "Ordo Eremitarum Sancti Augustini",
-    "nl": "Conversinnen van Sint-Augustinus"
+    "la": "Ordo Eremitarum Sancti Augustini"
   },
   "altLabel": {
     "la": [
@@ -13,16 +13,19 @@
     ]
   },
   "definition": {
-    "de": "Der Bettelorden der Augustinereremitinnen ist der weibliche Zweig der Augustinereremiten, deren Satzungen und Leitung sie unterstanden. Das Leben der Ordensfrauen ist durch die Augustinusregel geprägt. Neben dem Gebet widmen sie sich häufig der Mädchenbildung und der Erziehung von Waisenkindern. Im deutschsprachigen Raum sind während der Säkularisation alle Nonnenklöster niedergegangen."
+    "de": "Der Bettelorden der Augustinereremitinnen ist der weibliche Zweig der Augustinereremiten, deren Satzungen und Leitung sie unterstanden. Das Leben der Ordensfrauen ist durch die Augustinusregel geprägt. Neben dem Gebet widmen sie sich häufig der Mädchenbildung und der Erziehung von Waisenkindern. Im deutschsprachigen Raum sind während der Säkularisation alle Nonnenklöster niedergegangen.",
+    "nl": "Der Bettelorden der Augustinereremitinnen ist der weibliche Zweig der Augustinereremiten, deren Satzungen und Leitung sie unterstanden. Das Leben der Ordensfrauen ist durch die Augustinusregel geprägt. Neben dem Gebet widmen sie sich häufig der Mädchenbildung und der Erziehung von Waisenkindern. Im deutschsprachigen Raum sind während der Säkularisation alle Nonnenklöster niedergegangen.",
+    "en": "Der Bettelorden der Augustinereremitinnen ist der weibliche Zweig der Augustinereremiten, deren Satzungen und Leitung sie unterstanden. Das Leben der Ordensfrauen ist durch die Augustinusregel geprägt. Neben dem Gebet widmen sie sich häufig der Mädchenbildung und der Erziehung von Waisenkindern. Im deutschsprachigen Raum sind während der Säkularisation alle Nonnenklöster niedergegangen.",
+    "la": "Der Bettelorden der Augustinereremitinnen ist der weibliche Zweig der Augustinereremiten, deren Satzungen und Leitung sie unterstanden. Das Leben der Ordensfrauen ist durch die Augustinusregel geprägt. Neben dem Gebet widmen sie sich häufig der Mädchenbildung und der Erziehung von Waisenkindern. Im deutschsprachigen Raum sind während der Säkularisation alle Nonnenklöster niedergegangen."
   },
   "related": [
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder036",
       "prefLabel": {
         "de": "Augustinereremiten",
+        "nl": "Augustijner eremieten",
         "en": "Austin Friars",
-        "la": "Ordo Eremitarum Sancti Augustini",
-        "nl": "Augustijner eremieten"
+        "la": "Ordo Eremitarum Sancti Augustini"
       }
     }
   ],

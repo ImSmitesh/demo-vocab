@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Unbeschuhte Karmeliten",
+    "nl": "Ongeschoeide Karmeliten",
     "en": "Discalced Carmelite Friars",
-    "la": "Ordo Carmelitarum Discalceatorum",
-    "nl": "Ongeschoeide Karmeliten"
+    "la": "Ordo Carmelitarum Discalceatorum"
   },
   "altLabel": {
     "la": [
@@ -13,24 +13,27 @@
     ]
   },
   "definition": {
-    "de": "Die Unbeschuhten Karmeliten gingen aus einem 1562 von Teresa von Avila gegründeten Reformkloster hervor. Nachdem weitere Gründungen gefolgt waren, wurden die Unbeschuhten Karmeliten 1593 zu einem selbstständigen Orden. Der eremitische Orden verbreitete sich von Spanien aus vor allem in Europa und Südamerika. Im Reich wurden die Unbeschuhten Karmeliten nach der Schlacht am Weißen Berg (1620), in der der Mitwirkung des Unbeschuhte Karmeliten Dominicus a Jesu Maria als Feldprediger (angeblich) eine zentrale Rolle zukam, von den Habsburgern und bayrischen Wittelsbachern maßgeblich gefördert. Die Unbeschuhten waren auch als Missionare tätig, etwa in Asien."
+    "de": "Die Unbeschuhten Karmeliten gingen aus einem 1562 von Teresa von Avila gegründeten Reformkloster hervor. Nachdem weitere Gründungen gefolgt waren, wurden die Unbeschuhten Karmeliten 1593 zu einem selbstständigen Orden. Der eremitische Orden verbreitete sich von Spanien aus vor allem in Europa und Südamerika. Im Reich wurden die Unbeschuhten Karmeliten nach der Schlacht am Weißen Berg (1620), in der der Mitwirkung des Unbeschuhte Karmeliten Dominicus a Jesu Maria als Feldprediger (angeblich) eine zentrale Rolle zukam, von den Habsburgern und bayrischen Wittelsbachern maßgeblich gefördert. Die Unbeschuhten waren auch als Missionare tätig, etwa in Asien.",
+    "nl": "Die Unbeschuhten Karmeliten gingen aus einem 1562 von Teresa von Avila gegründeten Reformkloster hervor. Nachdem weitere Gründungen gefolgt waren, wurden die Unbeschuhten Karmeliten 1593 zu einem selbstständigen Orden. Der eremitische Orden verbreitete sich von Spanien aus vor allem in Europa und Südamerika. Im Reich wurden die Unbeschuhten Karmeliten nach der Schlacht am Weißen Berg (1620), in der der Mitwirkung des Unbeschuhte Karmeliten Dominicus a Jesu Maria als Feldprediger (angeblich) eine zentrale Rolle zukam, von den Habsburgern und bayrischen Wittelsbachern maßgeblich gefördert. Die Unbeschuhten waren auch als Missionare tätig, etwa in Asien.",
+    "en": "Die Unbeschuhten Karmeliten gingen aus einem 1562 von Teresa von Avila gegründeten Reformkloster hervor. Nachdem weitere Gründungen gefolgt waren, wurden die Unbeschuhten Karmeliten 1593 zu einem selbstständigen Orden. Der eremitische Orden verbreitete sich von Spanien aus vor allem in Europa und Südamerika. Im Reich wurden die Unbeschuhten Karmeliten nach der Schlacht am Weißen Berg (1620), in der der Mitwirkung des Unbeschuhte Karmeliten Dominicus a Jesu Maria als Feldprediger (angeblich) eine zentrale Rolle zukam, von den Habsburgern und bayrischen Wittelsbachern maßgeblich gefördert. Die Unbeschuhten waren auch als Missionare tätig, etwa in Asien.",
+    "la": "Die Unbeschuhten Karmeliten gingen aus einem 1562 von Teresa von Avila gegründeten Reformkloster hervor. Nachdem weitere Gründungen gefolgt waren, wurden die Unbeschuhten Karmeliten 1593 zu einem selbstständigen Orden. Der eremitische Orden verbreitete sich von Spanien aus vor allem in Europa und Südamerika. Im Reich wurden die Unbeschuhten Karmeliten nach der Schlacht am Weißen Berg (1620), in der der Mitwirkung des Unbeschuhte Karmeliten Dominicus a Jesu Maria als Feldprediger (angeblich) eine zentrale Rolle zukam, von den Habsburgern und bayrischen Wittelsbachern maßgeblich gefördert. Die Unbeschuhten waren auch als Missionare tätig, etwa in Asien."
   },
   "related": [
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder003",
       "prefLabel": {
         "de": "Karmeliten",
+        "nl": "Karmelieten",
         "en": "Carmelites",
-        "la": "Ordo Fratrum Beatae Mariae Virginis de Monte Carmelo",
-        "nl": "Karmelieten"
+        "la": "Ordo Fratrum Beatae Mariae Virginis de Monte Carmelo"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder136",
       "prefLabel": {
         "de": "Unbeschuhte Karmelitinnen",
-        "en": "Discalced Carmelite Sisters",
-        "nl": "Ongeschoeide Karmelitessen"
+        "nl": "Ongeschoeide Karmelitessen",
+        "en": "Discalced Carmelite Sisters"
       }
     }
   ],

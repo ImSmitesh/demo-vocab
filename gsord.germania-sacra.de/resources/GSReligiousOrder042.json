@@ -13,13 +13,19 @@
       "Ordo Servarum Mariae"
     ]
   },
+  "definition": {
+    "de": "Schon unter dem Generaloberen Philippus Benitius (1265-1280) ist ein Apostolat unter Frauen bezeugt. Das erste Servitinnen-Kloster wurde jedoch erst 1332 in Siena gegründet. Die Ordensangehörigen lebten klausuriert und kontemplativ und gingen zum Teil einem erzieherischen Auftrag nach.",
+    "nl": "Schon unter dem Generaloberen Philippus Benitius (1265-1280) ist ein Apostolat unter Frauen bezeugt. Das erste Servitinnen-Kloster wurde jedoch erst 1332 in Siena gegründet. Die Ordensangehörigen lebten klausuriert und kontemplativ und gingen zum Teil einem erzieherischen Auftrag nach.",
+    "en": "Schon unter dem Generaloberen Philippus Benitius (1265-1280) ist ein Apostolat unter Frauen bezeugt. Das erste Servitinnen-Kloster wurde jedoch erst 1332 in Siena gegründet. Die Ordensangehörigen lebten klausuriert und kontemplativ und gingen zum Teil einem erzieherischen Auftrag nach.",
+    "la": "Schon unter dem Generaloberen Philippus Benitius (1265-1280) ist ein Apostolat unter Frauen bezeugt. Das erste Servitinnen-Kloster wurde jedoch erst 1332 in Siena gegründet. Die Ordensangehörigen lebten klausuriert und kontemplativ und gingen zum Teil einem erzieherischen Auftrag nach."
+  },
   "related": [
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder041",
       "prefLabel": {
         "de": "Serviten",
-        "en": "Servites",
-        "nl": "Servieten van Maria"
+        "nl": "Servieten van Maria",
+        "en": "Servites"
       }
     }
   ],

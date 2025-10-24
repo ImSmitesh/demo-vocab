@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Kartäuser",
+    "nl": "Kartuizers",
     "en": "Carthusians",
-    "la": "Ordo Cartusiensis",
-    "nl": "Kartuizers"
+    "la": "Ordo Cartusiensis"
   },
   "altLabel": {
     "de": [
@@ -16,7 +16,16 @@
     ]
   },
   "definition": {
-    "de": "Der Kartäuserorden geht auf den hl. Bruno von Köln (1032–1101) zurück, der diesen strengen Reformorden 1084 in der Nähe von Chartreuse gründete. Die 1127 verfassten Konstitutionen wurden 1133 von Papst Innozenz II. († 1143) approbiert. Das Klosterleben der Kartäuser ist geprägt durch ein strenges Armuts- und Schweigegebot. Die Mönche sollten in eigenen Häusern oder Zellen alleine leben und kamen nur zu bestimmten Gebetszeiten und zu Sonn- und Feiertagen in der Gemeinschaft zusammen. Im 12. Jahrhundert breitete sich der Kartäuserorden vor allem in Frankreich aus, dann auch in den europäischen Nachbarländern. Der Orden spielte eine wichtige Rolle in der klösterlichen Reformbewegung des 11. und 12. Jahrhunderts."
+    "de": "Der Kartäuserorden geht auf den hl. Bruno von Köln (1032–1101) zurück, der diesen strengen Reformorden 1084 in der Nähe von Chartreuse gründete. Die 1127 verfassten Konstitutionen wurden 1133 von Papst Innozenz II. († 1143) approbiert. Das Klosterleben der Kartäuser ist geprägt durch ein strenges Armuts- und Schweigegebot. Die Mönche sollten in eigenen Häusern oder Zellen alleine leben und kamen nur zu bestimmten Gebetszeiten und zu Sonn- und Feiertagen in der Gemeinschaft zusammen. Im 12. Jahrhundert breitete sich der Kartäuserorden vor allem in Frankreich aus, dann auch in den europäischen Nachbarländern. Der Orden spielte eine wichtige Rolle in der klösterlichen Reformbewegung des 11. und 12. Jahrhunderts.",
+    "nl": "Der Kartäuserorden geht auf den hl. Bruno von Köln (1032–1101) zurück, der diesen strengen Reformorden 1084 in der Nähe von Chartreuse gründete. Die 1127 verfassten Konstitutionen wurden 1133 von Papst Innozenz II. († 1143) approbiert. Das Klosterleben der Kartäuser ist geprägt durch ein strenges Armuts- und Schweigegebot. Die Mönche sollten in eigenen Häusern oder Zellen alleine leben und kamen nur zu bestimmten Gebetszeiten und zu Sonn- und Feiertagen in der Gemeinschaft zusammen. Im 12. Jahrhundert breitete sich der Kartäuserorden vor allem in Frankreich aus, dann auch in den europäischen Nachbarländern. Der Orden spielte eine wichtige Rolle in der klösterlichen Reformbewegung des 11. und 12. Jahrhunderts.",
+    "en": "Der Kartäuserorden geht auf den hl. Bruno von Köln (1032–1101) zurück, der diesen strengen Reformorden 1084 in der Nähe von Chartreuse gründete. Die 1127 verfassten Konstitutionen wurden 1133 von Papst Innozenz II. († 1143) approbiert. Das Klosterleben der Kartäuser ist geprägt durch ein strenges Armuts- und Schweigegebot. Die Mönche sollten in eigenen Häusern oder Zellen alleine leben und kamen nur zu bestimmten Gebetszeiten und zu Sonn- und Feiertagen in der Gemeinschaft zusammen. Im 12. Jahrhundert breitete sich der Kartäuserorden vor allem in Frankreich aus, dann auch in den europäischen Nachbarländern. Der Orden spielte eine wichtige Rolle in der klösterlichen Reformbewegung des 11. und 12. Jahrhunderts.",
+    "la": "Der Kartäuserorden geht auf den hl. Bruno von Köln (1032–1101) zurück, der diesen strengen Reformorden 1084 in der Nähe von Chartreuse gründete. Die 1127 verfassten Konstitutionen wurden 1133 von Papst Innozenz II. († 1143) approbiert. Das Klosterleben der Kartäuser ist geprägt durch ein strenges Armuts- und Schweigegebot. Die Mönche sollten in eigenen Häusern oder Zellen alleine leben und kamen nur zu bestimmten Gebetszeiten und zu Sonn- und Feiertagen in der Gemeinschaft zusammen. Im 12. Jahrhundert breitete sich der Kartäuserorden vor allem in Frankreich aus, dann auch in den europäischen Nachbarländern. Der Orden spielte eine wichtige Rolle in der klösterlichen Reformbewegung des 11. und 12. Jahrhunderts."
+  },
+  "example": {
+    "de": "o. Cartus.",
+    "nl": "o. Cartus.",
+    "en": "o. Cartus.",
+    "la": "o. Cartus."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder144",

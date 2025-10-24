@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Annunziatinnen",
+    "nl": "Annunciaten",
     "en": "Sisters of the Annunciation",
-    "la": "Ordo de Annuntiatione Beatae Mariae Virginis",
-    "nl": "Annunciaten"
+    "la": "Ordo de Annuntiatione Beatae Mariae Virginis"
   },
   "altLabel": {
     "de": [
@@ -17,31 +17,31 @@
   },
   "narrower": [
     {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder117",
+      "prefLabel": {
+        "de": "Französische Annunziatinnen"
+      }
+    },
+    {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder118",
       "prefLabel": {
         "de": "Lombardische Annunziatinnen"
       }
-    },
+    }
+  ],
+  "related": [
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder117",
       "prefLabel": {
         "de": "Französische Annunziatinnen"
       }
-    }
-  ],
-  "related": [
+    },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder119",
       "prefLabel": {
         "de": "Italienische Annunziatinnen",
         "en": "Order of the Most Holy Annunciation",
         "it": "Ordine della Santissima Annunziata"
-      }
-    },
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder117",
-      "prefLabel": {
-        "de": "Französische Annunziatinnen"
       }
     }
   ],

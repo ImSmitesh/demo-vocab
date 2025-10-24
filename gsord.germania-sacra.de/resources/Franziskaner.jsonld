@@ -5,16 +5,19 @@
     "de": "Franziskaner"
   },
   "definition": {
-    "de": "Gemeint sind die Franziskaner-Minoriten"
+    "de": "Gemeint sind die Franziskaner-Minoriten",
+    "nl": "Gemeint sind die Franziskaner-Minoriten",
+    "en": "Gemeint sind die Franziskaner-Minoriten",
+    "la": "Gemeint sind die Franziskaner-Minoriten"
   },
   "related": [
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder019",
       "prefLabel": {
         "de": "Klarissen",
+        "nl": "Clarissen",
         "en": "Poor Clares",
-        "la": "Ordo Sanctae Clarae",
-        "nl": "Clarissen"
+        "la": "Ordo Sanctae Clarae"
       }
     }
   ],

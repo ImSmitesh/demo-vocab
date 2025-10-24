@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Chorherren vom Heiligen Geist",
+    "nl": "Orde van de Heilige Geest van Montpellier",
     "en": "Order of the Holy Ghost",
-    "la": "Ordo Hospitalarius de S. Spiritu",
-    "nl": "Orde van de Heilige Geest van Montpellier"
+    "la": "Ordo Hospitalarius de S. Spiritu"
   },
   "altLabel": {
     "de": [
@@ -16,12 +16,18 @@
       "Ordo Santo Spirito in Sassia"
     ]
   },
+  "definition": {
+    "de": "Die Chorherren vom Heiligen Geist haben ihren Ursprung in einem um 1180 von Guido von Montpellier gegründeten Heilig Geist-Spital in Montpellier. Die Spitalbruderschaft wurde 1198 von Innozenz III. als Orden päpstlich anerkannt. Der Papst übertrug ihm wenig später das römische Spital S. Maria in Sassia (S. Spirito). Der Orden fand bis zum 14./15. Jahrhundert schnelle Verbreitung. Die Gemeinschaft lebte nach der Augustinusregel; die Mitglieder verpflichteten sich durch ein Sondergelübde zum Hospitaldienst. Hauptverbreitungsgebiete waren Frankreich und Italien, daneben gab es einige Niederlassungen in Süddeutschland. 1847 wurde der männliche Zweig des Ordens von Papst Pius IX. aufgehoben.",
+    "nl": "Die Chorherren vom Heiligen Geist haben ihren Ursprung in einem um 1180 von Guido von Montpellier gegründeten Heilig Geist-Spital in Montpellier. Die Spitalbruderschaft wurde 1198 von Innozenz III. als Orden päpstlich anerkannt. Der Papst übertrug ihm wenig später das römische Spital S. Maria in Sassia (S. Spirito). Der Orden fand bis zum 14./15. Jahrhundert schnelle Verbreitung. Die Gemeinschaft lebte nach der Augustinusregel; die Mitglieder verpflichteten sich durch ein Sondergelübde zum Hospitaldienst. Hauptverbreitungsgebiete waren Frankreich und Italien, daneben gab es einige Niederlassungen in Süddeutschland. 1847 wurde der männliche Zweig des Ordens von Papst Pius IX. aufgehoben.",
+    "en": "Die Chorherren vom Heiligen Geist haben ihren Ursprung in einem um 1180 von Guido von Montpellier gegründeten Heilig Geist-Spital in Montpellier. Die Spitalbruderschaft wurde 1198 von Innozenz III. als Orden päpstlich anerkannt. Der Papst übertrug ihm wenig später das römische Spital S. Maria in Sassia (S. Spirito). Der Orden fand bis zum 14./15. Jahrhundert schnelle Verbreitung. Die Gemeinschaft lebte nach der Augustinusregel; die Mitglieder verpflichteten sich durch ein Sondergelübde zum Hospitaldienst. Hauptverbreitungsgebiete waren Frankreich und Italien, daneben gab es einige Niederlassungen in Süddeutschland. 1847 wurde der männliche Zweig des Ordens von Papst Pius IX. aufgehoben.",
+    "la": "Die Chorherren vom Heiligen Geist haben ihren Ursprung in einem um 1180 von Guido von Montpellier gegründeten Heilig Geist-Spital in Montpellier. Die Spitalbruderschaft wurde 1198 von Innozenz III. als Orden päpstlich anerkannt. Der Papst übertrug ihm wenig später das römische Spital S. Maria in Sassia (S. Spirito). Der Orden fand bis zum 14./15. Jahrhundert schnelle Verbreitung. Die Gemeinschaft lebte nach der Augustinusregel; die Mitglieder verpflichteten sich durch ein Sondergelübde zum Hospitaldienst. Hauptverbreitungsgebiete waren Frankreich und Italien, daneben gab es einige Niederlassungen in Süddeutschland. 1847 wurde der männliche Zweig des Ordens von Papst Pius IX. aufgehoben."
+  },
   "exactMatch": [
     {
-      "id": "https://database.factgrid.de/entity/Item:Q38823"
+      "id": "https://www.wikidata.org/wiki/Q996747"
     },
     {
-      "id": "https://www.wikidata.org/wiki/Q996747"
+      "id": "https://database.factgrid.de/entity/Item:Q38823"
     },
     {
       "id": "https://d-nb.info/gnd/3036043-2"

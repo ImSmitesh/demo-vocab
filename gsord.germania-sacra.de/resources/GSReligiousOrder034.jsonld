@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Kanoniker",
+    "nl": "Kanunniken",
     "en": "Canons",
-    "la": "canonicus",
-    "nl": "Kanunniken"
+    "la": "canonicus"
   },
   "altLabel": {
     "de": [
@@ -17,25 +17,26 @@
     ]
   },
   "definition": {
-    "de": "Als \"Canonicus\" wurden im frühmittelalterlichen Frankenreich die Kleriker bezeichnet, die in vita communis – also einer geistlichen Gemeinschaft – lebten, aber nicht zu einem Mönchsorden gehörten. Etwa 755 (durch Chrodegang von Metz) und 816 (Aachener Regel) wurden wegweisende Regeln für die Kanoniker verfasst. Im Zuge der Gregorianischen Reform kam im 11. Jahrhundert Kritik auf, die zur Herausbildung der Regularkanoniker mit strengeren Regeln führte. Bei den unregulierten Kanonikern nahm die vita communis in der Folgezeit in ihrer Bedeutung teils stark ab, ebenso wie die liturgischen Verpflichtungen. Im Gegensatz zu den Regularkanonikern werden sie als Säkularkanoniker bezeichnet, wobei die Bezeichnung Kanoniker oftmals als Synonym für Säkularkanoniker verwendet wird und Stifts- oder Domherren bezeichnet."
+    "en": "Als ",
+    "la": "Als "
   },
   "related": [
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder035",
       "prefLabel": {
         "de": "Kanonissen",
+        "nl": "Kanunnikessen",
         "en": "Canonesses",
-        "la": "canonicae",
-        "nl": "Kanunnikessen"
+        "la": "canonicae"
       }
     }
   ],
   "exactMatch": [
     {
-      "id": "https://www.wikidata.org/wiki/Q1104153"
+      "id": "https://database.factgrid.de/entity/Item:Q38823"
     },
     {
-      "id": "https://database.factgrid.de/entity/Item:Q38823"
+      "id": "https://www.wikidata.org/wiki/Q1104153"
     },
     {
       "id": "https://d-nb.info/gnd/4163199-7"

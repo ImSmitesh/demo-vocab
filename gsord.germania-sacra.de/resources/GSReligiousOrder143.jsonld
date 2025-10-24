@@ -15,14 +15,17 @@
     ]
   },
   "definition": {
-    "de": "Seit 1535 im Zweiten Orden des Franziskus von Assisi nach der Klararegel lebende Kapuzinerinnen."
+    "de": "Seit 1535 im Zweiten Orden des Franziskus von Assisi nach der Klararegel lebende Kapuzinerinnen.",
+    "nl": "Seit 1535 im Zweiten Orden des Franziskus von Assisi nach der Klararegel lebende Kapuzinerinnen.",
+    "en": "Seit 1535 im Zweiten Orden des Franziskus von Assisi nach der Klararegel lebende Kapuzinerinnen.",
+    "la": "Seit 1535 im Zweiten Orden des Franziskus von Assisi nach der Klararegel lebende Kapuzinerinnen."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder065",
     "prefLabel": {
       "de": "Kapuzinerinnen",
-      "en": "Capuchiness",
       "nl": "Kapucijner Nons",
+      "en": "Capuchiness",
       "it": "Cappuccine"
     }
   },
@@ -31,8 +34,8 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder008",
       "prefLabel": {
         "de": "Kapuziner",
-        "en": "Capuchins",
-        "nl": "Kapucijnen"
+        "nl": "Kapucijnen",
+        "en": "Capuchins"
       }
     }
   ],

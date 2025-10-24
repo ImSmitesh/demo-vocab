@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Kanonissen",
+    "nl": "Kanunnikessen",
     "en": "Canonesses",
-    "la": "canonicae",
-    "nl": "Kanunnikessen"
+    "la": "canonicae"
   },
   "altLabel": {
     "de": [
@@ -22,25 +22,28 @@
     ]
   },
   "definition": {
-    "de": "Kanonissen leben ohne Ordensgelübde oder Verzicht auf Privatbesitz in einer geistlichen Gemeinschaft. Im Bereich des Franken- und Sachsenreiches wurden Kanonissen-Konvente im 9. und 10. Jahrhundert von Familien oder einzelnen Frauen als Haus- und Grabstätten des Adels gegründet. Die Stifterfamilie stellte die dem Konvent vorstehende Äbtissin. Infolge der von den Bischöfen getragenen Reformbewegung des 11./12. Jahrhunderts mussten die Kanonissen entweder die Benedikt- oder die Augustinusregel annehmen. Nur wenige Stifte blieben in der freiweltlichen, nichtregulierten Form bestehen. Diese wurden seit dem Spätmittelalter Damenstifte genannt."
+    "de": "Kanonissen leben ohne Ordensgelübde oder Verzicht auf Privatbesitz in einer geistlichen Gemeinschaft. Im Bereich des Franken- und Sachsenreiches wurden Kanonissen-Konvente im 9. und 10. Jahrhundert von Familien oder einzelnen Frauen als Haus- und Grabstätten des Adels gegründet. Die Stifterfamilie stellte die dem Konvent vorstehende Äbtissin. Infolge der von den Bischöfen getragenen Reformbewegung des 11./12. Jahrhunderts mussten die Kanonissen entweder die Benedikt- oder die Augustinusregel annehmen. Nur wenige Stifte blieben in der freiweltlichen, nichtregulierten Form bestehen. Diese wurden seit dem Spätmittelalter Damenstifte genannt.",
+    "nl": "Kanonissen leben ohne Ordensgelübde oder Verzicht auf Privatbesitz in einer geistlichen Gemeinschaft. Im Bereich des Franken- und Sachsenreiches wurden Kanonissen-Konvente im 9. und 10. Jahrhundert von Familien oder einzelnen Frauen als Haus- und Grabstätten des Adels gegründet. Die Stifterfamilie stellte die dem Konvent vorstehende Äbtissin. Infolge der von den Bischöfen getragenen Reformbewegung des 11./12. Jahrhunderts mussten die Kanonissen entweder die Benedikt- oder die Augustinusregel annehmen. Nur wenige Stifte blieben in der freiweltlichen, nichtregulierten Form bestehen. Diese wurden seit dem Spätmittelalter Damenstifte genannt.",
+    "en": "Kanonissen leben ohne Ordensgelübde oder Verzicht auf Privatbesitz in einer geistlichen Gemeinschaft. Im Bereich des Franken- und Sachsenreiches wurden Kanonissen-Konvente im 9. und 10. Jahrhundert von Familien oder einzelnen Frauen als Haus- und Grabstätten des Adels gegründet. Die Stifterfamilie stellte die dem Konvent vorstehende Äbtissin. Infolge der von den Bischöfen getragenen Reformbewegung des 11./12. Jahrhunderts mussten die Kanonissen entweder die Benedikt- oder die Augustinusregel annehmen. Nur wenige Stifte blieben in der freiweltlichen, nichtregulierten Form bestehen. Diese wurden seit dem Spätmittelalter Damenstifte genannt.",
+    "la": "Kanonissen leben ohne Ordensgelübde oder Verzicht auf Privatbesitz in einer geistlichen Gemeinschaft. Im Bereich des Franken- und Sachsenreiches wurden Kanonissen-Konvente im 9. und 10. Jahrhundert von Familien oder einzelnen Frauen als Haus- und Grabstätten des Adels gegründet. Die Stifterfamilie stellte die dem Konvent vorstehende Äbtissin. Infolge der von den Bischöfen getragenen Reformbewegung des 11./12. Jahrhunderts mussten die Kanonissen entweder die Benedikt- oder die Augustinusregel annehmen. Nur wenige Stifte blieben in der freiweltlichen, nichtregulierten Form bestehen. Diese wurden seit dem Spätmittelalter Damenstifte genannt."
   },
   "related": [
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder113",
       "prefLabel": {
         "de": "Regularkanoniker",
+        "nl": "Reguliere kanunniken",
         "en": "Canons Regular",
-        "la": "Canonici regulares",
-        "nl": "Reguliere kanunniken"
+        "la": "Canonici regulares"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder034",
       "prefLabel": {
         "de": "Kanoniker",
+        "nl": "Kanunniken",
         "en": "Canons",
-        "la": "canonicus",
-        "nl": "Kanunniken"
+        "la": "canonicus"
       }
     }
   ],

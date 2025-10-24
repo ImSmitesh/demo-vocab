@@ -3,9 +3,9 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Karmeliterinnen",
+    "nl": "Karmelitessen",
     "en": "Carmelite Sisters",
-    "la": "Ordo Sororum Beatae Mariae Virginis de Monte Carmelo",
-    "nl": "Karmelitessen"
+    "la": "Ordo Sororum Beatae Mariae Virginis de Monte Carmelo"
   },
   "altLabel": {
     "de": [
@@ -16,7 +16,10 @@
     ]
   },
   "definition": {
-    "de": "Der weibliche Zweig der Karmeliter entstand im 15. Jahrhundert aus kleinen Gemeinschaften, die Anschluss an ein Karmeliterkloster suchten. 1452 wurden die ersten weiblichen Gemeinschaften in den Orden aufgenommen. Die Ausbreitung erfolgte zunächst in Italien, den Niederlanden, Frankreich und Spanien. Die Trennung des Männerordens in zwei eigenständige Ordenszweige (1593) betraf auch die weiblichen Karmeliterinnen. Die Karmeliterinnen führen einen kontemplativ-eremitischen Lebensstil mit zönobitischen Elementen."
+    "de": "Der weibliche Zweig der Karmeliter entstand im 15. Jahrhundert aus kleinen Gemeinschaften, die Anschluss an ein Karmeliterkloster suchten. 1452 wurden die ersten weiblichen Gemeinschaften in den Orden aufgenommen. Die Ausbreitung erfolgte zunächst in Italien, den Niederlanden, Frankreich und Spanien. Die Trennung des Männerordens in zwei eigenständige Ordenszweige (1593) betraf auch die weiblichen Karmeliterinnen. Die Karmeliterinnen führen einen kontemplativ-eremitischen Lebensstil mit zönobitischen Elementen.",
+    "nl": "Der weibliche Zweig der Karmeliter entstand im 15. Jahrhundert aus kleinen Gemeinschaften, die Anschluss an ein Karmeliterkloster suchten. 1452 wurden die ersten weiblichen Gemeinschaften in den Orden aufgenommen. Die Ausbreitung erfolgte zunächst in Italien, den Niederlanden, Frankreich und Spanien. Die Trennung des Männerordens in zwei eigenständige Ordenszweige (1593) betraf auch die weiblichen Karmeliterinnen. Die Karmeliterinnen führen einen kontemplativ-eremitischen Lebensstil mit zönobitischen Elementen.",
+    "en": "Der weibliche Zweig der Karmeliter entstand im 15. Jahrhundert aus kleinen Gemeinschaften, die Anschluss an ein Karmeliterkloster suchten. 1452 wurden die ersten weiblichen Gemeinschaften in den Orden aufgenommen. Die Ausbreitung erfolgte zunächst in Italien, den Niederlanden, Frankreich und Spanien. Die Trennung des Männerordens in zwei eigenständige Ordenszweige (1593) betraf auch die weiblichen Karmeliterinnen. Die Karmeliterinnen führen einen kontemplativ-eremitischen Lebensstil mit zönobitischen Elementen.",
+    "la": "Der weibliche Zweig der Karmeliter entstand im 15. Jahrhundert aus kleinen Gemeinschaften, die Anschluss an ein Karmeliterkloster suchten. 1452 wurden die ersten weiblichen Gemeinschaften in den Orden aufgenommen. Die Ausbreitung erfolgte zunächst in Italien, den Niederlanden, Frankreich und Spanien. Die Trennung des Männerordens in zwei eigenständige Ordenszweige (1593) betraf auch die weiblichen Karmeliterinnen. Die Karmeliterinnen führen einen kontemplativ-eremitischen Lebensstil mit zönobitischen Elementen."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder108",
@@ -26,28 +29,28 @@
   },
   "related": [
     {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder126",
-      "prefLabel": {
-        "de": "Maricollen",
-        "en": "Maricollen",
-        "la": "Mariacolae"
-      }
-    },
-    {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder003",
       "prefLabel": {
         "de": "Karmeliten",
+        "nl": "Karmelieten",
         "en": "Carmelites",
-        "la": "Ordo Fratrum Beatae Mariae Virginis de Monte Carmelo",
-        "nl": "Karmelieten"
+        "la": "Ordo Fratrum Beatae Mariae Virginis de Monte Carmelo"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder136",
       "prefLabel": {
         "de": "Unbeschuhte Karmelitinnen",
-        "en": "Discalced Carmelite Sisters",
-        "nl": "Ongeschoeide Karmelitessen"
+        "nl": "Ongeschoeide Karmelitessen",
+        "en": "Discalced Carmelite Sisters"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder126",
+      "prefLabel": {
+        "de": "Maricollen",
+        "en": "Maricollen",
+        "la": "Mariacolae"
       }
     }
   ],

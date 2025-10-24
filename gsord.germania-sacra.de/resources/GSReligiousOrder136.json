@@ -3,8 +3,8 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Unbeschuhte Karmelitinnen",
-    "en": "Discalced Carmelite Sisters",
-    "nl": "Ongeschoeide Karmelitessen"
+    "nl": "Ongeschoeide Karmelitessen",
+    "en": "Discalced Carmelite Sisters"
   },
   "altLabel": {
     "en": [
@@ -15,34 +15,37 @@
     ]
   },
   "definition": {
-    "de": "Weiblicher Ordenszweig der Unbeschuhten Karmeliten. Der Orden der Unbeschuhten Karmeliterinnen (und Unbeschuhten Karmeliten) ging aus einem 1562 von Teresa von Avila gegründeten Frauenkloster hervor, in dem deutlich strengere Regeln herrschen sollten als in den übrigen damaligen Karmelitenklöstern, indem die 1247 vom Papst genehmigten Milderungen nicht gelten sollten. Der Generalvikar der Karmeliten, Giovanni Battista Rossi, erlaubte Teresa nach 1567, weitere eremitische Frauen- und Männerklöster zu gründen; zudem kam es zu Reformen in bereits bestehenden Karmelitenklöstern. In der Folgezeit kam es zur Abspaltung der Unbeschuhten vom Karmelitenorden und zur Anerkennung des neuen Ordens durch den Papst 1593."
+    "de": "Weiblicher Ordenszweig der Unbeschuhten Karmeliten. Der Orden der Unbeschuhten Karmeliterinnen (und Unbeschuhten Karmeliten) ging aus einem 1562 von Teresa von Avila gegründeten Frauenkloster hervor, in dem deutlich strengere Regeln herrschen sollten als in den übrigen damaligen Karmelitenklöstern, indem die 1247 vom Papst genehmigten Milderungen nicht gelten sollten. Der Generalvikar der Karmeliten, Giovanni Battista Rossi, erlaubte Teresa nach 1567, weitere eremitische Frauen- und Männerklöster zu gründen; zudem kam es zu Reformen in bereits bestehenden Karmelitenklöstern. In der Folgezeit kam es zur Abspaltung der Unbeschuhten vom Karmelitenorden und zur Anerkennung des neuen Ordens durch den Papst 1593.",
+    "nl": "Weiblicher Ordenszweig der Unbeschuhten Karmeliten. Der Orden der Unbeschuhten Karmeliterinnen (und Unbeschuhten Karmeliten) ging aus einem 1562 von Teresa von Avila gegründeten Frauenkloster hervor, in dem deutlich strengere Regeln herrschen sollten als in den übrigen damaligen Karmelitenklöstern, indem die 1247 vom Papst genehmigten Milderungen nicht gelten sollten. Der Generalvikar der Karmeliten, Giovanni Battista Rossi, erlaubte Teresa nach 1567, weitere eremitische Frauen- und Männerklöster zu gründen; zudem kam es zu Reformen in bereits bestehenden Karmelitenklöstern. In der Folgezeit kam es zur Abspaltung der Unbeschuhten vom Karmelitenorden und zur Anerkennung des neuen Ordens durch den Papst 1593.",
+    "en": "Weiblicher Ordenszweig der Unbeschuhten Karmeliten. Der Orden der Unbeschuhten Karmeliterinnen (und Unbeschuhten Karmeliten) ging aus einem 1562 von Teresa von Avila gegründeten Frauenkloster hervor, in dem deutlich strengere Regeln herrschen sollten als in den übrigen damaligen Karmelitenklöstern, indem die 1247 vom Papst genehmigten Milderungen nicht gelten sollten. Der Generalvikar der Karmeliten, Giovanni Battista Rossi, erlaubte Teresa nach 1567, weitere eremitische Frauen- und Männerklöster zu gründen; zudem kam es zu Reformen in bereits bestehenden Karmelitenklöstern. In der Folgezeit kam es zur Abspaltung der Unbeschuhten vom Karmelitenorden und zur Anerkennung des neuen Ordens durch den Papst 1593.",
+    "la": "Weiblicher Ordenszweig der Unbeschuhten Karmeliten. Der Orden der Unbeschuhten Karmeliterinnen (und Unbeschuhten Karmeliten) ging aus einem 1562 von Teresa von Avila gegründeten Frauenkloster hervor, in dem deutlich strengere Regeln herrschen sollten als in den übrigen damaligen Karmelitenklöstern, indem die 1247 vom Papst genehmigten Milderungen nicht gelten sollten. Der Generalvikar der Karmeliten, Giovanni Battista Rossi, erlaubte Teresa nach 1567, weitere eremitische Frauen- und Männerklöster zu gründen; zudem kam es zu Reformen in bereits bestehenden Karmelitenklöstern. In der Folgezeit kam es zur Abspaltung der Unbeschuhten vom Karmelitenorden und zur Anerkennung des neuen Ordens durch den Papst 1593."
   },
   "related": [
-    {
-      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder026",
-      "prefLabel": {
-        "de": "Karmeliterinnen",
-        "en": "Carmelite Sisters",
-        "la": "Ordo Sororum Beatae Mariae Virginis de Monte Carmelo",
-        "nl": "Karmelitessen"
-      }
-    },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder003",
       "prefLabel": {
         "de": "Karmeliten",
+        "nl": "Karmelieten",
         "en": "Carmelites",
-        "la": "Ordo Fratrum Beatae Mariae Virginis de Monte Carmelo",
-        "nl": "Karmelieten"
+        "la": "Ordo Fratrum Beatae Mariae Virginis de Monte Carmelo"
       }
     },
     {
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder133",
       "prefLabel": {
         "de": "Unbeschuhte Karmeliten",
+        "nl": "Ongeschoeide Karmeliten",
         "en": "Discalced Carmelite Friars",
-        "la": "Ordo Carmelitarum Discalceatorum",
-        "nl": "Ongeschoeide Karmeliten"
+        "la": "Ordo Carmelitarum Discalceatorum"
+      }
+    },
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder026",
+      "prefLabel": {
+        "de": "Karmeliterinnen",
+        "nl": "Karmelitessen",
+        "en": "Carmelite Sisters",
+        "la": "Ordo Sororum Beatae Mariae Virginis de Monte Carmelo"
       }
     }
   ],

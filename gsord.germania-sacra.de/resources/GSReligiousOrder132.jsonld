@@ -3,8 +3,14 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Beginen",
-    "en": "Beguines",
-    "nl": "Begijnen"
+    "nl": "Begijnen",
+    "en": "Beguines"
+  },
+  "definition": {
+    "de": "Begine ist eine Bezeichnung für Frauen, die in Teilen allein, oft aber in Gemeinschaft lebten und weder klar dem Laien-, noch dem Ordensstand zuzurechnen sind. Beginen sind erstmals im ausgehenden 12. Jahrhundert im Raum Brabant belegt. Vor allem im Spätmittelalter traten Beginen häufiger in Erscheinung. Sie wurden geistlich vor allem durch Angehörige der Bettelorden betreut. Sie verdienten ihren Lebensunterhalt oftmals durch leichte handwerkliche Tätigkeiten, in der Regel Weben, weniger durch Betteln. Insbesondere im 14. und 15. Jahrhundert kam es zur Verfolgung von Beginen, da sie wiederholt der Häresie verdächtigt wurden.",
+    "nl": "Begine ist eine Bezeichnung für Frauen, die in Teilen allein, oft aber in Gemeinschaft lebten und weder klar dem Laien-, noch dem Ordensstand zuzurechnen sind. Beginen sind erstmals im ausgehenden 12. Jahrhundert im Raum Brabant belegt. Vor allem im Spätmittelalter traten Beginen häufiger in Erscheinung. Sie wurden geistlich vor allem durch Angehörige der Bettelorden betreut. Sie verdienten ihren Lebensunterhalt oftmals durch leichte handwerkliche Tätigkeiten, in der Regel Weben, weniger durch Betteln. Insbesondere im 14. und 15. Jahrhundert kam es zur Verfolgung von Beginen, da sie wiederholt der Häresie verdächtigt wurden.",
+    "en": "Begine ist eine Bezeichnung für Frauen, die in Teilen allein, oft aber in Gemeinschaft lebten und weder klar dem Laien-, noch dem Ordensstand zuzurechnen sind. Beginen sind erstmals im ausgehenden 12. Jahrhundert im Raum Brabant belegt. Vor allem im Spätmittelalter traten Beginen häufiger in Erscheinung. Sie wurden geistlich vor allem durch Angehörige der Bettelorden betreut. Sie verdienten ihren Lebensunterhalt oftmals durch leichte handwerkliche Tätigkeiten, in der Regel Weben, weniger durch Betteln. Insbesondere im 14. und 15. Jahrhundert kam es zur Verfolgung von Beginen, da sie wiederholt der Häresie verdächtigt wurden.",
+    "la": "Begine ist eine Bezeichnung für Frauen, die in Teilen allein, oft aber in Gemeinschaft lebten und weder klar dem Laien-, noch dem Ordensstand zuzurechnen sind. Beginen sind erstmals im ausgehenden 12. Jahrhundert im Raum Brabant belegt. Vor allem im Spätmittelalter traten Beginen häufiger in Erscheinung. Sie wurden geistlich vor allem durch Angehörige der Bettelorden betreut. Sie verdienten ihren Lebensunterhalt oftmals durch leichte handwerkliche Tätigkeiten, in der Regel Weben, weniger durch Betteln. Insbesondere im 14. und 15. Jahrhundert kam es zur Verfolgung von Beginen, da sie wiederholt der Häresie verdächtigt wurden."
   },
   "broader": {
     "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder179",
@@ -17,8 +23,8 @@
       "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder131",
       "prefLabel": {
         "de": "Begarden",
-        "en": "Beghards",
-        "nl": "Begarden"
+        "nl": "Begarden",
+        "en": "Beghards"
       }
     }
   ],

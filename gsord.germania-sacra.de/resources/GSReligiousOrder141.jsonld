@@ -3,23 +3,26 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Kreuzherren vom Heiligen Kreuz",
+    "nl": "Kruisheren",
     "en": "Croziers",
-    "la": "Ordo Sanctae Crucis",
-    "nl": "Kruisheren"
+    "la": "Ordo Sanctae Crucis"
   },
   "altLabel": {
+    "nl": [
+      "Kruisbroeders"
+    ],
     "en": [
       "Canons Regular of the Order of the Holy Cross"
     ],
     "la": [
       "OSC"
-    ],
-    "nl": [
-      "Kruisbroeders"
     ]
   },
   "definition": {
-    "de": "Die Kreuzherren vom Heiligen Kreuz waren nach der Augustinusregel lebende Regularkanoniker und wurden in der ersten Hälfte des 13. Jahrhunderts unter anderem durch den Kanoniker Theodorus von Celles in Huy gegründet. 1248 wurden der Orden von Papst Innozenz IV. offiziell bestätigt. Die Kreuzherren vom Heiligen Kreuz verbreiteten sich vor allem in den Niederlanden, dem Westen des Reichs, Frankreich und England."
+    "de": "Die Kreuzherren vom Heiligen Kreuz waren nach der Augustinusregel lebende Regularkanoniker und wurden in der ersten Hälfte des 13. Jahrhunderts unter anderem durch den Kanoniker Theodorus von Celles in Huy gegründet. 1248 wurden der Orden von Papst Innozenz IV. offiziell bestätigt. Die Kreuzherren vom Heiligen Kreuz verbreiteten sich vor allem in den Niederlanden, dem Westen des Reichs, Frankreich und England.",
+    "nl": "Die Kreuzherren vom Heiligen Kreuz waren nach der Augustinusregel lebende Regularkanoniker und wurden in der ersten Hälfte des 13. Jahrhunderts unter anderem durch den Kanoniker Theodorus von Celles in Huy gegründet. 1248 wurden der Orden von Papst Innozenz IV. offiziell bestätigt. Die Kreuzherren vom Heiligen Kreuz verbreiteten sich vor allem in den Niederlanden, dem Westen des Reichs, Frankreich und England.",
+    "en": "Die Kreuzherren vom Heiligen Kreuz waren nach der Augustinusregel lebende Regularkanoniker und wurden in der ersten Hälfte des 13. Jahrhunderts unter anderem durch den Kanoniker Theodorus von Celles in Huy gegründet. 1248 wurden der Orden von Papst Innozenz IV. offiziell bestätigt. Die Kreuzherren vom Heiligen Kreuz verbreiteten sich vor allem in den Niederlanden, dem Westen des Reichs, Frankreich und England.",
+    "la": "Die Kreuzherren vom Heiligen Kreuz waren nach der Augustinusregel lebende Regularkanoniker und wurden in der ersten Hälfte des 13. Jahrhunderts unter anderem durch den Kanoniker Theodorus von Celles in Huy gegründet. 1248 wurden der Orden von Papst Innozenz IV. offiziell bestätigt. Die Kreuzherren vom Heiligen Kreuz verbreiteten sich vor allem in den Niederlanden, dem Westen des Reichs, Frankreich und England."
   },
   "exactMatch": [
     {
