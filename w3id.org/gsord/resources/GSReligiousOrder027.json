@@ -1,0 +1,203 @@
+{
+  "id": "https://w3id.org/gsord/resources/GSReligiousOrder027",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Kartäuserinnen",
+    "en": "Carthusian nuns"
+  },
+  "altLabel": {
+    "la": [
+      "OCart (w)"
+    ]
+  },
+  "definition": {
+    "de": "Bereits 1140-1150 erhielten die Nonnen von St-André de Ramières auf Nachfrage hin die Consuetudines Cartusiae, 1248 waren die Kartäuserinnen nachweislich dem Orden angegliedert. Niederlassungen entstanden in abgelegenen Tälern der französischen und italienischen Alpen. Die Lebensweise der Nonnen unterschied sich von der der Mönche insofern, dass die Regeln in abgemilderter Form gelebt wurden. Die Nonnenklöster wurden 1783 von Joseph II. und 1794 in der Französischen Revolution aufgehoben, im 19. Jahrhundert kam es zu Neugründungen.",
+    "nl": "Bereits 1140-1150 erhielten die Nonnen von St-André de Ramières auf Nachfrage hin die Consuetudines Cartusiae, 1248 waren die Kartäuserinnen nachweislich dem Orden angegliedert. Niederlassungen entstanden in abgelegenen Tälern der französischen und italienischen Alpen. Die Lebensweise der Nonnen unterschied sich von der der Mönche insofern, dass die Regeln in abgemilderter Form gelebt wurden. Die Nonnenklöster wurden 1783 von Joseph II. und 1794 in der Französischen Revolution aufgehoben, im 19. Jahrhundert kam es zu Neugründungen.",
+    "en": "Bereits 1140-1150 erhielten die Nonnen von St-André de Ramières auf Nachfrage hin die Consuetudines Cartusiae, 1248 waren die Kartäuserinnen nachweislich dem Orden angegliedert. Niederlassungen entstanden in abgelegenen Tälern der französischen und italienischen Alpen. Die Lebensweise der Nonnen unterschied sich von der der Mönche insofern, dass die Regeln in abgemilderter Form gelebt wurden. Die Nonnenklöster wurden 1783 von Joseph II. und 1794 in der Französischen Revolution aufgehoben, im 19. Jahrhundert kam es zu Neugründungen.",
+    "la": "Bereits 1140-1150 erhielten die Nonnen von St-André de Ramières auf Nachfrage hin die Consuetudines Cartusiae, 1248 waren die Kartäuserinnen nachweislich dem Orden angegliedert. Niederlassungen entstanden in abgelegenen Tälern der französischen und italienischen Alpen. Die Lebensweise der Nonnen unterschied sich von der der Mönche insofern, dass die Regeln in abgemilderter Form gelebt wurden. Die Nonnenklöster wurden 1783 von Joseph II. und 1794 in der Französischen Revolution aufgehoben, im 19. Jahrhundert kam es zu Neugründungen."
+  },
+  "broader": {
+    "id": "https://w3id.org/gsord/resources/GSReligiousOrder144",
+    "prefLabel": {
+      "de": "Orden nach der Benediktregel"
+    }
+  },
+  "related": [
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder004",
+      "prefLabel": {
+        "de": "Kartäuser",
+        "nl": "Kartuizers",
+        "en": "Carthusians",
+        "la": "Ordo Cartusiensis"
+      }
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "http://d-nb.info/gnd/4647658-1"
+    },
+    {
+      "id": "https://database.factgrid.de/entity/Q1195162"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://w3id.org/gsord/resources/"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://w3id.org/gsord/resources/"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

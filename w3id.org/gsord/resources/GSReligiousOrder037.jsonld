@@ -1,0 +1,224 @@
+{
+  "id": "https://w3id.org/gsord/resources/GSReligiousOrder037",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Alexianer",
+    "nl": "Alexianen",
+    "en": "Alexians",
+    "la": "Congregatio Fratrum Alexianorum"
+  },
+  "altLabel": {
+    "de": [
+      "Alexianerbrüder",
+      "Celliten"
+    ],
+    "nl": [
+      "Cellebroeders"
+    ],
+    "la": [
+      "CFA"
+    ]
+  },
+  "definition": {
+    "de": "Bei den Alexianern handelt es sich um Brüdergemeinschaften, deren Hauptaufgabe die Krankenpflege war. Die Ursprünge dieser Ordensgemeinschaften liegen in den religiösen Laienbewegungen des Mittelalters, den Begarden. Die Alexianer waren zunächst vor allem am Niederrhein, in den Niederlanden und in Belgien verbreitet. Die Alexianer von Aachen sind seit 1462 als eigene Gemeinschaft nach der Augustinusregel päpstlich anerkannt. Teilweise folgten sie der Regel des Dritten Ordens des heiligen Franziskus, überwiegend jedoch der Augustinusregel.",
+    "nl": "Bei den Alexianern handelt es sich um Brüdergemeinschaften, deren Hauptaufgabe die Krankenpflege war. Die Ursprünge dieser Ordensgemeinschaften liegen in den religiösen Laienbewegungen des Mittelalters, den Begarden. Die Alexianer waren zunächst vor allem am Niederrhein, in den Niederlanden und in Belgien verbreitet. Die Alexianer von Aachen sind seit 1462 als eigene Gemeinschaft nach der Augustinusregel päpstlich anerkannt. Teilweise folgten sie der Regel des Dritten Ordens des heiligen Franziskus, überwiegend jedoch der Augustinusregel.",
+    "en": "Bei den Alexianern handelt es sich um Brüdergemeinschaften, deren Hauptaufgabe die Krankenpflege war. Die Ursprünge dieser Ordensgemeinschaften liegen in den religiösen Laienbewegungen des Mittelalters, den Begarden. Die Alexianer waren zunächst vor allem am Niederrhein, in den Niederlanden und in Belgien verbreitet. Die Alexianer von Aachen sind seit 1462 als eigene Gemeinschaft nach der Augustinusregel päpstlich anerkannt. Teilweise folgten sie der Regel des Dritten Ordens des heiligen Franziskus, überwiegend jedoch der Augustinusregel.",
+    "la": "Bei den Alexianern handelt es sich um Brüdergemeinschaften, deren Hauptaufgabe die Krankenpflege war. Die Ursprünge dieser Ordensgemeinschaften liegen in den religiösen Laienbewegungen des Mittelalters, den Begarden. Die Alexianer waren zunächst vor allem am Niederrhein, in den Niederlanden und in Belgien verbreitet. Die Alexianer von Aachen sind seit 1462 als eigene Gemeinschaft nach der Augustinusregel päpstlich anerkannt. Teilweise folgten sie der Regel des Dritten Ordens des heiligen Franziskus, überwiegend jedoch der Augustinusregel."
+  },
+  "broader": {
+    "id": "https://w3id.org/gsord/resources/GSReligiousOrder130",
+    "prefLabel": {
+      "de": "Orden nach der Augustinusregel",
+      "nl": "Augustijnen",
+      "en": "Augustinian Orders"
+    }
+  },
+  "related": [
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder101",
+      "prefLabel": {
+        "de": "Cellitinnen",
+        "nl": "Cellezusters",
+        "en": "Alexian Sisters"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder131",
+      "prefLabel": {
+        "de": "Begarden",
+        "nl": "Begarden",
+        "en": "Beghards"
+      }
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "https://database.factgrid.de/wiki/Item:Q498920"
+    },
+    {
+      "id": "http://d-nb.info/gnd/16096321-7"
+    },
+    {
+      "id": "https://www.wikidata.org/wiki/Q622385"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://w3id.org/gsord/resources/"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://w3id.org/gsord/resources/"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

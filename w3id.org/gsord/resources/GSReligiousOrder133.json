@@ -1,0 +1,210 @@
+{
+  "id": "https://w3id.org/gsord/resources/GSReligiousOrder133",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Unbeschuhte Karmeliten",
+    "nl": "Ongeschoeide Karmeliten",
+    "en": "Discalced Carmelite Friars",
+    "la": "Ordo Carmelitarum Discalceatorum"
+  },
+  "altLabel": {
+    "la": [
+      "OCD"
+    ]
+  },
+  "definition": {
+    "de": "Die Unbeschuhten Karmeliten gingen aus einem 1562 von Teresa von Avila gegründeten Reformkloster hervor. Nachdem weitere Gründungen gefolgt waren, wurden die Unbeschuhten Karmeliten 1593 zu einem selbstständigen Orden. Der eremitische Orden verbreitete sich von Spanien aus vor allem in Europa und Südamerika. Im Reich wurden die Unbeschuhten Karmeliten nach der Schlacht am Weißen Berg (1620), in der der Mitwirkung des Unbeschuhte Karmeliten Dominicus a Jesu Maria als Feldprediger (angeblich) eine zentrale Rolle zukam, von den Habsburgern und bayrischen Wittelsbachern maßgeblich gefördert. Die Unbeschuhten waren auch als Missionare tätig, etwa in Asien.",
+    "nl": "Die Unbeschuhten Karmeliten gingen aus einem 1562 von Teresa von Avila gegründeten Reformkloster hervor. Nachdem weitere Gründungen gefolgt waren, wurden die Unbeschuhten Karmeliten 1593 zu einem selbstständigen Orden. Der eremitische Orden verbreitete sich von Spanien aus vor allem in Europa und Südamerika. Im Reich wurden die Unbeschuhten Karmeliten nach der Schlacht am Weißen Berg (1620), in der der Mitwirkung des Unbeschuhte Karmeliten Dominicus a Jesu Maria als Feldprediger (angeblich) eine zentrale Rolle zukam, von den Habsburgern und bayrischen Wittelsbachern maßgeblich gefördert. Die Unbeschuhten waren auch als Missionare tätig, etwa in Asien.",
+    "en": "Die Unbeschuhten Karmeliten gingen aus einem 1562 von Teresa von Avila gegründeten Reformkloster hervor. Nachdem weitere Gründungen gefolgt waren, wurden die Unbeschuhten Karmeliten 1593 zu einem selbstständigen Orden. Der eremitische Orden verbreitete sich von Spanien aus vor allem in Europa und Südamerika. Im Reich wurden die Unbeschuhten Karmeliten nach der Schlacht am Weißen Berg (1620), in der der Mitwirkung des Unbeschuhte Karmeliten Dominicus a Jesu Maria als Feldprediger (angeblich) eine zentrale Rolle zukam, von den Habsburgern und bayrischen Wittelsbachern maßgeblich gefördert. Die Unbeschuhten waren auch als Missionare tätig, etwa in Asien.",
+    "la": "Die Unbeschuhten Karmeliten gingen aus einem 1562 von Teresa von Avila gegründeten Reformkloster hervor. Nachdem weitere Gründungen gefolgt waren, wurden die Unbeschuhten Karmeliten 1593 zu einem selbstständigen Orden. Der eremitische Orden verbreitete sich von Spanien aus vor allem in Europa und Südamerika. Im Reich wurden die Unbeschuhten Karmeliten nach der Schlacht am Weißen Berg (1620), in der der Mitwirkung des Unbeschuhte Karmeliten Dominicus a Jesu Maria als Feldprediger (angeblich) eine zentrale Rolle zukam, von den Habsburgern und bayrischen Wittelsbachern maßgeblich gefördert. Die Unbeschuhten waren auch als Missionare tätig, etwa in Asien."
+  },
+  "related": [
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder003",
+      "prefLabel": {
+        "de": "Karmeliten",
+        "nl": "Karmelieten",
+        "en": "Carmelites",
+        "la": "Ordo Fratrum Beatae Mariae Virginis de Monte Carmelo"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder136",
+      "prefLabel": {
+        "de": "Unbeschuhte Karmelitinnen",
+        "nl": "Ongeschoeide Karmelitessen",
+        "en": "Discalced Carmelite Sisters"
+      }
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "https://www.wikidata.org/wiki/Q1135659"
+    },
+    {
+      "id": "https://d-nb.info/gnd/1008634-1"
+    },
+    {
+      "id": "https://database.factgrid.de/wiki/Item:Q640761"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://w3id.org/gsord/resources/"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://w3id.org/gsord/resources/"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

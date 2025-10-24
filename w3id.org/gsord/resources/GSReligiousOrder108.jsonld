@@ -1,0 +1,274 @@
+{
+  "id": "https://w3id.org/gsord/resources/GSReligiousOrder108",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Mendikantenorden"
+  },
+  "altLabel": {
+    "de": [
+      "Bettelorden"
+    ],
+    "nl": [
+      "Bedelorden"
+    ],
+    "en": [
+      "Mendicant orders"
+    ]
+  },
+  "definition": {
+    "de": "Die Mendikantenorden, oder auch Bettelorden, entstanden im 13. Jahrhundert und bemühten sich, dem Ideal der Armut zu entsprechen, was jedoch vor allem in den 1320er Jahren zu innerkirchlichen Konflikten führte und letztlich nur eingeschränkt gelang. Namensgebend wurde das Betteln, das – wie Schenkungen – traditionell zum Bestreiten des Lebensunterhalts dienen sollte. Nicht zuletzt aus diesem Grund siedelten sich Bettelorden im Spätmittelalter vor allem in prosperierenden Städten an; Seelsorge, Mission (beziehungsweise Ketzerbekämpfung) und Gelehrsamkeit waren wichtige Tätigkeitsfelder von Bettelorden, die ein deutlich anderes Verhältnis zur ‚Welt‘ pflegten als etwa die Benediktiner.",
+    "nl": "Die Mendikantenorden, oder auch Bettelorden, entstanden im 13. Jahrhundert und bemühten sich, dem Ideal der Armut zu entsprechen, was jedoch vor allem in den 1320er Jahren zu innerkirchlichen Konflikten führte und letztlich nur eingeschränkt gelang. Namensgebend wurde das Betteln, das – wie Schenkungen – traditionell zum Bestreiten des Lebensunterhalts dienen sollte. Nicht zuletzt aus diesem Grund siedelten sich Bettelorden im Spätmittelalter vor allem in prosperierenden Städten an; Seelsorge, Mission (beziehungsweise Ketzerbekämpfung) und Gelehrsamkeit waren wichtige Tätigkeitsfelder von Bettelorden, die ein deutlich anderes Verhältnis zur ‚Welt‘ pflegten als etwa die Benediktiner.",
+    "en": "Die Mendikantenorden, oder auch Bettelorden, entstanden im 13. Jahrhundert und bemühten sich, dem Ideal der Armut zu entsprechen, was jedoch vor allem in den 1320er Jahren zu innerkirchlichen Konflikten führte und letztlich nur eingeschränkt gelang. Namensgebend wurde das Betteln, das – wie Schenkungen – traditionell zum Bestreiten des Lebensunterhalts dienen sollte. Nicht zuletzt aus diesem Grund siedelten sich Bettelorden im Spätmittelalter vor allem in prosperierenden Städten an; Seelsorge, Mission (beziehungsweise Ketzerbekämpfung) und Gelehrsamkeit waren wichtige Tätigkeitsfelder von Bettelorden, die ein deutlich anderes Verhältnis zur ‚Welt‘ pflegten als etwa die Benediktiner.",
+    "la": "Die Mendikantenorden, oder auch Bettelorden, entstanden im 13. Jahrhundert und bemühten sich, dem Ideal der Armut zu entsprechen, was jedoch vor allem in den 1320er Jahren zu innerkirchlichen Konflikten führte und letztlich nur eingeschränkt gelang. Namensgebend wurde das Betteln, das – wie Schenkungen – traditionell zum Bestreiten des Lebensunterhalts dienen sollte. Nicht zuletzt aus diesem Grund siedelten sich Bettelorden im Spätmittelalter vor allem in prosperierenden Städten an; Seelsorge, Mission (beziehungsweise Ketzerbekämpfung) und Gelehrsamkeit waren wichtige Tätigkeitsfelder von Bettelorden, die ein deutlich anderes Verhältnis zur ‚Welt‘ pflegten als etwa die Benediktiner."
+  },
+  "narrower": [
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder065",
+      "prefLabel": {
+        "de": "Kapuzinerinnen",
+        "nl": "Kapucijner Nons",
+        "en": "Capuchiness",
+        "it": "Cappuccine"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder019",
+      "prefLabel": {
+        "de": "Klarissen",
+        "nl": "Clarissen",
+        "en": "Poor Clares",
+        "la": "Ordo Sanctae Clarae"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder013",
+      "prefLabel": {
+        "de": "Dominikaner",
+        "nl": "Dominicanen",
+        "en": "Dominicans",
+        "la": "Ordo fratrum Praedicatorum"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder030",
+      "prefLabel": {
+        "de": "Dominikanerinnen",
+        "nl": "Dominicanessen",
+        "en": "Dominican Nuns",
+        "la": "Ordo fratrum Praedicatorum"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder084",
+      "prefLabel": {
+        "de": "Dominikaner-Terziarinnen",
+        "nl": "Tertiarissen van Sint-Dominicus",
+        "en": "Tertiaries of St Dominicus"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder082",
+      "prefLabel": {
+        "de": "Franziskanerinnen der Dritten Regel",
+        "nl": "Tertiarissen",
+        "en": "Tertiaries",
+        "la": "Tertius Ordo Franciscanus"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder008",
+      "prefLabel": {
+        "de": "Kapuziner",
+        "nl": "Kapucijnen",
+        "en": "Capuchins"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder003",
+      "prefLabel": {
+        "de": "Karmeliten",
+        "nl": "Karmelieten",
+        "en": "Carmelites",
+        "la": "Ordo Fratrum Beatae Mariae Virginis de Monte Carmelo"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder026",
+      "prefLabel": {
+        "de": "Karmeliterinnen",
+        "nl": "Karmelitessen",
+        "en": "Carmelite Sisters",
+        "la": "Ordo Sororum Beatae Mariae Virginis de Monte Carmelo"
+      }
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "https://database.factgrid.de/wiki/Item:Q396084"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://w3id.org/gsord/resources/"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://w3id.org/gsord/resources/"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://w3id.org/gsord/resources/"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

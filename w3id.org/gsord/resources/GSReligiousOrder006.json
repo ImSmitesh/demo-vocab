@@ -1,0 +1,201 @@
+{
+  "id": "https://w3id.org/gsord/resources/GSReligiousOrder006",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Wilhelmiten",
+    "nl": "Wilhelmieten",
+    "en": "Hermits of St William"
+  },
+  "altLabel": {
+    "la": [
+      "OESG",
+      "Ordo Fratrum Eremitarum Sancti Guilhelmi"
+    ]
+  },
+  "definition": {
+    "en": "Der Orden der Wilhelmiten entwickelte sich aus einer in der Mitte des 12. Jahrhunderts entstandenen toskanischen Eremitengemeinschaft. Diese wurde später fälschlicherweise auf Herzog Wilhelm IX. von Aquitanien zurückgeführt. Die Ordensmitglieder lebten nach der Benediktregel und nach am Vorbild des Zisterzienserordens ausgerichteten Konstitutionen. Während in den ländlich gelegenen Klöstern der ursprüngliche eremitisch-monastische Lebensstil beibehalten wurde, passten sich die städtischen Niederlassungen dem der Mendikanten an. 1266 wurde ihre Eigenständigkeit von Clemens IV. bestätigt. Seit dem 13. Jahrhundert breiteten sie sich auch nördlich der Alpen aus. In Nordwesteuropa bestand der Orden bis zum Ende des 19. Jahrhunderts.\nDie Wilhelmiten betreuten auch Frauenklöster und Beginenkonvente; diese gehörten nicht zum Orden, auch wenn sie umgangssprachlich manchmal als ",
+    "la": "Der Orden der Wilhelmiten entwickelte sich aus einer in der Mitte des 12. Jahrhunderts entstandenen toskanischen Eremitengemeinschaft. Diese wurde später fälschlicherweise auf Herzog Wilhelm IX. von Aquitanien zurückgeführt. Die Ordensmitglieder lebten nach der Benediktregel und nach am Vorbild des Zisterzienserordens ausgerichteten Konstitutionen. Während in den ländlich gelegenen Klöstern der ursprüngliche eremitisch-monastische Lebensstil beibehalten wurde, passten sich die städtischen Niederlassungen dem der Mendikanten an. 1266 wurde ihre Eigenständigkeit von Clemens IV. bestätigt. Seit dem 13. Jahrhundert breiteten sie sich auch nördlich der Alpen aus. In Nordwesteuropa bestand der Orden bis zum Ende des 19. Jahrhunderts.\nDie Wilhelmiten betreuten auch Frauenklöster und Beginenkonvente; diese gehörten nicht zum Orden, auch wenn sie umgangssprachlich manchmal als "
+  },
+  "example": {
+    "de": "o. S. Wilhelmi",
+    "nl": "o. S. Wilhelmi",
+    "en": "o. S. Wilhelmi",
+    "la": "o. S. Wilhelmi"
+  },
+  "broader": {
+    "id": "https://w3id.org/gsord/resources/GSReligiousOrder144",
+    "prefLabel": {
+      "de": "Orden nach der Benediktregel"
+    }
+  },
+  "exactMatch": [
+    {
+      "id": "https://www.wikidata.org/wiki/Q2004943"
+    },
+    {
+      "id": "https://database.factgrid.de/wiki/Item:Q640739"
+    },
+    {
+      "id": "https://d-nb.info/gnd/4238894-6"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://w3id.org/gsord/resources/"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://w3id.org/gsord/resources/"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
