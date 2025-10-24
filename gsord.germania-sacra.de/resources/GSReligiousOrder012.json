@@ -1,0 +1,207 @@
+{
+  "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder012",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Johanniter",
+    "en": "Knights Hospitaller",
+    "nl": "Johannieters"
+  },
+  "altLabel": {
+    "de": [
+      "Hospitaliter des hl. Johannes von Jerusalem",
+      "Malteser"
+    ],
+    "en": [
+      "Knights of St John"
+    ],
+    "la": [
+      "OMel (D)",
+      "OMel",
+      "Ordo Sancti Johannis Hierosolymitani"
+    ]
+  },
+  "definition": {
+    "de": "Der Johanniter-Orden geht auf ein Pilgerhospital in Jerusalem zurück und entstand 1099. Eine eigene Regel entstand wahrscheinlich um 1130, die päpstliche Anerkennung erfolgte jedoch erst 1154. Zum Ordensauftrag zählten neben caritativ-seelsorgerlichen auch militärische Aufgaben, die zunehmend das Wirken des Ordens bestimmten. Hauptsitz der Johanniter war bis 1187 Jerusalem, danach Akko. Nach dem Fall Akkons 1291 zogen sie sich zuerst nach Zypern, dann nach Rhodos zurück, wo sie eine eigene staatliche Existenz aufbauten und eine große Bedeutung in der Mittelmeerpolitik und in den Kreuzzügen gegen die Muslime erlangten. Als die Osmanen 1522 Rhodos eroberten, wichen die Johanniter auf die Insel Malta aus. Seit dieser Zeit tritt die Bezeichnung Malteserorden auf. Während der Französischen Revolution verlor der Orden seine Besitztümer in Frankreich und 1798 Malta."
+  },
+  "related": [
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder043",
+      "prefLabel": {
+        "de": "Antoniter",
+        "en": "Antonines",
+        "la": "Canonici Regulares Sancti Antonii",
+        "nl": "Antonieten"
+      }
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "https://www.wikidata.org/wiki/Q190353"
+    },
+    {
+      "id": "https://d-nb.info/gnd/43583-1"
+    },
+    {
+      "id": "https://database.factgrid.de/wiki/Item:Q174766"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://gsord.germania-sacra.de/resources/"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://gsord.germania-sacra.de/resources/"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

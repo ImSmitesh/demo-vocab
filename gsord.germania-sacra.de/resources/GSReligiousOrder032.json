@@ -1,0 +1,199 @@
+{
+  "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder032",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Augustinereremitinnen",
+    "en": "Converse Women of St Augustine",
+    "la": "Ordo Eremitarum Sancti Augustini",
+    "nl": "Conversinnen van Sint-Augustinus"
+  },
+  "altLabel": {
+    "la": [
+      "OESA (w)"
+    ]
+  },
+  "definition": {
+    "de": "Der Bettelorden der Augustinereremitinnen ist der weibliche Zweig der Augustinereremiten, deren Satzungen und Leitung sie unterstanden. Das Leben der Ordensfrauen ist durch die Augustinusregel geprägt. Neben dem Gebet widmen sie sich häufig der Mädchenbildung und der Erziehung von Waisenkindern. Im deutschsprachigen Raum sind während der Säkularisation alle Nonnenklöster niedergegangen."
+  },
+  "related": [
+    {
+      "id": "https://gsord.germania-sacra.de/resources/GSReligiousOrder036",
+      "prefLabel": {
+        "de": "Augustinereremiten",
+        "en": "Austin Friars",
+        "la": "Ordo Eremitarum Sancti Augustini",
+        "nl": "Augustijner eremieten"
+      }
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "https://www.wikidata.org/wiki/Q768399"
+    },
+    {
+      "id": "https://d-nb.info/gnd/4028319-7"
+    },
+    {
+      "id": "https://database.factgrid.de/wiki/Item:Q1195145"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://gsord.germania-sacra.de/resources/"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://gsord.germania-sacra.de/resources/"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
