@@ -1,22 +1,9 @@
 {
-  "id": "https://w3id.org/gsord/resources/GSReligiousOrder79",
+  "id": "https://w3id.org/gsord/resources/Franziskanerorden",
   "type": "Concept",
   "prefLabel": {
-    "de": "Semireligiöse Gemeinschaft (männlich)"
+    "de": "Franziskanerorden"
   },
-  "related": [
-    {
-      "id": "https://w3id.org/gsord/resources/GSReligiousOrder179",
-      "prefLabel": {
-        "de": "Semireligiöse Gemeinschaft (weiblich)"
-      }
-    }
-  ],
-  "exactMatch": [
-    {
-      "id": "https://database.factgrid.de/wiki/Item:Q640842"
-    }
-  ],
   "inScheme": [
     {
       "id": "https://w3id.org/gsord/resources/"

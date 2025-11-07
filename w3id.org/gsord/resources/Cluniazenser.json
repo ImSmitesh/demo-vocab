@@ -4,12 +4,6 @@
   "prefLabel": {
     "de": "Cluniazenser"
   },
-  "example": {
-    "de": "o. Clun.",
-    "nl": "o. Clun.",
-    "en": "o. Clun.",
-    "la": "o. Clun."
-  },
   "broader": {
     "id": "https://w3id.org/gsord/resources/GSReligiousOrder016",
     "prefLabel": {

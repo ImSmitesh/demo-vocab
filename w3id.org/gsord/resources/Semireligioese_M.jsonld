@@ -1,9 +1,41 @@
 {
-  "id": "https://w3id.org/gsord/resources/GSReligiousOrder07",
+  "id": "https://w3id.org/gsord/resources/Semireligioese_M",
   "type": "Concept",
   "prefLabel": {
-    "de": "Franziskanerorden"
+    "de": "Semireligiöse Gemeinschaft (männlich)"
   },
+  "narrower": [
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder131",
+      "prefLabel": {
+        "de": "Begarden",
+        "nl": "Begarden",
+        "en": "Beghards"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder046",
+      "prefLabel": {
+        "de": "Brüder vom gemeinsamen Leben",
+        "nl": "Broeders des gemenen levens",
+        "en": "Brethren of the Common Life",
+        "la": "Fratres communis vitae"
+      }
+    }
+  ],
+  "related": [
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder179",
+      "prefLabel": {
+        "de": "Semireligiöse Gemeinschaft (weiblich)"
+      }
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "https://database.factgrid.de/wiki/Item:Q640842"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://w3id.org/gsord/resources/"

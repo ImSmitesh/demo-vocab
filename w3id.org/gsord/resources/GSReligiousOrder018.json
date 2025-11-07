@@ -4,12 +4,6 @@
   "prefLabel": {
     "de": "Kreuzherren"
   },
-  "example": {
-    "de": "o. cruciferorum",
-    "nl": "o. cruciferorum",
-    "en": "o. cruciferorum",
-    "la": "o. cruciferorum"
-  },
   "narrower": [
     {
       "id": "https://w3id.org/gsord/resources/GSReligiousOrder072",
