@@ -1,53 +1,26 @@
 {
-  "id": "https://w3id.org/gsord/resources/GSReligiousOrder019",
+  "id": "https://w3id.org/gsord/resources/GSReligiousOrder167",
   "type": "Concept",
   "prefLabel": {
-    "de": "Klarissen",
-    "nl": "Clarissen",
-    "en": "Poor Clares",
-    "la": "Ordo Sanctae Clarae"
-  },
-  "altLabel": {
-    "la": [
-      "OSCl"
-    ]
+    "de": "Franziskaner"
   },
   "definition": {
-    "de": "Der Frauenorden der Klarissen wurde 1212 von Franziskus und Klara von Assisi mit einer ersten Niederlassung in S. Damiano gegründet. Die Klarissen bestehen in enger Bindung an den Franziskaner-Orden und leben im Bemühen um die Nachfolge Christi in höchster Armut. Die 1247 von Klara von Assisi konzipierte und 1253 durch Innozenz IV. approbierte Ordensregel galt nur für S. Damiano und wenige andere Klöster. Infolge einer neuen 1263 durch Urban IV. approbierten Regel, die unter anderem den Güterbesitz gewährte, kam es zu zwei Observanzen: Den 'armen' Klarissen mit Klara-Regel und den 'reichen' Klarissen mit Urban-Regel, den Urbanistinnen. Eine Reformbewegung zur Wiederherstellung der Einheit im Orden führte im 16. Jahrhundert zur Gründung der Klarissen-Kapuzinerinnen mit radikalem Armutspostulat, strenger Klausur und intensivem Gebetsleben."
-  },
-  "narrower": [
-    {
-      "id": "https://w3id.org/gsord/resources/GSReligiousOrder125",
-      "prefLabel": {
-        "de": "Colettinnen",
-        "nl": "Caulieten",
-        "en": "Caulites"
-      }
-    }
-  ],
-  "broader": {
-    "id": "https://w3id.org/gsord/resources/GSReligiousOrder108",
-    "prefLabel": {
-      "de": "Mendikantenorden"
-    }
+    "de": "Gemeint sind die Franziskaner-Minoriten"
   },
   "related": [
     {
-      "id": "https://w3id.org/gsord/resources/GSReligiousOrder167",
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder019",
       "prefLabel": {
-        "de": "Franziskaner"
+        "de": "Klarissen",
+        "nl": "Clarissen",
+        "en": "Poor Clares",
+        "la": "Ordo Sanctae Clarae"
       }
     }
   ],
   "exactMatch": [
     {
-      "id": "https://www.wikidata.org/wiki/Q733658"
-    },
-    {
-      "id": "https://database.factgrid.de/wiki/Item:Q396811"
-    },
-    {
-      "id": "https://d-nb.info/gnd/16142356-5"
+      "id": "https://database.factgrid.de/wiki/Item:Q164255"
     }
   ],
   "inScheme": [

@@ -1,34 +1,20 @@
 {
-  "id": "https://w3id.org/gsord/resources/Franziskaner",
+  "id": "https://w3id.org/gsord/resources/GSReligiousOrder07",
   "type": "Concept",
   "prefLabel": {
-    "de": "Franziskaner"
+    "de": "Franziskanerorden"
   },
-  "definition": {
-    "de": "Gemeint sind die Franziskaner-Minoriten"
-  },
-  "related": [
-    {
-      "id": "https://w3id.org/gsord/resources/GSReligiousOrder019",
-      "prefLabel": {
-        "de": "Klarissen",
-        "nl": "Clarissen",
-        "en": "Poor Clares",
-        "la": "Ordo Sanctae Clarae"
-      }
-    }
-  ],
-  "exactMatch": [
-    {
-      "id": "https://database.factgrid.de/wiki/Item:Q164255"
-    }
-  ],
   "inScheme": [
     {
       "id": "https://w3id.org/gsord/resources/"
     }
   ],
   "inSchemeAll": [
+    {
+      "id": "https://w3id.org/gsord/resources/"
+    }
+  ],
+  "topConceptOf": [
     {
       "id": "https://w3id.org/gsord/resources/"
     }

@@ -14,6 +14,12 @@
   "definition": {
     "de": "Der Templerorden geht auf Kreuzfahrer zurück, die sich in den 1120er Jahren zum bewaffneten Schutz der Jerusalempilger zu einer bruderschaftlichen Vereinigung zusammenschlossen. 1129 wurde seine Regel vom Konzil von Troyes beschlossen. Neben dem Heiligen Land errichtete der Orden auch zahlreiche Niederlassungen in Europa und diente der Verteidigung der Kreuzfahrerstaaten. Nach der Eroberung Jerusalems (1187) und dem Fall Akkos (1291) zogen sich die Templer zunächst auf die Insel Ruad, dann nach Zypern zurück. Auf dem Konzil von Vienne (1311-1312) wurde der Orden von Clemens V. aufgehoben. Die Besitzungen fielen größtenteils an den Johanniterorden."
   },
+  "broader": {
+    "id": "https://w3id.org/gsord/resources/GSReligiousOrder180",
+    "prefLabel": {
+      "de": "Ritterorden"
+    }
+  },
   "exactMatch": [
     {
       "id": "https://www.wikidata.org/wiki/Q41300"

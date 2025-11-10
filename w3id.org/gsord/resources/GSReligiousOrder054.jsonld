@@ -29,6 +29,14 @@
       }
     }
   ],
+  "broader": {
+    "id": "https://w3id.org/gsord/resources/GSReligiousOrder130",
+    "prefLabel": {
+      "de": "Orden nach der Augustinusregel",
+      "nl": "Augustijnen",
+      "en": "Augustinian Orders"
+    }
+  },
   "related": [
     {
       "id": "https://w3id.org/gsord/resources/GSReligiousOrder117",

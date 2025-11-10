@@ -1,28 +1,9 @@
 {
-  "id": "https://w3id.org/gsord/resources/Semireligioese_M",
+  "id": "https://w3id.org/gsord/resources/GSReligiousOrder079",
   "type": "Concept",
   "prefLabel": {
     "de": "Semireligiöse Gemeinschaft (männlich)"
   },
-  "narrower": [
-    {
-      "id": "https://w3id.org/gsord/resources/GSReligiousOrder131",
-      "prefLabel": {
-        "de": "Begarden",
-        "nl": "Begarden",
-        "en": "Beghards"
-      }
-    },
-    {
-      "id": "https://w3id.org/gsord/resources/GSReligiousOrder046",
-      "prefLabel": {
-        "de": "Brüder vom gemeinsamen Leben",
-        "nl": "Broeders des gemenen levens",
-        "en": "Brethren of the Common Life",
-        "la": "Fratres communis vitae"
-      }
-    }
-  ],
   "related": [
     {
       "id": "https://w3id.org/gsord/resources/GSReligiousOrder179",

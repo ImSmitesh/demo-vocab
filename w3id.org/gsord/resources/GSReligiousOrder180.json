@@ -1,9 +1,41 @@
 {
-  "id": "https://w3id.org/gsord/resources/Franziskanerorden",
+  "id": "https://w3id.org/gsord/resources/GSReligiousOrder180",
   "type": "Concept",
   "prefLabel": {
-    "de": "Franziskanerorden"
+    "de": "Ritterorden"
   },
+  "narrower": [
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder012",
+      "prefLabel": {
+        "de": "Johanniter",
+        "nl": "Johannieters",
+        "en": "Knights Hospitaller"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder022",
+      "prefLabel": {
+        "de": "Deutscher Orden",
+        "nl": "Duitse Orde",
+        "en": "Teutonic Order",
+        "la": "Ordo Teutonicus"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder039",
+      "prefLabel": {
+        "de": "Templerorden",
+        "nl": "Tempeliers",
+        "en": "Knights Templar"
+      }
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "https://database.factgrid.de/entity/Q396039"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://w3id.org/gsord/resources/"
