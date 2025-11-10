@@ -9,7 +9,7 @@ gsord: a skos:ConceptScheme ;
  rdfs:label "WIAG Ordensvokabular"@de ;
  skos:prefLabel "WIAG Ordensvokabular"@de ;
  dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
- skos:hasTopConcept gsord:GSReligiousOrder106, gsord:GSReligiousOrder07, gsord:GSReligiousOrder124, gsord:GSReligiousOrder179, gsord:GSReligiousOrder018, gsord:GSReligiousOrder144, gsord:GSReligiousOrder130, gsord:GSReligiousOrder113, gsord:GSReligiousOrder79, gsord:GSReligiousOrder108, gsord:GSReligiousOrder110, gsord:GSReligiousOrder065, gsord:GSReligiousOrder062 .
+ skos:hasTopConcept gsord:GSReligiousOrder106, gsord:GSReligiousOrder07, gsord:GSReligiousOrder124, gsord:GSReligiousOrder179, gsord:GSReligiousOrder018, gsord:GSReligiousOrder144, gsord:GSReligiousOrder130, gsord:GSReligiousOrder113, gsord:GSReligiousOrder079, gsord:GSReligiousOrder108, gsord:GSReligiousOrder110, gsord:GSReligiousOrder065, gsord:GSReligiousOrder062, GSReligiousOrder180 .
 
 gsord:GSReligiousOrder037 a skos:Concept ;
     skos:prefLabel "Alexianen"@nl, "Alexianer"@de, "Alexians"@en, "Congregatio Fratrum Alexianorum"@la ;
@@ -25,7 +25,7 @@ gsord:GSReligiousOrder037 a skos:Concept ;
 gsord:GSReligiousOrder054 a skos:Concept ;
     skos:prefLabel "Annunciaten"@nl, "Annunziatinnen"@de, "Ordo de Annuntiatione Beatae Mariae Virginis"@la, "Sisters of the Annunciation"@en ;
     skos:altLabel "Orden von der Verkündung Marias"@de, "Sisters of the Annonciade"@en ;
-    skos:broad gsord:GSReligiousOrder130 ;
+    skos:broader gsord:GSReligiousOrder130 ;
     skos:related gsord:GSReligiousOrder117 ;
     skos:related gsord:GSReligiousOrder119 ;
     skos:exactMatch <http://d-nb.info/gnd/16119327-4> ;
@@ -157,7 +157,7 @@ gsord:GSReligiousOrder106 a skos:Concept ;
     skos:exactMatch <https://database.factgrid.de/entity/Q636405> ;
     skos:topConceptOf gsord:.
 
-gsord:Franziskanerorden a skos:Concept ;
+gsord:GSReligiousOrder07 a skos:Concept ;
     skos:prefLabel "Franziskanerorden"@de ;
     skos:topConceptOf gsord:.
 
@@ -255,7 +255,7 @@ gsord:GSReligiousOrder022 a skos:Concept ;
     skos:altLabel "OT"@la ;
     skos:definition "Die 1189/90 während des 3. Kreuzzuges von deutschen, besonders Lübecker und Bremer Bürgern vor Akko gegründete Hospitalbruderschaft wurde 1198/99 durch päpstliche Bestätigung in einen Ritterorden umgewandelt, der von mächtigen deutschen Kreuzfahrern aus dem Umfeld der staufischen Könige und von diesen selbst gefördert wurde. Die Stiftungsaufgaben des Ordens waren der Kampf gegen die Heiden und die Pflege verwundeter Kämpfer. Das Heilige Land ausgenommen, lagen die wichtigsten Besitzungen des Ordens im römisch-deutschen Reich. Der Deutsche Orden war in Häuser (Kommenden) und Provinzen (Balleien) gegliedert. An seiner Spitze stand der Hochmeister. Dem Orden gehörten sowohl Priesterbrüder (aus nichtadeligen Familien) als auch Ritterbrüder (zunächst aus führenden städtischen Familien, seit dem Ende des Mittelalters nur aus adeligen Familien) sowie Ordensschwestern, Halb- und Laienbrüder an."@de ;
     skos:broader gsord:GSReligiousOrder113 ;
-    skos:broader gsord:Ritterorden ;
+    skos:broader gsord:GSReligiousOrder180 ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q48189> ;
     skos:exactMatch <https://d-nb.info/gnd/1017688-3> ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q147168> ;
@@ -304,7 +304,7 @@ gsord:GSReligiousOrder097 a skos:Concept ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q1195155> ;
     skos:inScheme gsord:.
 
-gsord:Franziskaner a skos:Concept ;
+gsord:GSReligiousOrder167 a skos:Concept ;
     skos:prefLabel "Franziskaner"@de ;
     skos:definition "Gemeint sind die Franziskaner-Minoriten"@de ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q164255> ;
@@ -344,7 +344,7 @@ gsord:GSReligiousOrder012 a skos:Concept ;
     skos:altLabel "Hospitaliter des hl. Johannes von Jerusalem"@de, "Knights of St John"@en, "Malteser"@de, "OMel (D)"@la, "OMel"@la, "Ordo Sancti Johannis Hierosolymitani"@la ;
     skos:example "s. Johannis Jerus." ;
     skos:definition "Der Johanniter-Orden geht auf ein Pilgerhospital in Jerusalem zurück und entstand 1099. Eine eigene Regel entstand wahrscheinlich um 1130, die päpstliche Anerkennung erfolgte jedoch erst 1154. Zum Ordensauftrag zählten neben caritativ-seelsorgerlichen auch militärische Aufgaben, die zunehmend das Wirken des Ordens bestimmten. Hauptsitz der Johanniter war bis 1187 Jerusalem, danach Akko. Nach dem Fall Akkons 1291 zogen sie sich zuerst nach Zypern, dann nach Rhodos zurück, wo sie eine eigene staatliche Existenz aufbauten und eine große Bedeutung in der Mittelmeerpolitik und in den Kreuzzügen gegen die Muslime erlangten. Als die Osmanen 1522 Rhodos eroberten, wichen die Johanniter auf die Insel Malta aus. Seit dieser Zeit tritt die Bezeichnung Malteserorden auf. Während der Französischen Revolution verlor der Orden seine Besitztümer in Frankreich und 1798 Malta."@de ;
-    skos:broader gsord:Ritterorden ;
+    skos:broader gsord:GSReligiousOrder180 ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q190353> ;
     skos:exactMatch <https://d-nb.info/gnd/43583-1> ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q174766> ;
@@ -562,7 +562,7 @@ gsord:GSReligiousOrder019 a skos:Concept ;
     skos:example "o. s. Clare" ;
     skos:definition "Der Frauenorden der Klarissen wurde 1212 von Franziskus und Klara von Assisi mit einer ersten Niederlassung in S. Damiano gegründet. Die Klarissen bestehen in enger Bindung an den Franziskaner-Orden und leben im Bemühen um die Nachfolge Christi in höchster Armut. Die 1247 von Klara von Assisi konzipierte und 1253 durch Innozenz IV. approbierte Ordensregel galt nur für S. Damiano und wenige andere Klöster. Infolge einer neuen 1263 durch Urban IV. approbierten Regel, die unter anderem den Güterbesitz gewährte, kam es zu zwei Observanzen: Den 'armen' Klarissen mit Klara-Regel und den 'reichen' Klarissen mit Urban-Regel, den Urbanistinnen. Eine Reformbewegung zur Wiederherstellung der Einheit im Orden führte im 16. Jahrhundert zur Gründung der Klarissen-Kapuzinerinnen mit radikalem Armutspostulat, strenger Klausur und intensivem Gebetsleben."@de ;
     skos:broader gsord:GSReligiousOrder108 ;
-    skos:related gsord:Franziskaner ;
+    skos:related gsord:GSReligiousOrder167 ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q733658> ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q396811> ;
     skos:exactMatch <https://d-nb.info/gnd/16142356-5> ;
@@ -786,7 +786,7 @@ gsord:GSReligiousOrder113 a skos:Concept ;
     skos:exactMatch <http://d-nb.info/gnd/4147902-6> ;
     skos:topConceptOf gsord:.
 
-gsord:Semireligioese_M a skos:Concept ;
+gsord:GSReligiousOrder079 a skos:Concept ;
     skos:prefLabel "Semireligiöse Gemeinschaft (männlich)"@de ;
     skos:related gsord:GSReligiousOrder179 ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q640842> ;
@@ -844,7 +844,7 @@ gsord:GSReligiousOrder039 a skos:Concept ;
     skos:prefLabel "Knights Templar"@en, "Tempeliers"@nl, "Templerorden"@de ;
     skos:altLabel "Templer"@de ;
     skos:definition "Der Templerorden geht auf Kreuzfahrer zurück, die sich in den 1120er Jahren zum bewaffneten Schutz der Jerusalempilger zu einer bruderschaftlichen Vereinigung zusammenschlossen. 1129 wurde seine Regel vom Konzil von Troyes beschlossen. Neben dem Heiligen Land errichtete der Orden auch zahlreiche Niederlassungen in Europa und diente der Verteidigung der Kreuzfahrerstaaten. Nach der Eroberung Jerusalems (1187) und dem Fall Akkos (1291) zogen sich die Templer zunächst auf die Insel Ruad, dann nach Zypern zurück. Auf dem Konzil von Vienne (1311-1312) wurde der Orden von Clemens V. aufgehoben. Die Besitzungen fielen größtenteils an den Johanniterorden."@de ;
-    skos:broader gsord:Ritterorden ;
+    skos:broader gsord:GSReligiousOrder180 ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q41300> ;
     skos:exactMatch <https://d-nb.info/gnd/4134088-7> ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q386979> ;
@@ -909,3 +909,8 @@ gsord:GSReligiousOrder005 a skos:Concept ;
     skos:exactMatch <https://d-nb.info/gnd/1008453-8> ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q142148> ;
     skos:inScheme gsord:.
+
+gsord:GSReligiousOrder180 a skos:Concept ;
+    skos:prefLabel "Ritterorden"@de ;
+    skos:exactMatch <https://database.factgrid.de/entity/Q396039> ;
+    skos:topConceptOf gsord:.
