@@ -9,7 +9,7 @@ gsord: a skos:ConceptScheme ;
  rdfs:label "WIAG Ordensvokabular"@de ;
  skos:prefLabel "WIAG Ordensvokabular"@de ;
  dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
- skos:hasTopConcept gsord:GSReligiousOrder106, gsord:GSReligiousOrder07, gsord:GSReligiousOrder124, gsord:GSReligiousOrder179, gsord:GSReligiousOrder018, gsord:GSReligiousOrder144, gsord:GSReligiousOrder130, gsord:GSReligiousOrder113, gsord:GSReligiousOrder079, gsord:GSReligiousOrder108, gsord:GSReligiousOrder110, gsord:GSReligiousOrder065, gsord:GSReligiousOrder062, gsord:GSReligiousOrder180 .
+ skos:hasTopConcept gsord:GSReligiousOrder106, gsord:GSReligiousOrder07, gsord:GSReligiousOrder124, gsord:GSReligiousOrder179, gsord:GSReligiousOrder018, gsord:GSReligiousOrder144, gsord:GSReligiousOrder130, gsord:GSReligiousOrder113, gsord:GSReligiousOrder079, gsord:GSReligiousOrder108, gsord:GSReligiousOrder110, gsord:GSReligiousOrder065, gsord:GSReligiousOrder062, gsord:GSReligiousOrder180, gsord:GSReligiousOrder023, gsord:GSReligiousOrder063, gsord:GSReligiousOrder087, gsord:GSReligiousOrder142, gsord:GSReligiousOrder080, gsord:GSReligiousOrder096, gsord:GSReligiousOrder123, gsord:GSReligiousOrder126, gsord:GSReligiousOrder116 .
 
 gsord:GSReligiousOrder037 a skos:Concept ;
     skos:prefLabel "Alexianen"@nl, "Alexianer"@de, "Alexians"@en, "Congregatio Fratrum Alexianorum"@la ;
@@ -58,7 +58,7 @@ gsord:GSReligiousOrder001 a skos:Concept ;
     skos:example "o. s. Aug. can. reg.", "o. s. Aug." ;
     skos:definition "Bei den Augustinerchorherren handelt es sich um regulierte Chorherren, die im 11./12. Jahrhundert die augustinische Regel annahmen und sich zu einem Leben in Gemeinschaft verpflichteten, das von priesterlichem Dienst, Askese, Keuschheit und Armut geprägt war. Eine der wichtigsten Aufgaben der Augustinerchorherren war die Seelsorge. Die Reformbewegung der Kanoniker breitete sich schnell in ganz Europa aus und entwickelte sich bis zum Zeitalter der Reformation zu einem der kulturell bedeutendsten und größten Orden. Fast alle Stifte nahmen auch Laienbrüder (Konversen) auf. Frauenklöster entstanden in enger Anbindung an die Männerklöster, vielfach wurden die Häuser als Doppelklöster gegründet. Häufig schlossen sie sich zu Kongregationen zusammen, wie etwa die Windesheimer Kongregation, die Chorherren vom Hl. Grabe in Jerusalem, die Kreuzherren, die Antoniter und viele mehr. Die Säkularisation bedeutete für den Orden den nahezu vollständigen Niedergang."@de ;
     skos:broader gsord:GSReligiousOrder113 ;
-    skos:broader gsord:Augustiner ;
+    skos:broader gsord:GSReligiousOrder130 ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q1270388> ;
     skos:exactMatch <https://www.dwds.de/wb/Augustinerchorherr> ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q172927> ;
@@ -82,6 +82,8 @@ gsord:GSReligiousOrder032 a skos:Concept ;
     skos:prefLabel "Ordo Eremitarum Sancti Augustini"@la, "Augustinereremitinnen"@de, "Converse Women of St Augustine"@en, "Conversinnen van Sint-Augustinus"@nl ;
     skos:altLabel "OESA (w)"@la ;
     skos:definition "Der Bettelorden der Augustinereremitinnen ist der weibliche Zweig der Augustinereremiten, deren Satzungen und Leitung sie unterstanden. Das Leben der Ordensfrauen ist durch die Augustinusregel geprägt. Neben dem Gebet widmen sie sich häufig der Mädchenbildung und der Erziehung von Waisenkindern. Im deutschsprachigen Raum sind während der Säkularisation alle Nonnenklöster niedergegangen."@de ;
+    skos:broader gsord:GSReligiousOrder108 ;
+    skos:broader gsord:GSReligiousOrder130 ;
     skos:related gsord:GSReligiousOrder036 ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q768399> ;
     skos:exactMatch <https://d-nb.info/gnd/4028319-7> ;
@@ -101,7 +103,7 @@ gsord:GSReligiousOrder131 a skos:Concept ;
     skos:prefLabel "Begarden"@de, "Begarden"@nl, "Beghards"@en ;
     skos:altLabel "Begaarden"@nl, "Begharden"@de, "Bogarden"@nl ;
     skos:definition "Begarden waren Angehörige semireligiöser Gemeinschaften von Männern. Sie widmeten sich häufig der Krankenpflege und Totenbestattung. Die Begardenbewegungen entstanden um 1220 in den Niederlanden. Sie waren weit weniger verbreitet als die Beginen. Sie verdienten ihren Lebensunterhalt mit Betteln und handwerklichen Tätigkeiten (vor allem Weben), existierten vor allem zwischen dem 13. und 15. Jahrhundert und gerieten nicht selten unter Häresieverdacht."@de ;
-    skos:broader gsord:Semireligioese_M ;
+    skos:broader gsord:GSReligiousOrder079 ;
     skos:related gsord:GSReligiousOrder132 ;
     skos:related gsord:GSReligiousOrder037 ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q640843> ;
@@ -157,8 +159,8 @@ gsord:GSReligiousOrder106 a skos:Concept ;
     skos:exactMatch <https://database.factgrid.de/entity/Q636405> ;
     skos:topConceptOf gsord:.
 
-gsord:GSReligiousOrder07 a skos:Concept ;
-    skos:prefLabel "Franziskanerorden"@de ;
+gsord:GSReligiousOrder007 a skos:Concept ;
+    skos:prefLabel "Orden nach der Franziskaneregel"@de ;
     skos:topConceptOf gsord:.
 
 gsord:GSReligiousOrder063 a skos:Concept ;
@@ -168,13 +170,13 @@ gsord:GSReligiousOrder063 a skos:Concept ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q808380> ;
     skos:exactMatch <https://d-nb.info/gnd/5299650-5> ;
     skos:exactMatch <https://database.factgrid.de/entity/Q1195149> ;
-    skos:inScheme gsord:.
+    skos:topConceptOf gsord:.
 
 gsord:GSReligiousOrder046 a skos:Concept ;
     skos:prefLabel "Brethren of the Common Life"@en, "Broeders des gemenen levens"@nl, "Brüder vom gemeinsamen Leben"@de, "Fratres communis vitae"@la ;
     skos:altLabel "CRVC"@la, "Fraterherren"@de, "Kugelherren"@de ;
     skos:broader gsord:GSReligiousOrder113 ;
-    skos:broader gsord:Semireligioese_M ;
+    skos:broader gsord:GSReligiousOrder079 ;
     skos:related gsord:GSReligiousOrder045 ;
     skos:exactMatch <https://database.factgrid.de/entity/Q498922> ;
     skos:exactMatch <https://d-nb.info/gnd/4008437-1> ;
@@ -205,6 +207,8 @@ gsord:GSReligiousOrder095 a skos:Concept ;
     skos:prefLabel "Chorherren vom Heiligen Geist"@de, "Orde van de Heilige Geest van Montpellier"@nl, "Order of the Holy Ghost"@en, "Ordo Hospitalarius de S. Spiritu"@la ;
     skos:altLabel "Heilig-Geist-Orden"@de, "Hospitaliter vom Heiligen Geist"@de, "Ordo Santo Spirito in Sassia"@la ;
     skos:definition "Die Chorherren vom Heiligen Geist haben ihren Ursprung in einem um 1180 von Guido von Montpellier gegründeten Heilig Geist-Spital in Montpellier. Die Spitalbruderschaft wurde 1198 von Innozenz III. als Orden päpstlich anerkannt. Der Papst übertrug ihm wenig später das römische Spital S. Maria in Sassia (S. Spirito). Der Orden fand bis zum 14./15. Jahrhundert schnelle Verbreitung. Die Gemeinschaft lebte nach der Augustinusregel; die Mitglieder verpflichteten sich durch ein Sondergelübde zum Hospitaldienst. Hauptverbreitungsgebiete waren Frankreich und Italien, daneben gab es einige Niederlassungen in Süddeutschland. 1847 wurde der männliche Zweig des Ordens von Papst Pius IX. aufgehoben." ;
+    skos:broader gsord:GSReligiousOrder110 ;
+    skos:broader gsord:GSReligiousOrder113 ; 
     skos:exactMatch <https://www.wikidata.org/wiki/Q996747> ;
     skos:exactMatch <https://database.factgrid.de/entity/Item:Q38823> ;
     skos:exactMatch <https://d-nb.info/gnd/3036043-2> ;
@@ -224,7 +228,7 @@ gsord:GSReligiousOrder072 a skos:Concept ;
     skos:exactMatch <https://d-nb.info/gnd/4449082-3> ;
     skos:inScheme gsord:.
 
-gsord:Cluniazenser a skos:Concept ;
+gsord:GSReligiousOrder190 a skos:Concept ;
     skos:example "o. Clun." ;
     skos:prefLabel "Cluniazenser"@de ;
     skos:broader gsord:GSReligiousOrder016 ;
@@ -264,7 +268,7 @@ gsord:GSReligiousOrder022 a skos:Concept ;
 gsord:GSReligiousOrder013 a skos:Concept ;
     skos:prefLabel "Ordo fratrum Praedicatorum"@la, "Dominicanen"@nl, "Dominicans"@en, "Dominikaner"@de ;
     skos:altLabel "Blackfriars"@en, "OP"@la, "Orden der Predigerbrüder"@de, "Ordo Praedicatorum"@la, "Predikheren"@nl ;
-    skos:example "o. pred." ;
+    skos:example "o. pred." ; 
     skos:definition "Der Dominikanerorden ist ein vom hl. Dominikus († 1221) im Jahr 1215 in Toulouse gegründeter Orden, der sich der Augustinusregel verpflichtete. Zu den Neuerungen dieses Ordens gehörten die lebenslange Verpflichtung zum Studium der Theologie und zur Predigt. Insbesondere durch die Ausweitung des Predigtmandats auf die gesamte Christenheit trug der Orden zur einer Veränderung des kirchlichen Pastorals bei, denn bis zu diesem Zeitpunkt war das Predigeramt allein den Bischöfen vorbehalten. Ferner wurde 1220 ein striktes Besitzlosigkeitsgebot in die Konstitutionen aufgenommen. Neben der Armut wurde auch die Askese des Studiums zur Buße gezählt. Mit der Verbindung von Kontemplation und Aktion sowie Mönchtum und Priestertum wurden die Dominikaner zum Vorbild anderer Bettelorden. Zunächst ließ sich der Orden in wichtigen Städten nieder, seit der 2. Hälfte des 13. Jahrhunderts auch in kleineren. Um 1220/50 verbreitete sich der Orden stark in Italien und Frankreich, ein zweiter Ausbreitungsschub 1270/1300 führte besonders in Mittel- und Nordeuropa zur Gründung neuer Konvente. Im Zuge der Reformation verlor der Orden seine Niederlassungen in den protestantischen Gebieten, während er in den katholischen Regionen im Rahmen der Gegenreformation deutlich anwuchs. Die Säkularisation führte zum Niedergang des Ordens in Deutschland und Frankreich und in Teilen auch in Italien."@de ;
     skos:broader gsord:GSReligiousOrder108 ;
     skos:related gsord:GSReligiousOrder030 ;
@@ -298,7 +302,7 @@ gsord:GSReligiousOrder097 a skos:Concept ;
     skos:prefLabel "Elisabethinerinnen"@de, "Order of Saint Elisabeth"@en ;
     skos:altLabel "Elisabethinnen"@de, "Elisabethinnen"@nl, "OSE"@la, "Schwestern von der hl. Elisabeth"@de ;
     skos:definition "Die Elisabethinerinnen sind ein 1622 von Apollonia Radermecher gegründeter Frauenorden. Der Orden verbreitete sich schnell und wirkte vorbildlich in der Krankenpflege."@de ;
-    skos:related gsord:GSReligiousOrder082 ;
+    skos:broader gsord:GSReligiousOrder082 ;
     skos:exactMatch <https://d-nb.info/gnd/4248105-3> ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q452095> ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q1195155> ;
@@ -307,6 +311,7 @@ gsord:GSReligiousOrder097 a skos:Concept ;
 gsord:GSReligiousOrder167 a skos:Concept ;
     skos:prefLabel "Franziskaner"@de ;
     skos:definition "Gemeint sind die Franziskaner-Minoriten"@de ;
+    skos:broader gsord:GSReligiousOrder007 ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q164255> ;
     skos:inScheme gsord:.
 
@@ -354,7 +359,8 @@ gsord:GSReligiousOrder102 a skos:Concept ;
     skos:prefLabel "Knights of St Lazarus"@en, "Lazarieten"@nl, "Hospitaliter vom heiligen Lazarus in Jerusalem"@de ;
     skos:altLabel "Lazariter"@de ;
     skos:definition "Bei den Hospitalitern vom hl. Lazarus in Jerusalem handelt es sich um einen ritterlich-hospitalischen Orden, der sich spätestens 1120 am Leprosenspital St. Lazarus in Jerusalem formierte und nach der Augustinusregel lebte. Es folgten weitere Gründungen im Heiligen Land, nach 1187 wurde der Hauptsitz nach Akko verlegt und die Aktivität des Ordens verlagerte sich von der Pflege von Kranken vermehrt auch auf den militärischen Einsatz. 1254 wurde Boigny bei Orléans Sitz des Großmeisters und der Schwerpunkt des Ordens verlagerte sich nach Europa. Mit dem Rückgang der Lepra im 15. und 16. Jahrhundert verlor der Orden zunehmend sein wichtigstes Tätigkeitsfeld sowie Einnahmen. 1572 verband Gregor XIII. den italischen Zweig mit dem Ritterorden des hl. Mauritius Primicerius und 1608 wurde der französische Zweig mit dem Ritterorden U.L.F. v. Berge Karmel zusammengeschlossen."@de ;
-    skos:borader gsord:GSReligiousOrder110 ;
+    skos:broader gsord:GSReligiousOrder110 ;
+    skos:broader gsord:GSReligiousOrder107 ;
     skos:exactMatch <http://d-nb.info/gnd/2157571-X> ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q830796> ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q640796> ;
@@ -388,6 +394,7 @@ gsord:GSReligiousOrder066 a skos:Concept ;
 gsord:GSReligiousOrder119 a skos:Concept ;
     skos:prefLabel "Italienische Annunziatinnen"@de, "Order of the Most Holy Annunciation"@en, "Ordine della Santissima Annunziata"@it ;
     skos:altLabel "Blaue Annanziatinnen"@de ;
+    skos:broader gsord:GSReligiousOrder054 ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q970531> ;
     skos:exactMatch <https://database.factgrid.de/entity/Q1195159> ;
     skos:exactMatch <https://d-nb.info/gnd/4685238-4> ;
@@ -402,7 +409,7 @@ gsord:GSReligiousOrder023 a skos:Concept ;
     skos:exactMatch <https://www.dwds.de/wb/Jesuitenorden> ;
     skos:exactMatch <https://d-nb.info/gnd/80092-2> ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q160284> ;
-    skos:inScheme gsord:.
+    skos:topConceptOf gsord:.
 
 gsord:GSReligiousOrder103 a skos:Concept ;
     skos:prefLabel "Kamaldulenser"@de ;
@@ -424,7 +431,7 @@ gsord:GSReligiousOrder142 a skos:Concept ;
     skos:related gsord:GSReligiousOrder103 ;
     skos:exactMatch <https://d-nb.info/gnd/4702030-1> ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q1195220> ;
-    skos:inScheme gsord:.
+    skos:topConceptOf gsord:.
 
 gsord:GSReligiousOrder140 a skos:Concept ;
     skos:prefLabel "Camaldolese nuns"@en, "Congregatio Camaldulensis Ordinis Sancti Benedicti"@la, "Kamaldulenserinnen"@de ;
@@ -440,7 +447,8 @@ gsord:GSReligiousOrder034 a skos:Concept ;
     skos:prefLabel "Canons"@en, "Kanoniker"@de, "Kanunniken"@nl, "canonicus"@la ;
     skos:altLabel "Canonici"@la, "Chorherr"@de, "Kan."@de ;
     skos:definition "Als \"Canonicus\" wurden im frühmittelalterlichen Frankenreich die Kleriker bezeichnet, die in vita communis – also einer geistlichen Gemeinschaft – lebten, aber nicht zu einem Mönchsorden gehörten. Etwa 755 (durch Chrodegang von Metz) und 816 (Aachener Regel) wurden wegweisende Regeln für die Kanoniker verfasst. Im Zuge der Gregorianischen Reform kam im 11. Jahrhundert Kritik auf, die zur Herausbildung der Regularkanoniker mit strengeren Regeln führte. Bei den unregulierten Kanonikern nahm die vita communis in der Folgezeit in ihrer Bedeutung teils stark ab, ebenso wie die liturgischen Verpflichtungen. Im Gegensatz zu den Regularkanonikern werden sie als Säkularkanoniker bezeichnet, wobei die Bezeichnung Kanoniker oftmals als Synonym für Säkularkanoniker verwendet wird und Stifts- oder Domherren bezeichnet."@de ;
-    skos:related gsord:Kanonisse ;
+    skos:broader gsord:GSReligiousOrder116 ;
+	skos:related gsord:GSReligiousOrder035 ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q1104153> ;
     skos:exactMatch <https://database.factgrid.de/entity/Item:Q38823> ;
     skos:exactMatch <https://d-nb.info/gnd/4163199-7> ;
@@ -450,7 +458,8 @@ gsord:GSReligiousOrder035 a skos:Concept ;
     skos:prefLabel "Canonesses"@en, "Kanonissen"@de, "Kanunnikessen"@nl, "canonicae"@la ;
     skos:altLabel "Canonesses Regular"@de, "Chorfrau"@de, "Kan. (w)"@de, "Kanonikerin"@de, "Stiftsdame"@de, "canonissae"@la, "dominae chori"@la, "sanctimoniales"@la ;
     skos:definition "Kanonissen leben ohne Ordensgelübde oder Verzicht auf Privatbesitz in einer geistlichen Gemeinschaft. Im Bereich des Franken- und Sachsenreiches wurden Kanonissen-Konvente im 9. und 10. Jahrhundert von Familien oder einzelnen Frauen als Haus- und Grabstätten des Adels gegründet. Die Stifterfamilie stellte die dem Konvent vorstehende Äbtissin. Infolge der von den Bischöfen getragenen Reformbewegung des 11./12. Jahrhunderts mussten die Kanonissen entweder die Benedikt- oder die Augustinusregel annehmen. Nur wenige Stifte blieben in der freiweltlichen, nichtregulierten Form bestehen. Diese wurden seit dem Spätmittelalter Damenstifte genannt."@de ;
-    skos:related gsord:GSReligiousOrder034 ;
+	skos:broader gsord:GSReligiousOrder116 ;
+	skos:related gsord:GSReligiousOrder034 ;
     skos:related gsord:GSReligiousOrder113 ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q913870> ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q1195160> ;
@@ -462,7 +471,7 @@ gsord:GSReligiousOrder008 a skos:Concept ;
     skos:altLabel "OFMCap"@la, "Ordo Fratrum Minorum Capucinorum"@la ;
     skos:definition "Die Kapuziner, der dritte franziskanische Ordenszweig, entstanden nach der 1517 durch Papst Leo X. durchgeführten Trennung der Franziskaner-Oberservanten (OFMObs) und der Franziskaner-Konventualen (OFMConv) als eine Reformgruppe der Observanz um Matthäus von Bascio. 1528 wurde der Orden von Clemens VII. in nomineller Abhängigkeit vom OFMConv approbiert. Kontemplation, höchste Armut, strengster von der Kreuzesnachfolge geprägter Lebensstil und Tätigkeiten wie Handarbeit und Krankenpflege prägten das Leben der Augustinerbrüder. Die Predigt blieb studierten Priesterbrüdern vorbehalten und wurde im 16. Jahrhundert als volksnahe Wanderpredigt ausgeübt. In den 1536 verabschiedeten Satzungen des Generalkapitels wurde ferner eine Berufung zur Missionstätigkeit festgehalten. Zunächst breitete sich der Orden in Italien aus, nachdem Gregor XIII. 1574 die geographische Eingrenzung aufgehoben hatte, auch in Frankreich, Spanien, Deutschland, Österreich und der Schweiz. Im 17. und 18. Jh. entstanden Niederlassungen in Afrika, Asien und Amerika."@de ;
     skos:broader gsord:GSReligiousOrder108 ;
-    skos:related gsord:GSReligiousOrder019-Kapuzinerinnen ;
+    skos:related gsord:GSReligiousOrder143 ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q124862> ;
     skos:exactMatch <https://database.factgrid.de/entity/Q143828> ;
     skos:inScheme gsord:.
@@ -474,7 +483,7 @@ gsord:GSReligiousOrder065 a skos:Concept ;
     skos:broader gsord:GSReligiousOrder108 ;
     skos:related gsord:GSReligiousOrder008 ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q1195223> ;
-    skos:topConceptOf gsord:.
+	skos:inScheme gsord:.
 
 gsord:GSReligiousOrder062 a skos:Concept ;
     skos:prefLabel "Barmherzige Brüder"@de ;
@@ -501,7 +510,7 @@ gsord:GSReligiousOrder168 a skos:Concept ;
     skos:broader gsord:GSReligiousOrder065 ;
     skos:related gsord:Franziskanerinnen_der_Dritten_Regelder ;
     skos:related gsord:GSReligiousOrder008 ;
-    skos:related gsord:GSReligiousOrder019-Kapuzinerinnen ;
+    skos:related gsord:GSReligiousOrder143 ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q105413245> ;
     skos:exactMatch <https://database.factgrid.de/entity/Q1195222> ;
     skos:exactMatch <https://d-nb.info/gnd/4373242-2> ;
@@ -615,7 +624,7 @@ gsord:GSReligiousOrder080 a skos:Concept ;
     skos:exactMatch <https://d-nb.info/gnd/1024069-X> ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q849726> ;
     skos:exactMatch <https://database.factgrid.de/entity/Q1195226> ;
-    skos:inScheme gsord:.
+    skos:topConceptOf gsord:.
 
 gsord:GSReligiousOrder118 a skos:Concept ;
     skos:prefLabel "Lombardische Annunziatinnen"@de ;
@@ -633,7 +642,7 @@ gsord:GSReligiousOrder126 a skos:Concept ;
     skos:exactMatch <https://database.factgrid.de/entity/Q1195228> ;
     skos:exactMatch <https://d-nb.info/gnd/4542342-8> ;
     skos:related gsord:GSReligiousOrder026 ;
-    skos:inScheme gsord:.
+    skos:topConceptOf gsord:.
 
 gsord:GSReligiousOrder108 a skos:Concept ;
     skos:prefLabel "Mendikantenorden"@de ;
@@ -650,7 +659,7 @@ gsord:GSReligiousOrder096 a skos:Concept ;
     skos:exactMatch <http://d-nb.info/gnd/1035017-2> ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q1414924> ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q183594> ;
-    skos:inScheme gsord:.
+    skos:topConceptOf gsord:.
 
 gsord:GSReligiousOrder094 a skos:Concept ;
     skos:prefLabel "Oratorianer"@de, "Oratory of Saint Philip Neri"@en ;
@@ -666,13 +675,14 @@ gsord:GSReligiousOrder130 a skos:Concept ;
     skos:altLabel "Augustiner"@de, "Augustinergemeinschaft"@de, "Augustinians"@en ;
     skos:definition "Monastische oder stiftische Gemeinschaft mit Augustinerregel wie Augustiner-Chorherren oder Augustinereremiten"@de ;
     skos:exactMatch <https://database.factgrid.de/entity/Q498969> ;
-    skos:topConceptOf gsord: .
+    skos:topConceptOf gsord:.
 
 gsord:GSReligiousOrder021 a skos:Concept ;
     skos:prefLabel "Ordo Sanctae Ursulae"@la, "Ursulinen"@de, "Ursulinen"@nl, "Ursulines"@en ;
     skos:altLabel "Gesellschaft der hl. Ursula"@de, "OSU"@la ;
     skos:definition "Die Ursulinen wurden 1535 von Angela Merici († 1540) in Brescia als eine Vereinigung von Frauen gegründet, die sich nach dem Vorbild der hl. Ursula ohne Gelübde zu Keuschheit, Armut und Gehorsam verpflichteten, aber kein gemeinschaftliches Leben führten. 1536 wurden die Ursulinen bischöflich, 1544 päpstlich approbiert. Seit Mitte des 16. Jahrhunderts widmeten sie sich vor allem der Katechese. Die 1567 gedruckte Regel schrieb die vita communis vor. 1612 übernahmen die Ursulinen die Augustinusregel sowie feierliche Gelübde und Klausur. Mit der Einrichtung von Mädchenschulen wurden die Ursulinen wegweisend für eine neuzeitliche Mädchenbildung. Die Ausbreitung des Ordens erfolgte zunächst in Italien und Frankreich, 1639 wurde das erste deutsche Ursulinenkloster in Köln gegründet.\nEinen eigenen Zweig des Ordens bilden die Schwestern der hl. Ursula von Dôle, gegr. 1606 in Dôle (Frankreich) durch Anne de Xainctonge."@de ;
-    skos:exactMatch <https://database.factgrid.de/entity/Q640759> ;
+    skos:broader gsord:GSReligiousOrder130 ;
+	skos:exactMatch <https://database.factgrid.de/entity/Q640759> ;
     skos:exactMatch <http://d-nb.info/gnd/2001462-4> ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q2250880> ;
     skos:inScheme gsord:.
@@ -695,7 +705,8 @@ gsord:GSReligiousOrder091 a skos:Concept ;
     skos:prefLabel "Ordo Minimorum"@la, "Paulaner"@de ;
     skos:altLabel "Mindeste Brüder"@de, "Minimen"@de, "Minimiten"@de, "OMinim"@la ;
     skos:definition "Die Anfänge des Paulanerordens liegen in einer Eremitengemeinschaft um Franz von Paula in Cosenza, die 1470 bischöflich und 1474 von Sixtus IV. päpstlich anerkannt und den Bettelorden gleichgestellt wurde. Ihre erste, von der Franziskanerregel abhängige Regel wurde 1493 von Alexander VI. bestätigt. Im Zuge des Übergangs vom eremitischen zum zönobitischen Leben trat 1501 eine Regeländerung in Kraft, die die Buße als Ordensproprium bestimmt und \"ewiges Fasten\" vorschreibt. Zunächst breiteten sich die Paulaner in Italien aus, dann in Frankreich und Spanien und seit 1497 auch im deutschsprachigen Raum."@de ;
-    skos:related gsord:GSReligiousOrder098 ;
+    skos:broader gsord:GSReligiousOrder108 ;
+	skos:related gsord:GSReligiousOrder098 ;
     skos:exactMatch <http://d-nb.info/gnd/1009038-1> ;
     skos:exactMatch <https://database.factgrid.de/entity/Q396810> ;
     skos:inScheme gsord:.
@@ -715,10 +726,11 @@ gsord:GSReligiousOrder085 a skos:Concept ;
     skos:altLabel "OSPPE"@la, "Pauliner"@de ;
     skos:example "o. s. Pauli primi herem.", "fr. s. Pauli herem. o. s. Aug.", "s. Pauli primi heremite" ;
     skos:definition "Der Orden der Pauliner ging aus mehreren Eremitengemeinschaften hervor. Auf eine der wichtigsten dieser Gemeinschaften hatte Eusebius, Kanoniker von Esztergom († 1270), einen prägenden Einfluss. 1308 wurden die Eremitengemeinschaften auf Veranlassung Papst Clemens V. zu den Pauliner-Eremiten zusammengeschlossen, die die Augustinusregel annahmen und als selbständiger Orden anerkannt wurden. Der noch lange Zeit eremitisch-monastisch geprägte Orden verbreitete sich schnell in Ungarn, Österreich, Deutschland und Polen. 1786 hob Kaiser Joseph II. den Orden auf, nur Niederlassungen in Krakau und Tschenstochau blieben erhalten. Im 20. Jahrhundert kam es zu einer Erneuerung des Ordens."@de ;
+    skos:broader gsord:GSReligiousOrder130 ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q846687> ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q640768> ;
     skos:exactMatch <http://d-nb.info/gnd/1235653-0> ;
-    skos:inScheme gsord:.
+    skos:topConceptOf gsord:.
 
 gsord:GSReligiousOrder086 a skos:Concept ;
     skos:prefLabel "Piaristen"@de, "Piarists"@en ;
@@ -755,7 +767,8 @@ gsord:GSReligiousOrder031 a skos:Concept ;
 gsord:GSReligiousOrder129 a skos:Concept ;
     skos:prefLabel "Penitenten Recollectinen"@nl, "Penitents-Recollectines"@en, "Pönitentinnen-Rekollektinnen"@de ;
     skos:definition "Die Pönitentinnen-Rekollektinnen sind ein 1623 im niederländischen Limburg von Johanna van Neerinck gegründeter Frauenorden, der vor allem in den Niederlanden, Belgien, Nordfrankreich und dem Reich aktiv war. Der Orden ist in der Französischen Revolution fast untergegangen und besteht bis heute."@de ;
-    skos:exactMatch <https://database.factgrid.de/entity/Item:Q640767> ;
+    skos:broader gsord:GSReligiousOrder019 ;
+	skos:exactMatch <https://database.factgrid.de/entity/Item:Q640767> ;
     skos:exactMatch <https://d-nb.info/gnd/4522886-3> ;
     skos:inScheme gsord:.
 
@@ -766,7 +779,7 @@ gsord:GSReligiousOrder087 a skos:Concept ;
     skos:exactMatch <https://d-nb.info/gnd/2007048-2> ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q751148> ;
     skos:exactMatch <https://database.factgrid.de/entity/Q640766> ;
-    skos:inScheme gsord:.
+    skos:topConceptOf gsord:.
 
 gsord:GSReligiousOrder123 a skos:Concept ;
     skos:prefLabel "Ordo Sanctissimi Redemptoris"@la, "Redemptoristines"@en, "Redemptoristinnen"@de, "Redemptoristinnen"@nl ;
@@ -776,7 +789,7 @@ gsord:GSReligiousOrder123 a skos:Concept ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q3824605> ;
     skos:exactMatch <https://database.factgrid.de/entity/Q640765> ;
     skos:exactMatch <https://d-nb.info/gnd/16082813-2> ;
-    skos:inScheme gsord:.
+    skos:topConceptOf gsord:.
 
 gsord:GSReligiousOrder113 a skos:Concept ;
     skos:prefLabel "Canonici regulares"@la, "Canons Regular"@en, "Regularkanoniker"@de, "Reguliere kanunniken"@nl ;
@@ -790,6 +803,10 @@ gsord:GSReligiousOrder079 a skos:Concept ;
     skos:prefLabel "Semireligiöse Gemeinschaft (männlich)"@de ;
     skos:related gsord:GSReligiousOrder179 ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q640842> ;
+    skos:topConceptOf gsord:.
+
+gsord:GSReligiousOrder116 a skos:Concept ;
+    skos:prefLabel "Säkularkanoniker"@de ;
     skos:topConceptOf gsord:.
 
 gsord:GSReligiousOrder038 a skos:Concept ;
@@ -807,6 +824,7 @@ gsord:GSReligiousOrder038 a skos:Concept ;
 gsord:GSReligiousOrder045 a skos:Concept ;
     skos:prefLabel "Schwestern vom gemeinsamen Leben"@de, "Sisters of the Common Life"@en, "Zusters des gemenen levens"@nl ;
     skos:definition "Die Schwestern vom gemeinsamen Leben entstanden im Zusammenhang mit der Devotio moderna. Ihre Anfänge gehen auf eine von Gerhard Grote 1379 in seinem Elternhaus errichtete Frauengemeinschaft zurück, die in der Tradition des Beginentums stand. Sie führten ein weltabgewandtes Leben ohne Ordensregel und Gelübde und wurden daher vor allem von den Bettelorden beschuldigt, entgegen den Bestimmungen des Vierten Laterankonzils und des 2. Lyoner Konzils einen neuen Orden ohne approbierte Regel gegründet zu haben. Diese Anschuldigung wehrten sie unter Hinweis auf die Tradition des Semireligiosentums erfolgreich ab."@de ;
+    skos:broader gsord:GSReligiousOrder179 ;
     skos:related gsord:GSReligiousOrder046 ;
     skos:exactMatch <http://d-nb.info/gnd/4037648-5> ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q2758586> ;
@@ -815,7 +833,7 @@ gsord:GSReligiousOrder045 a skos:Concept ;
 
 gsord:GSReligiousOrder179 a skos:Concept ;
     skos:prefLabel "Semireligiöse Gemeinschaft (weiblich)"@de ;
-    skos:related gsord:Semireligioese_M ;
+    skos:related gsord:GSReligiousOrder079 ;
     skos:exactMatch <https://database.factgrid.de/entity/Q640846> ;
     skos:topConceptOf gsord:.
 
@@ -824,6 +842,8 @@ gsord:GSReligiousOrder041 a skos:Concept ;
     skos:altLabel "OSM"@la, "Ordo Servorum Mariae"@la ;
     skos:example "fr. servorum b. Marie o. s. Aug." ;
     skos:definition "Die Serviten entstanden in der 1. Hälfte des 13. Jahrhunderts als ein klerikaler, den Mendikanten zugeordneter Orden in der Nähe von Florenz. Sie lebten nach der Augustinusregel und wurden 1304 durch Benedikt XI. bestätigt. Im 14. Jahrhundert breitete sich der Orden auch in Deutschland aus, im 15. Jahrhundert folgten Klostergründungen in Frankreich, Spanien und Portugal. In der Reformationszeit wurden alle deutschen Konvente aufgelöst. Zu Beginn des 17. Jahrhunderts erfolgte durch Erzherzogin Anna Katharina Gonzaga die Wiedereinführung des Ordens im deutschsprachigen Raum."@de ;
+    skos:broader gsord:GSReligiousOrder108 ;
+    skos:broader gsord:GSReligiousOrder130 ;
     skos:related gsord:GSReligiousOrder042 ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q615923> ;
     skos:exactMatch <https://database.factgrid.de/entity/Q640763> ;
@@ -834,6 +854,7 @@ gsord:GSReligiousOrder042 a skos:Concept ;
     skos:prefLabel "Servitinnen"@de ;
     skos:altLabel "OSM (w)"@la, "Ordo Servarum Mariae"@la, "Servite Nuns"@en ;
     skos:definition "Schon unter dem Generaloberen Philippus Benitius (1265-1280) ist ein Apostolat unter Frauen bezeugt. Das erste Servitinnen-Kloster wurde jedoch erst 1332 in Siena gegründet. Die Ordensangehörigen lebten klausuriert und kontemplativ und gingen zum Teil einem erzieherischen Auftrag nach." ;
+    skos:broader gsord:GSReligiousOrder108 ;
     skos:related gsord:GSReligiousOrder041 ;
     skos:broaderMatch <http://vocab.getty.edu/page/aat/300403980> ;
     skos:exactMatch <https://d-nb.info/gnd/4700058-2> ;
@@ -867,7 +888,7 @@ gsord:GSReligiousOrder133 a skos:Concept ;
     skos:altLabel "OCD"@la ;
     skos:definition "Die Unbeschuhten Karmeliten gingen aus einem 1562 von Teresa von Avila gegründeten Reformkloster hervor. Nachdem weitere Gründungen gefolgt waren, wurden die Unbeschuhten Karmeliten 1593 zu einem selbstständigen Orden. Der eremitische Orden verbreitete sich von Spanien aus vor allem in Europa und Südamerika. Im Reich wurden die Unbeschuhten Karmeliten nach der Schlacht am Weißen Berg (1620), in der der Mitwirkung des Unbeschuhte Karmeliten Dominicus a Jesu Maria als Feldprediger (angeblich) eine zentrale Rolle zukam, von den Habsburgern und bayrischen Wittelsbachern maßgeblich gefördert. Die Unbeschuhten waren auch als Missionare tätig, etwa in Asien."@de ;
     skos:related gsord:GSReligiousOrder136 ;
-    skos:related gsord:GSReligiousOrder003 ;
+    skos:broader gsord:GSReligiousOrder003 ;
     skos:exactMatch <https://www.wikidata.org/wiki/Q1135659> ;
     skos:exactMatch <https://d-nb.info/gnd/1008634-1> ;
     skos:exactMatch <https://database.factgrid.de/wiki/Item:Q640761> ;
@@ -877,6 +898,7 @@ gsord:GSReligiousOrder136 a skos:Concept ;
     skos:prefLabel "Discalced Carmelite Sisters"@en, "Ongeschoeide Karmelitessen"@nl, "Unbeschuhte Karmelitinnen"@de ;
     skos:altLabel "Ordo Sororum Discalceatarum Beatae Mariae Virginis de Monte Carmelo"@la, "Theresians"@en ;
     skos:definition "Weiblicher Ordenszweig der Unbeschuhten Karmeliten. Der Orden der Unbeschuhten Karmeliterinnen (und Unbeschuhten Karmeliten) ging aus einem 1562 von Teresa von Avila gegründeten Frauenkloster hervor, in dem deutlich strengere Regeln herrschen sollten als in den übrigen damaligen Karmelitenklöstern, indem die 1247 vom Papst genehmigten Milderungen nicht gelten sollten. Der Generalvikar der Karmeliten, Giovanni Battista Rossi, erlaubte Teresa nach 1567, weitere eremitische Frauen- und Männerklöster zu gründen; zudem kam es zu Reformen in bereits bestehenden Karmelitenklöstern. In der Folgezeit kam es zur Abspaltung der Unbeschuhten vom Karmelitenorden und zur Anerkennung des neuen Ordens durch den Papst 1593."@de ;
+	skos:broader gsord:GSReligiousOrder026 ;
     skos:related gsord:GSReligiousOrder133 ;
     skos:related gsord:GSReligiousOrder003 ;
     skos:exactMatch <https://d-nb.info/gnd/10115845-2> ;
