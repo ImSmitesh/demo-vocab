@@ -12,6 +12,14 @@
         "nl": "Begijnen",
         "en": "Beguines"
       }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder045",
+      "prefLabel": {
+        "de": "Schwestern vom gemeinsamen Leben",
+        "nl": "Zusters des gemenen levens",
+        "en": "Sisters of the Common Life"
+      }
     }
   ],
   "related": [

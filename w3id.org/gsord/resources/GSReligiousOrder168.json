@@ -35,6 +35,14 @@
         "nl": "Kapucijnen",
         "en": "Capuchins"
       }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder143",
+      "prefLabel": {
+        "de": "Klarissen-Kapuzinerinnen",
+        "fr": "Clarisses capucines",
+        "it": "Clarisse cappuccine"
+      }
     }
   ],
   "exactMatch": [

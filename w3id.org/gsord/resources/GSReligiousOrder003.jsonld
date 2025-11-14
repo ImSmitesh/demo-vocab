@@ -19,6 +19,17 @@
   "definition": {
     "de": "Die Karmeliter entstanden als eine kontemplativ geprägte Gemeinschaft lateinischer Eremiten auf dem Berg Karmel. Als die Kreuzzüge scheiterten, wanderten die Karmeliten nach Europa, wo der Bettelorden aufblühte. Einsamkeit, Enthaltsamkeit und Gebet wurden streng praktiziert. Sie erhielten zwischen 1206 und 1214 eine erste Regel. 1249 (Köln) und 1252 (Würzburg) entstanden die ersten Niederlassungen im deutschsprachigen Raum. Der reformierte Zweig wurde 1593 zu einem eigenen Orden, die Unbeschuhten Karmeliten (Ordo Carmelitarum Discalceatorum). Die beiden Ordenszweige bilden seither zwei selbständige Orden. Die Reformation führte zur Auflösung der böhmischen und sächsischen Provinzen, die ober- und niederdeutschen Provinzen überlebten und blieben bis zur Säkularisation bestehen."
   },
+  "narrower": [
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder133",
+      "prefLabel": {
+        "de": "Unbeschuhte Karmeliten",
+        "nl": "Ongeschoeide Karmeliten",
+        "en": "Discalced Carmelite Friars",
+        "la": "Ordo Carmelitarum Discalceatorum"
+      }
+    }
+  ],
   "broader": {
     "id": "https://w3id.org/gsord/resources/GSReligiousOrder108",
     "prefLabel": {

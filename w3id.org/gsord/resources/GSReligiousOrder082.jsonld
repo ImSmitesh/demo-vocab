@@ -18,13 +18,7 @@
   "definition": {
     "de": "Im weitesten Sinne liegen die Anfänge der Franziskaner-Terziarinnen in der Bußbewegung und im weiblichen Semireligiosentum des Mittelalters. Diese fanden eine franziskanische Organisation im sogenannten Dritten Orden. 1289 veröffentlichte Nikolaus IV. eine Regel für die in Gemeinschaft lebenden Terziaren und teilte den franziskanischen Dritten Orden in weltliche Terziaren und regulierte, die nach der Art der Ordensleute lebten. Leo X. veröffentlichte 1521 eine neue Regel für den regulierten Dritten Orden: strengere Verklösterlichung und Unterstellung aller Terziarinnen-Klöster unter den Franziskanerorden."
   },
-  "broader": {
-    "id": "https://w3id.org/gsord/resources/GSReligiousOrder108",
-    "prefLabel": {
-      "de": "Mendikantenorden"
-    }
-  },
-  "related": [
+  "narrower": [
     {
       "id": "https://w3id.org/gsord/resources/GSReligiousOrder097",
       "prefLabel": {
@@ -33,6 +27,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "https://w3id.org/gsord/resources/GSReligiousOrder108",
+    "prefLabel": {
+      "de": "Mendikantenorden"
+    }
+  },
   "exactMatch": [
     {
       "id": "https://database.factgrid.de/wiki/Item:Q1195157"

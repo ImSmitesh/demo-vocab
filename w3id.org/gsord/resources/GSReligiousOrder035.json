@@ -24,6 +24,12 @@
   "definition": {
     "de": "Kanonissen leben ohne Ordensgelübde oder Verzicht auf Privatbesitz in einer geistlichen Gemeinschaft. Im Bereich des Franken- und Sachsenreiches wurden Kanonissen-Konvente im 9. und 10. Jahrhundert von Familien oder einzelnen Frauen als Haus- und Grabstätten des Adels gegründet. Die Stifterfamilie stellte die dem Konvent vorstehende Äbtissin. Infolge der von den Bischöfen getragenen Reformbewegung des 11./12. Jahrhunderts mussten die Kanonissen entweder die Benedikt- oder die Augustinusregel annehmen. Nur wenige Stifte blieben in der freiweltlichen, nichtregulierten Form bestehen. Diese wurden seit dem Spätmittelalter Damenstifte genannt."
   },
+  "broader": {
+    "id": "https://w3id.org/gsord/resources/GSReligiousOrder116",
+    "prefLabel": {
+      "de": "Säkularkanoniker"
+    }
+  },
   "related": [
     {
       "id": "https://w3id.org/gsord/resources/GSReligiousOrder113",

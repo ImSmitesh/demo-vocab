@@ -21,20 +21,20 @@
   },
   "narrower": [
     {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder143",
+      "prefLabel": {
+        "de": "Klarissen-Kapuzinerinnen",
+        "fr": "Clarisses capucines",
+        "it": "Clarisse cappuccine"
+      }
+    },
+    {
       "id": "https://w3id.org/gsord/resources/GSReligiousOrder168",
       "prefLabel": {
         "de": "Kapuzinerinnen (Dritter Orden)",
         "la": "Tertius Ordo Regularis Capuccinarum",
         "fr": "Capucines",
         "it": "Cappuccine"
-      }
-    },
-    {
-      "id": "https://w3id.org/gsord/resources/GSReligiousOrder143",
-      "prefLabel": {
-        "de": "Klarissen-Kapuzinerinnen",
-        "fr": "Clarisses capucines",
-        "it": "Clarisse cappuccine"
       }
     }
   ],

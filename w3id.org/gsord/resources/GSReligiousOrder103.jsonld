@@ -24,17 +24,17 @@
   },
   "related": [
     {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder142",
+      "prefLabel": {
+        "de": "Kamaldulenser-Eremiten von Monte Corona"
+      }
+    },
+    {
       "id": "https://w3id.org/gsord/resources/GSReligiousOrder140",
       "prefLabel": {
         "de": "Kamaldulenserinnen",
         "en": "Camaldolese nuns",
         "la": "Congregatio Camaldulensis Ordinis Sancti Benedicti"
-      }
-    },
-    {
-      "id": "https://w3id.org/gsord/resources/GSReligiousOrder142",
-      "prefLabel": {
-        "de": "Kamaldulenser-Eremiten von Monte Corona"
       }
     }
   ],

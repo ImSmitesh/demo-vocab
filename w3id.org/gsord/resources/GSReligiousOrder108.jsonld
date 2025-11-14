@@ -29,6 +29,15 @@
       }
     },
     {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder032",
+      "prefLabel": {
+        "de": "Augustinereremitinnen",
+        "nl": "Conversinnen van Sint-Augustinus",
+        "en": "Converse Women of St Augustine",
+        "la": "Ordo Eremitarum Sancti Augustini"
+      }
+    },
+    {
       "id": "https://w3id.org/gsord/resources/GSReligiousOrder019",
       "prefLabel": {
         "de": "Klarissen",
@@ -96,6 +105,27 @@
         "nl": "Karmelitessen",
         "en": "Carmelite Sisters",
         "la": "Ordo Sororum Beatae Mariae Virginis de Monte Carmelo"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder091",
+      "prefLabel": {
+        "de": "Paulaner",
+        "la": "Ordo Minimorum"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder041",
+      "prefLabel": {
+        "de": "Serviten",
+        "nl": "Servieten van Maria",
+        "en": "Servites"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder042",
+      "prefLabel": {
+        "de": "Servitinnen"
       }
     }
   ],

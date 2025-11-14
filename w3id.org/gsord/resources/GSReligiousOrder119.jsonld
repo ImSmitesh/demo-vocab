@@ -11,6 +11,15 @@
       "Blaue Annanziatinnen"
     ]
   },
+  "broader": {
+    "id": "https://w3id.org/gsord/resources/GSReligiousOrder054",
+    "prefLabel": {
+      "de": "Annunziatinnen",
+      "nl": "Annunciaten",
+      "en": "Sisters of the Annunciation",
+      "la": "Ordo de Annuntiatione Beatae Mariae Virginis"
+    }
+  },
   "related": [
     {
       "id": "https://w3id.org/gsord/resources/GSReligiousOrder054",

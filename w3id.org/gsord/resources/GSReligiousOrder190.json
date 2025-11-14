@@ -1,20 +1,29 @@
 {
-  "id": "https://w3id.org/gsord/resources/GSReligiousOrder07",
+  "id": "https://w3id.org/gsord/resources/GSReligiousOrder190",
   "type": "Concept",
   "prefLabel": {
-    "de": "Franziskanerorden"
+    "de": "Cluniazenser"
   },
+  "broader": {
+    "id": "https://w3id.org/gsord/resources/GSReligiousOrder016",
+    "prefLabel": {
+      "de": "Benediktiner",
+      "nl": "Benedictijnen",
+      "en": "Benedictines",
+      "la": "Ordo Sancti Benedicti"
+    }
+  },
+  "exactMatch": [
+    {
+      "id": "https://database.factgrid.de/wiki/Item:Q394847"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://w3id.org/gsord/resources/"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://w3id.org/gsord/resources/"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://w3id.org/gsord/resources/"
     }

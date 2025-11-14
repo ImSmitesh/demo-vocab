@@ -27,6 +27,23 @@
         "en": "Antonines",
         "la": "Canonici Regulares Sancti Antonii"
       }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder095",
+      "prefLabel": {
+        "de": "Chorherren vom Heiligen Geist",
+        "nl": "Orde van de Heilige Geest van Montpellier",
+        "en": "Order of the Holy Ghost",
+        "la": "Ordo Hospitalarius de S. Spiritu"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder102",
+      "prefLabel": {
+        "de": "Hospitaliter vom heiligen Lazarus in Jerusalem",
+        "nl": "Lazarieten",
+        "en": "Knights of St Lazarus"
+      }
     }
   ],
   "broader": {

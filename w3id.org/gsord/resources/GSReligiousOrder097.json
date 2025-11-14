@@ -20,17 +20,15 @@
   "definition": {
     "de": "Die Elisabethinerinnen sind ein 1622 von Apollonia Radermecher gegründeter Frauenorden. Der Orden verbreitete sich schnell und wirkte vorbildlich in der Krankenpflege."
   },
-  "related": [
-    {
-      "id": "https://w3id.org/gsord/resources/GSReligiousOrder082",
-      "prefLabel": {
-        "de": "Franziskanerinnen der Dritten Regel",
-        "nl": "Tertiarissen",
-        "en": "Tertiaries",
-        "la": "Tertius Ordo Franciscanus"
-      }
+  "broader": {
+    "id": "https://w3id.org/gsord/resources/GSReligiousOrder082",
+    "prefLabel": {
+      "de": "Franziskanerinnen der Dritten Regel",
+      "nl": "Tertiarissen",
+      "en": "Tertiaries",
+      "la": "Tertius Ordo Franciscanus"
     }
-  ],
+  },
   "exactMatch": [
     {
       "id": "https://d-nb.info/gnd/4248105-3"

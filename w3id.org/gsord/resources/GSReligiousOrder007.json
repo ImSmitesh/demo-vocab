@@ -1,21 +1,15 @@
 {
-  "id": "https://w3id.org/gsord/resources/Cluniazenser",
+  "id": "https://w3id.org/gsord/resources/GSReligiousOrder007",
   "type": "Concept",
   "prefLabel": {
-    "de": "Cluniazenser"
+    "de": "Orden nach der Franziskaneregel"
   },
-  "broader": {
-    "id": "https://w3id.org/gsord/resources/GSReligiousOrder016",
-    "prefLabel": {
-      "de": "Benediktiner",
-      "nl": "Benedictijnen",
-      "en": "Benedictines",
-      "la": "Ordo Sancti Benedicti"
-    }
-  },
-  "exactMatch": [
+  "narrower": [
     {
-      "id": "https://database.factgrid.de/wiki/Item:Q394847"
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder167",
+      "prefLabel": {
+        "de": "Franziskaner"
+      }
     }
   ],
   "inScheme": [
@@ -24,6 +18,11 @@
     }
   ],
   "inSchemeAll": [
+    {
+      "id": "https://w3id.org/gsord/resources/"
+    }
+  ],
+  "topConceptOf": [
     {
       "id": "https://w3id.org/gsord/resources/"
     }

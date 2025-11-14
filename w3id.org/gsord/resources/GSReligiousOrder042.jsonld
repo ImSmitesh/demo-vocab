@@ -13,6 +13,12 @@
       "Ordo Servarum Mariae"
     ]
   },
+  "broader": {
+    "id": "https://w3id.org/gsord/resources/GSReligiousOrder108",
+    "prefLabel": {
+      "de": "Mendikantenorden"
+    }
+  },
   "related": [
     {
       "id": "https://w3id.org/gsord/resources/GSReligiousOrder041",

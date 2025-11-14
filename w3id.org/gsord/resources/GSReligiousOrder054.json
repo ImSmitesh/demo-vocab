@@ -23,6 +23,14 @@
       }
     },
     {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder119",
+      "prefLabel": {
+        "de": "Italienische Annunziatinnen",
+        "en": "Order of the Most Holy Annunciation",
+        "it": "Ordine della Santissima Annunziata"
+      }
+    },
+    {
       "id": "https://w3id.org/gsord/resources/GSReligiousOrder118",
       "prefLabel": {
         "de": "Lombardische Annunziatinnen"

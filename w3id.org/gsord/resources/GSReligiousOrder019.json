@@ -23,6 +23,14 @@
         "nl": "Caulieten",
         "en": "Caulites"
       }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder129",
+      "prefLabel": {
+        "de": "Pönitentinnen-Rekollektinnen",
+        "nl": "Penitenten Recollectinen",
+        "en": "Penitents-Recollectines"
+      }
     }
   ],
   "broader": {

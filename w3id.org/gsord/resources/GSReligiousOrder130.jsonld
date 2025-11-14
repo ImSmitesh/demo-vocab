@@ -53,11 +53,29 @@
       }
     },
     {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder001",
+      "prefLabel": {
+        "de": "Augustinerchorherren",
+        "nl": "Regulieren van Sint-Augustin",
+        "en": "Canons Regular of St Augustine",
+        "la": "Canonici Augustiniani"
+      }
+    },
+    {
       "id": "https://w3id.org/gsord/resources/GSReligiousOrder036",
       "prefLabel": {
         "de": "Augustinereremiten",
         "nl": "Augustijner eremieten",
         "en": "Austin Friars",
+        "la": "Ordo Eremitarum Sancti Augustini"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder032",
+      "prefLabel": {
+        "de": "Augustinereremitinnen",
+        "nl": "Conversinnen van Sint-Augustinus",
+        "en": "Converse Women of St Augustine",
         "la": "Ordo Eremitarum Sancti Augustini"
       }
     },
@@ -76,6 +94,31 @@
         "de": "Chorherren vom Heiligen Grab",
         "nl": "Sepulcrijnen",
         "en": "Canons Regular of the Holy Sepulchre"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder021",
+      "prefLabel": {
+        "de": "Ursulinen",
+        "nl": "Ursulinen",
+        "en": "Ursulines",
+        "la": "Ordo Sanctae Ursulae"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder085",
+      "prefLabel": {
+        "de": "Pauliner-Eremiten",
+        "en": "Order of Saint Paul the First Hermit",
+        "la": "Ordo Fratrum Sancti Pauli Primi Eremitae"
+      }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder041",
+      "prefLabel": {
+        "de": "Serviten",
+        "nl": "Servieten van Maria",
+        "en": "Servites"
       }
     }
   ],

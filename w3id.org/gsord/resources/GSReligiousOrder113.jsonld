@@ -18,6 +18,12 @@
       }
     },
     {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder096",
+      "prefLabel": {
+        "de": "Theatiner"
+      }
+    },
+    {
       "id": "https://w3id.org/gsord/resources/GSReligiousOrder025",
       "prefLabel": {
         "de": "Augustinerchorfrauen",
@@ -52,6 +58,15 @@
       }
     },
     {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder095",
+      "prefLabel": {
+        "de": "Chorherren vom Heiligen Geist",
+        "nl": "Orde van de Heilige Geest van Montpellier",
+        "en": "Order of the Holy Ghost",
+        "la": "Ordo Hospitalarius de S. Spiritu"
+      }
+    },
+    {
       "id": "https://w3id.org/gsord/resources/GSReligiousOrder022",
       "prefLabel": {
         "de": "Deutscher Orden",
@@ -76,12 +91,6 @@
         "nl": "Kruisheren",
         "en": "Croziers",
         "la": "Ordo Sanctae Crucis"
-      }
-    },
-    {
-      "id": "https://w3id.org/gsord/resources/GSReligiousOrder096",
-      "prefLabel": {
-        "de": "Theatiner"
       }
     },
     {

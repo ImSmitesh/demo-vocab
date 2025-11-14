@@ -34,6 +34,15 @@
         "nl": "Kapucijnen",
         "en": "Capuchins"
       }
+    },
+    {
+      "id": "https://w3id.org/gsord/resources/GSReligiousOrder168",
+      "prefLabel": {
+        "de": "Kapuzinerinnen (Dritter Orden)",
+        "la": "Tertius Ordo Regularis Capuccinarum",
+        "fr": "Capucines",
+        "it": "Cappuccine"
+      }
     }
   ],
   "closeMatch": [
